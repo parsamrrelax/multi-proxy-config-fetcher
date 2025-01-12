@@ -2,105 +2,111 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 //profile-web-page-url: https://github.com/parsamrrelax
-hysteria2://462a8e99-f369-469d-bd5b-ffbb9c3e5c7e@hk2.xiaofeixia.cyou:2052?security=tls&insecure=1&sni=hk2.xiaofeixia.cyou#LkE9nvWt
+hysteria2://462a8e99-f369-469d-bd5b-ffbb9c3e5c7e@hk2.xiaofeixia.cyou:2052?security=tls&insecure=1&sni=hk2.xiaofeixia.cyou#RmnOLmCm
 
-hysteria2://65bdc8fb-7cc5-44df-83c8-7963c5ac8193@212.192.15.222:443?security=tls&insecure=1&mport=50000-53000&sni=api.push.apple.com#WCNWFy1k
+hysteria2://462a8e99-f369-469d-bd5b-ffbb9c3e5c7e@yd1.xiaofeixia.cyou:2052?security=tls&insecure=1&sni=yd1.xiaofeixia.cyou#8oD4ELnd
 
-hysteria2://65bdc8fb-7cc5-44df-83c8-7963c5ac8193@91.149.203.119:443?security=tls&insecure=1&mport=50000-53000&sni=api.push.apple.com#YEkWTLWP
+hysteria2://4e9ee29b39a28277@[2001:19f0:1000:20d0:5400:5ff:fe19:3ba9]:443?security=tls&obfs=salamander&obfs-password=13f7ba5f&insecure=1&sni=%5B2001%3A19f0%3A1000%3A20d0%3A5400%3A5ff%3Afe19%3A3ba9%5D#rRdNi5cI
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Z01yQWlYYlh0bDJqcFZpU3p6OGFF@184.72.102.41:18578/?POST%20#MztAU14I
+hysteria2://65bdc8fb-7cc5-44df-83c8-7963c5ac8193@212.192.15.222:443?security=tls&insecure=1&mport=50000-53000&sni=api.push.apple.com#5y7ZuUWn
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Z01yQWlYYlh0bDJqcFZpU3p6OGFF@184.72.102.41:18578/?POST%20#WCuwFNPN
+hysteria2://65bdc8fb-7cc5-44df-83c8-7963c5ac8193@91.149.203.119:443?security=tls&insecure=1&mport=50000-53000&sni=api.push.apple.com#9qHf7Zxt
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5OVQ2UTZRZ3JJMzM1UmZqeWgzNWdj@54.174.49.220:65325/?POST%20#91S5cHG0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Z01yQWlYYlh0bDJqcFZpU3p6OGFF@184.72.102.41:18578/?POST%20#D8el60jk
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5OVQ2UTZRZ3JJMzM1UmZqeWgzNWdj@54.174.49.220:65325/?POST%20#HkfqNfYX
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Z01yQWlYYlh0bDJqcFZpU3p6OGFF@184.72.102.41:18578/?POST%20#H1DRE345
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#xQvQ8Bg5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5OVQ2UTZRZ3JJMzM1UmZqeWgzNWdj@54.174.49.220:65325/?POST%20#a1gnqWvf
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig59.usecharge.ir:443#CAYBHq5a
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5OVQ2UTZRZ3JJMzM1UmZqeWgzNWdj@54.174.49.220:65325/?POST%20#g49F3MpH
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig61.usecharge.ir:443#SRoqi0rg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#MdpSWmTh
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#EQHnwy6I
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig59.usecharge.ir:443#vE8q6B8i
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRRQHNlcmllcy1hMi1tZS52YXJ6ZXNoMzYwLmNvOjQ0Mw==#vVB0yBMu
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig61.usecharge.ir:443#iCYTj37U
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig58.usecharge.ir:443#MFQ9j8Ep
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#yd0cWAj3
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#MWVv5cv1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRRQHNlcmllcy1hMi1tZS52YXJ6ZXNoMzYwLmNvOjQ0Mw==#8wQY51VQ
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1ZnQHNlcmllcy1hMi5zYW1hbmVoaGEuY286NDQz#uDLNF1m9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig58.usecharge.ir:443#4yV68et6
 
-ss://YWVzLTI1Ni1nY206QVliRkwzOWJuNEVmRFhmRGJ1ZWFtTg%3D%3D@62.60.233.72:33155#3pXFrofy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#TdMeAY4I
 
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAzOC4xMTAuMS4xMTE6ODAwMA==#WBDcGFSC
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1ZnQHNlcmllcy1hMi5zYW1hbmVoaGEuY286NDQz#lFy9XvJ0
 
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3QDM4LjExMC4xLjUxOjgwOTA=#IX9rLQHG
+ss://YWVzLTI1Ni1nY206QVliRkwzOWJuNEVmRFhmRGJ1ZWFtTg%3D%3D@62.60.233.72:33155#jkMO1iLl
 
-trojan://telegram-id-privatevpns@13.36.215.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#yqVjAYlF
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAzOC4xMTAuMS4xMTE6ODAwMA==#kgXVjrw4
 
-trojan://telegram-id-privatevpns@13.39.0.92:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#sAZtamBV
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3QDM4LjExMC4xLjUxOjgwOTA=#TNl2sFmR
 
-trojan://telegram-id-privatevpns@13.41.129.7:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#WHztLHeE
+trojan://telegram-id-privatevpns@13.36.215.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#GYnAe2Bw
 
-trojan://telegram-id-privatevpns@13.41.18.8:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#l2rsH3ni
+trojan://telegram-id-privatevpns@13.39.0.92:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#6yktDmoS
 
-trojan://telegram-id-privatevpns@13.50.218.233:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#hvJyuoOW
+trojan://telegram-id-privatevpns@13.41.129.7:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#uxYTteL5
 
-trojan://telegram-id-privatevpns@13.50.80.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#IOLFT7je
+trojan://telegram-id-privatevpns@13.41.18.8:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#q5QqecvH
 
-trojan://telegram-id-privatevpns@3.124.251.164:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#MlTBSSl3
+trojan://telegram-id-privatevpns@13.50.218.233:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#pdVXoNwX
 
-trojan://telegram-id-privatevpns@3.76.183.179:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Lih36r8y
+trojan://telegram-id-privatevpns@13.50.80.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#LdN4DXDL
 
-trojan://telegram-id-privatevpns@3.9.199.198:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#GEbWsNsN
+trojan://telegram-id-privatevpns@3.76.183.179:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#eb0lCJcb
 
-trojan://telegram-id-privatevpns@35.158.80.70:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#W23MN8rB
+trojan://telegram-id-privatevpns@3.9.199.198:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#vMwVjFW9
 
-trojan://telegram-id-privatevpns@35.181.242.100:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#EPDJ9RV3
+trojan://telegram-id-privatevpns@35.158.80.70:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#sNSQGxBy
 
-trojan://telegram-id-privatevpns@35.181.68.177:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#krA14Lup
+trojan://telegram-id-privatevpns@35.181.68.177:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#d64qAIHW
 
-trojan://telegram-id-privatevpns@46.137.81.117:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#BWcgGapO
+trojan://telegram-id-privatevpns@46.137.81.117:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#iTJKs06c
 
-trojan://telegram-id-privatevpns@51.24.47.187:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#pT0SKK8T
+trojan://telegram-id-privatevpns@51.24.47.187:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#MCvlrDh8
 
-trojan://telegram-id-privatevpns@54.73.96.17:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#czEA0adO
+trojan://telegram-id-privatevpns@52.208.78.15:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#XCdETdSs
 
-vless://Bia--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=karafarini.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#Izh3tmmM
+trojan://telegram-id-privatevpns@54.72.188.173:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Pc2Dk0SP
 
-vless://Bia--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=prisons.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#A7Meytgv
+trojan://telegram-id-privatevpns@54.73.96.17:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#kMwuA08c
 
-vless://Biain--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=karafarini.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#ycDX5cTJ
+vless://Bia--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=karafarini.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#GInhKBJw
 
-vless://Biain--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=prisons.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#gdrjbw36
+vless://Bia--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=prisons.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#TbHKjfve
 
-vless://Join--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=niopdc.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#jJRyTXvv
+vless://Biain--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=karafarini.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#OrINJ2P7
 
-vless://Join--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=rmto.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#iy0REqt1
+vless://Biain--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=prisons.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#Qi94H1EV
 
-vless://Joinin--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=niopdc.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#nkuBDgQd
+vless://Join--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=niopdc.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#7448SXvW
 
-vless://Parsashonam-143@[2a01:4f8:1c1b:26eb::1]:8888?security=none&encryption=none&headerType=none&type=tcp#nIJ2dFCv
+vless://Join--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=rmto.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#s3hbOXwT
 
-vless://Parsashonam-144@[2a01:4f8:1c1b:26eb::1]:8888?security=none&encryption=none&headerType=none&type=tcp#RXQbeaLv
+vless://Joinin--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=niopdc.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#mVUC4J9j
 
-vless://Parsashonam-145@[2a01:4f8:1c1b:26eb::1]:8888?security=none&encryption=none&headerType=none&type=tcp#CJX4DLAa
+vless://Parsashonam-143@[2a01:4f8:1c1b:26eb::1]:8888?security=none&encryption=none&headerType=none&type=tcp#K5IysS76
 
-vless://ac6b3d48-d16f-4125-9f17-d986541a3ee9@web.bbv2ry.pics:443?type=ws&path=/&host=Sky2.bbv2ry.pics&security=tls&fp=chrome&alpn=http/1.1,h2&sni=Sky2.bbv2ry.pics#YF1TOvKT
+vless://Parsashonam-144@[2a01:4f8:1c1b:26eb::1]:8888?security=none&encryption=none&headerType=none&type=tcp#orkZaYR2
 
-vless://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=isipo.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#wxnkwB4Y
+vless://Parsashonam-145@[2a01:4f8:1c1b:26eb::1]:8888?security=none&encryption=none&headerType=none&type=tcp#QLHMPXUc
 
-vless://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=sabteahval.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#KmQ0ebXY
+vless://ac6b3d48-d16f-4125-9f17-d986541a3ee9@web.bbv2ry.pics:443?type=ws&path=/&host=Sky2.bbv2ry.pics&security=tls&fp=chrome&alpn=http/1.1,h2&sni=Sky2.bbv2ry.pics#4Fl86Hlq
 
-vless://tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=gsi.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#MPC8vAaZ
+vless://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=isipo.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#X7T8pXF0
 
-vless://tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=sabteahval.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#Hv475WwD
+vless://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=sabteahval.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#Xwqa37nN
 
-wireguard://6Lp2lSIfvQ5hHsOcegmugXItR7fmDiC0QJIdhLHQkmY%3D@188.114.97.105:3476?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=192%2C44%2C135&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#PnsBB0ZO
+vless://tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=gsi.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#m3he1uYP
 
-wireguard://CFx5a%2BH2JC3mc2OCa21AgH%2BDxz51%2FgNzJSsLgYos%2BE4%3D@188.114.98.251:8854?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A89ec%3A5d4%3Abc67%3Ace4b%3A6587%2F128&presharedkey=&reserved=106%2C207%2C207&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#1jLJzsxr
+vless://tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=sabteahval.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#km8JSJJA
 
-wireguard://CFx5a%2BH2JC3mc2OCa21AgH%2BDxz51%2FgNzJSsLgYos%2BE4%3D@188.114.98.251:8854?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A89ec%3A5d4%3Abc67%3Ace4b%3A6587%2F128&reserved=106%2C207%2C207&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#Mc2HZc2f
+wireguard://4IgpNhoHRZvCCj3OZUjna1ojOyd4KitJqqlfsHb7JX0%3D@162.159.192.234:4198?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=14%2C207%2C119&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#KFgSrDBB
+
+wireguard://CFx5a%2BH2JC3mc2OCa21AgH%2BDxz51%2FgNzJSsLgYos%2BE4%3D@188.114.98.251:8854?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A89ec%3A5d4%3Abc67%3Ace4b%3A6587%2F128&presharedkey=&reserved=106%2C207%2C207&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#BUkzOkoE
+
+wireguard://CFx5a%2BH2JC3mc2OCa21AgH%2BDxz51%2FgNzJSsLgYos%2BE4%3D@188.114.98.251:8854?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A89ec%3A5d4%3Abc67%3Ace4b%3A6587%2F128&reserved=106%2C207%2C207&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#TfnARcEk
+
+wireguard://GCgPg8YiPZiXs%2B2qK6zC8xFsYBflnKv992g0sos6jGM%3D@162.159.192.177:8854?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=110%2C183%2C124&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#neFCtvIL
 
