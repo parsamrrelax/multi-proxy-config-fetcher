@@ -9,6 +9,8 @@ import requests
 from bs4 import BeautifulSoup
 from config import ProxyConfig, ChannelConfig
 from config_validator import ConfigValidator
+import random
+import string
 
 logging.basicConfig(
     level=logging.INFO,
@@ -202,20 +204,30 @@ class ConfigFetcher:
             return all_configs
         return []
 
+def generate_random_string(length=8):
+    """Generate a random string of fixed length"""
+    return ''.join(random.choices(string.ascii_letters + string.digits, k=length))
+
+def anonymize_config(config: str) -> str:
+    """Replace everything after # with a random string"""
+    if '#' in config:
+        base_config = config.split('#')[0]
+        return f"{base_config}#{generate_random_string()}"
+    return config
+
 def save_configs(configs: List[str], config: ProxyConfig):
     try:
         os.makedirs(os.path.dirname(config.OUTPUT_FILE), exist_ok=True)
         with open(config.OUTPUT_FILE, 'w', encoding='utf-8') as f:
-            header = """//profile-title: base64:8J+RvUFub255bW91cyhNLlAuQy5GKQ==
+            header = """//profile-title: base64:8J+NhldhcnDwn42G
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-//support-url: https://t.me/BXAMbot
-//profile-web-page-url: https://github.com/4n0nymou3
-
+//profile-web-page-url: https://github.com/parsamrrelax
 """
             f.write(header)
-            for config in configs:
-                f.write(config + '\n\n')
+            for config_str in configs:
+                anonymized_config = anonymize_config(config_str)
+                f.write(anonymized_config + '\n\n')
         logger.info(f"Successfully saved {len(configs)} configs to {config.OUTPUT_FILE}")
     except Exception as e:
         logger.error(f"Error saving configs: {str(e)}")
