@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-13T18:35:07.672151",
+  "timestamp": "2025-01-13T19:20:57.331872",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -36,11 +36,11 @@
         "total_configs": 1638,
         "valid_configs": 46,
         "unique_configs": 38,
-        "avg_response_time": 0.04,
+        "avg_response_time": 0.2,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 71.29,
-        "last_success": "2025-01-13T18:32:19.477034"
+        "overall_score": 71.05,
+        "last_success": "2025-01-13T19:17:58.226891"
       }
     },
     {
@@ -159,7 +159,7 @@
       "url": "https://t.me/s/prrofile_purple",
       "enabled": false,
       "metrics": {
-        "total_configs": 351,
+        "total_configs": 348,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -190,11 +190,11 @@
         "total_configs": 113,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 0.63,
+        "avg_response_time": 0.58,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.16,
-        "last_success": "2025-01-13T18:34:18.409537"
+        "overall_score": 75.23,
+        "last_success": "2025-01-13T19:20:08.195837"
       }
     },
     {
