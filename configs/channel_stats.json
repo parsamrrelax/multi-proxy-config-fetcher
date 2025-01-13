@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-13T06:35:58.442553",
+  "timestamp": "2025-01-13T07:25:13.727125",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -36,11 +36,11 @@
         "total_configs": 1683,
         "valid_configs": 46,
         "unique_configs": 38,
-        "avg_response_time": 0.34,
+        "avg_response_time": 0.13,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 70.83,
-        "last_success": "2025-01-13T06:32:56.480051"
+        "overall_score": 71.15,
+        "last_success": "2025-01-13T07:22:18.207761"
       }
     },
     {
@@ -91,7 +91,7 @@
       "metrics": {
         "total_configs": 60,
         "valid_configs": 18,
-        "unique_configs": 4,
+        "unique_configs": 3,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -243,7 +243,7 @@
       "url": "https://t.me/s/VmessProtocol",
       "enabled": true,
       "metrics": {
-        "total_configs": 54,
+        "total_configs": 57,
         "valid_configs": 6,
         "unique_configs": 2,
         "avg_response_time": 0,
