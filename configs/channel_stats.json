@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-14T12:45:11.683729",
+  "timestamp": "2025-01-14T13:28:16.268254",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -36,11 +36,11 @@
         "total_configs": 1619,
         "valid_configs": 46,
         "unique_configs": 38,
-        "avg_response_time": 0.5,
+        "avg_response_time": 0.07,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 70.62,
-        "last_success": "2025-01-14T12:41:58.541708"
+        "overall_score": 71.26,
+        "last_success": "2025-01-14T13:25:21.425381"
       }
     },
     {
@@ -91,7 +91,7 @@
       "metrics": {
         "total_configs": 60,
         "valid_configs": 9,
-        "unique_configs": 1,
+        "unique_configs": 2,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -187,14 +187,14 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": true,
       "metrics": {
-        "total_configs": 88,
+        "total_configs": 86,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 0.57,
+        "avg_response_time": 0.65,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.57,
-        "last_success": "2025-01-14T12:44:07.365960"
+        "overall_score": 75.48,
+        "last_success": "2025-01-14T13:27:28.209936"
       }
     },
     {
@@ -241,15 +241,15 @@
     },
     {
       "url": "https://t.me/s/VmessProtocol",
-      "enabled": true,
+      "enabled": false,
       "metrics": {
         "total_configs": 84,
-        "valid_configs": 6,
-        "unique_configs": 2,
+        "valid_configs": 0,
+        "unique_configs": 0,
         "avg_response_time": 0,
         "success_count": 0,
-        "fail_count": 0,
-        "overall_score": 0.0,
+        "fail_count": 1,
+        "overall_score": 15.0,
         "last_success": null
       }
     }
