@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-14T07:22:44.396526",
+  "timestamp": "2025-01-14T08:30:37.357867",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -33,14 +33,14 @@
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1589,
+        "total_configs": 1590,
         "valid_configs": 46,
         "unique_configs": 38,
-        "avg_response_time": 0.04,
+        "avg_response_time": 0.31,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 71.31,
-        "last_success": "2025-01-14T07:19:38.960369"
+        "overall_score": 70.91,
+        "last_success": "2025-01-14T08:27:46.349701"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": false,
       "metrics": {
-        "total_configs": 54,
+        "total_configs": 51,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -187,14 +187,14 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": true,
       "metrics": {
-        "total_configs": 112,
+        "total_configs": 115,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 0.73,
+        "avg_response_time": 0.61,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.02,
-        "last_success": "2025-01-14T07:21:55.506208"
+        "overall_score": 75.18,
+        "last_success": "2025-01-14T08:29:49.078509"
       }
     },
     {
@@ -243,7 +243,7 @@
       "url": "https://t.me/s/VmessProtocol",
       "enabled": true,
       "metrics": {
-        "total_configs": 72,
+        "total_configs": 84,
         "valid_configs": 6,
         "unique_configs": 2,
         "avg_response_time": 0,
