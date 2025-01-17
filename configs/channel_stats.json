@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-17T09:25:44.779021",
+  "timestamp": "2025-01-17T10:25:55.091776",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -33,14 +33,14 @@
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1476,
+        "total_configs": 1466,
         "valid_configs": 51,
         "unique_configs": 38,
-        "avg_response_time": 0.33,
+        "avg_response_time": 0.12,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 68.99,
-        "last_success": "2025-01-17T09:22:19.221493"
+        "overall_score": 69.32,
+        "last_success": "2025-01-17T10:22:51.972999"
       }
     },
     {
@@ -187,7 +187,7 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": false,
       "metrics": {
-        "total_configs": 213,
+        "total_configs": 201,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -243,7 +243,7 @@
       "url": "https://t.me/s/VmessProtocol",
       "enabled": false,
       "metrics": {
-        "total_configs": 129,
+        "total_configs": 183,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
