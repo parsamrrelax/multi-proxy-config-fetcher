@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-20T21:22:39.537132",
+  "timestamp": "2025-01-20T22:23:41.937575",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -20,13 +20,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 61,
-        "valid_configs": 7,
-        "unique_configs": 7,
-        "avg_response_time": 0.17,
+        "valid_configs": 9,
+        "unique_configs": 9,
+        "avg_response_time": 0.1,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.61,
-        "last_success": "2025-01-20T21:19:19.781449"
+        "overall_score": 78.54,
+        "last_success": "2025-01-20T22:20:03.487308"
       }
     },
     {
@@ -34,20 +34,20 @@
       "enabled": true,
       "metrics": {
         "total_configs": 1515,
-        "valid_configs": 98,
-        "unique_configs": 49,
-        "avg_response_time": 0.21,
+        "valid_configs": 96,
+        "unique_configs": 47,
+        "avg_response_time": 0.12,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.81,
-        "last_success": "2025-01-20T21:19:20.661271"
+        "overall_score": 63.64,
+        "last_success": "2025-01-20T22:20:04.282522"
       }
     },
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": false,
       "metrics": {
-        "total_configs": 60,
+        "total_configs": 90,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -90,13 +90,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 5,
+        "valid_configs": 6,
         "unique_configs": 5,
-        "avg_response_time": 0.62,
+        "avg_response_time": 0.58,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 80.33,
-        "last_success": "2025-01-20T21:20:07.170857"
+        "overall_score": 77.46,
+        "last_success": "2025-01-20T22:20:40.139399"
       }
     },
     {
