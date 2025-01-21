@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-21T20:26:44.479400",
+  "timestamp": "2025-01-21T21:23:11.239110",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -20,34 +20,34 @@
       "enabled": true,
       "metrics": {
         "total_configs": 69,
-        "valid_configs": 10,
-        "unique_configs": 9,
-        "avg_response_time": 0.09,
+        "valid_configs": 9,
+        "unique_configs": 8,
+        "avg_response_time": 0.04,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.99,
-        "last_success": "2025-01-21T20:23:24.080931"
+        "overall_score": 75.42,
+        "last_success": "2025-01-21T21:20:09.569289"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1374,
-        "valid_configs": 97,
-        "unique_configs": 47,
-        "avg_response_time": 0.11,
+        "total_configs": 1371,
+        "valid_configs": 98,
+        "unique_configs": 48,
+        "avg_response_time": 0.05,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.72,
-        "last_success": "2025-01-21T20:23:24.764830"
+        "overall_score": 63.96,
+        "last_success": "2025-01-21T21:20:10.194019"
       }
     },
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": false,
       "metrics": {
-        "total_configs": 120,
+        "total_configs": 90,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -90,8 +90,8 @@
       "enabled": true,
       "metrics": {
         "total_configs": 60,
-        "valid_configs": 18,
-        "unique_configs": 4,
+        "valid_configs": 12,
+        "unique_configs": 3,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -187,14 +187,14 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": true,
       "metrics": {
-        "total_configs": 106,
+        "total_configs": 115,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 0.37,
+        "avg_response_time": 0.42,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.62,
-        "last_success": "2025-01-21T20:25:50.820794"
+        "overall_score": 75.46,
+        "last_success": "2025-01-21T21:22:19.782274"
       }
     },
     {
