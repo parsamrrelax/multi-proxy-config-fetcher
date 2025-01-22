@@ -68,6 +68,7 @@ class ProxyConfig:
             ChannelConfig("https://t.me/s/DirectVPN"),
             ChannelConfig("https://t.me/s/Parsashonam"),
             ChannelConfig("https://t.me/s/ArV2ray"),
+            ChannelConfig("https://t.me/inikotesla"),
             ChannelConfig("https://t.me/s/VmessProtocol")
         ]
 
