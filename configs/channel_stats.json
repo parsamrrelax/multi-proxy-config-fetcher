@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-23T07:25:39.384379",
+  "timestamp": "2025-01-23T08:31:50.234683",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -20,27 +20,27 @@
       "enabled": true,
       "metrics": {
         "total_configs": 76,
-        "valid_configs": 11,
-        "unique_configs": 10,
-        "avg_response_time": 0.03,
+        "valid_configs": 10,
+        "unique_configs": 9,
+        "avg_response_time": 0.17,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.3,
-        "last_success": "2025-01-23T07:21:42.086866"
+        "overall_score": 75.54,
+        "last_success": "2025-01-23T08:28:01.612681"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1535,
-        "valid_configs": 97,
-        "unique_configs": 46,
-        "avg_response_time": 0.17,
+        "total_configs": 1510,
+        "valid_configs": 98,
+        "unique_configs": 47,
+        "avg_response_time": 0.33,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.18,
-        "last_success": "2025-01-23T07:21:42.996498"
+        "overall_score": 63.12,
+        "last_success": "2025-01-23T08:28:02.661143"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": false,
       "metrics": {
-        "total_configs": 54,
+        "total_configs": 51,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -89,8 +89,8 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": true,
       "metrics": {
-        "total_configs": 57,
-        "valid_configs": 9,
+        "total_configs": 54,
+        "valid_configs": 12,
         "unique_configs": 3,
         "avg_response_time": 0,
         "success_count": 0,
@@ -117,7 +117,7 @@
       "url": "https://t.me/s/ShadowProxy66",
       "enabled": false,
       "metrics": {
-        "total_configs": 402,
+        "total_configs": 231,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -190,11 +190,11 @@
         "total_configs": 94,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 4.3,
+        "avg_response_time": 6.51,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 69.88,
-        "last_success": "2025-01-23T07:24:36.764626"
+        "overall_score": 66.56,
+        "last_success": "2025-01-23T08:30:36.546011"
       }
     },
     {
