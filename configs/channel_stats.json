@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-23T10:29:44.730263",
+  "timestamp": "2025-01-23T11:22:02.877308",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -22,32 +22,32 @@
         "total_configs": 77,
         "valid_configs": 12,
         "unique_configs": 11,
-        "avg_response_time": 0.19,
+        "avg_response_time": 0.03,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.53,
-        "last_success": "2025-01-23T10:25:19.989172"
+        "overall_score": 76.76,
+        "last_success": "2025-01-23T11:18:14.722193"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1509,
+        "total_configs": 1513,
         "valid_configs": 96,
         "unique_configs": 45,
-        "avg_response_time": 0.32,
+        "avg_response_time": 0.04,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 62.83,
-        "last_success": "2025-01-23T10:25:21.145424"
+        "overall_score": 63.24,
+        "last_success": "2025-01-23T11:18:15.486501"
       }
     },
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": false,
       "metrics": {
-        "total_configs": 198,
+        "total_configs": 168,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -89,9 +89,9 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": true,
       "metrics": {
-        "total_configs": 51,
+        "total_configs": 54,
         "valid_configs": 9,
-        "unique_configs": 2,
+        "unique_configs": 3,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -187,7 +187,7 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": true,
       "metrics": {
-        "total_configs": 180,
+        "total_configs": 177,
         "valid_configs": 12,
         "unique_configs": 4,
         "avg_response_time": 0,
@@ -257,7 +257,7 @@
       "url": "https://t.me/s/VmessProtocol",
       "enabled": true,
       "metrics": {
-        "total_configs": 108,
+        "total_configs": 93,
         "valid_configs": 1,
         "unique_configs": 1,
         "avg_response_time": 0,
