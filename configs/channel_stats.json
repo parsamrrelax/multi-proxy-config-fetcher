@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-23T01:46:13.403384",
+  "timestamp": "2025-01-23T02:51:39.843012",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -20,13 +20,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 79,
-        "valid_configs": 13,
-        "unique_configs": 12,
-        "avg_response_time": 0.2,
+        "valid_configs": 12,
+        "unique_configs": 11,
+        "avg_response_time": 0.1,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.89,
-        "last_success": "2025-01-23T01:43:10.663043"
+        "overall_score": 76.56,
+        "last_success": "2025-01-23T02:48:32.816013"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 1390,
-        "valid_configs": 94,
-        "unique_configs": 44,
-        "avg_response_time": 0.29,
+        "valid_configs": 95,
+        "unique_configs": 45,
+        "avg_response_time": 0.09,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 62.95,
-        "last_success": "2025-01-23T01:43:11.555664"
+        "overall_score": 63.41,
+        "last_success": "2025-01-23T02:48:33.510507"
       }
     },
     {
@@ -90,8 +90,8 @@
       "enabled": true,
       "metrics": {
         "total_configs": 57,
-        "valid_configs": 6,
-        "unique_configs": 2,
+        "valid_configs": 3,
+        "unique_configs": 1,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -190,11 +190,11 @@
         "total_configs": 94,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 0.56,
+        "avg_response_time": 0.53,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.48,
-        "last_success": "2025-01-23T01:45:13.287324"
+        "overall_score": 75.54,
+        "last_success": "2025-01-23T02:50:37.527424"
       }
     },
     {
