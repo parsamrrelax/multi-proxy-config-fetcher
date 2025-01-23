@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-23T14:24:45.963817",
+  "timestamp": "2025-01-23T15:28:16.782088",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -22,25 +22,25 @@
         "total_configs": 76,
         "valid_configs": 12,
         "unique_configs": 11,
-        "avg_response_time": 0.1,
+        "avg_response_time": 0.03,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.72,
-        "last_success": "2025-01-23T14:20:32.855752"
+        "overall_score": 76.82,
+        "last_success": "2025-01-23T15:23:30.171802"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1508,
+        "total_configs": 1453,
         "valid_configs": 96,
         "unique_configs": 45,
-        "avg_response_time": 0.11,
+        "avg_response_time": 0.21,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.14,
-        "last_success": "2025-01-23T14:20:33.686745"
+        "overall_score": 63.06,
+        "last_success": "2025-01-23T15:23:31.055379"
       }
     },
     {
@@ -90,13 +90,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 19,
-        "valid_configs": 9,
-        "unique_configs": 6,
-        "avg_response_time": 0.49,
+        "valid_configs": 7,
+        "unique_configs": 5,
+        "avg_response_time": 0.62,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.77,
-        "last_success": "2025-01-23T14:21:19.145573"
+        "overall_score": 76.13,
+        "last_success": "2025-01-23T15:24:27.511676"
       }
     },
     {
@@ -131,7 +131,7 @@
       "url": "https://t.me/s/OutlineReleasedKey",
       "enabled": false,
       "metrics": {
-        "total_configs": 51,
+        "total_configs": 54,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -173,7 +173,7 @@
       "url": "https://t.me/s/proxy_shadosocks",
       "enabled": false,
       "metrics": {
-        "total_configs": 45,
+        "total_configs": 39,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
