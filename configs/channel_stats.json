@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-24T07:24:27.652142",
+  "timestamp": "2025-01-24T08:31:24.500174",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -19,28 +19,28 @@
       "url": "https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 64,
-        "valid_configs": 9,
-        "unique_configs": 9,
-        "avg_response_time": 0.11,
+        "total_configs": 67,
+        "valid_configs": 10,
+        "unique_configs": 10,
+        "avg_response_time": 0.08,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.35,
-        "last_success": "2025-01-24T07:20:05.458498"
+        "overall_score": 78.61,
+        "last_success": "2025-01-24T08:27:25.279888"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1252,
-        "valid_configs": 100,
-        "unique_configs": 47,
-        "avg_response_time": 0.13,
+        "total_configs": 1253,
+        "valid_configs": 99,
+        "unique_configs": 46,
+        "avg_response_time": 0.1,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.55,
-        "last_success": "2025-01-24T07:20:06.067556"
+        "overall_score": 63.45,
+        "last_success": "2025-01-24T08:27:25.855718"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": false,
       "metrics": {
-        "total_configs": 54,
+        "total_configs": 51,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -89,9 +89,9 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": true,
       "metrics": {
-        "total_configs": 60,
-        "valid_configs": 3,
-        "unique_configs": 1,
+        "total_configs": 54,
+        "valid_configs": 6,
+        "unique_configs": 2,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -117,7 +117,7 @@
       "url": "https://t.me/s/ShadowProxy66",
       "enabled": false,
       "metrics": {
-        "total_configs": 318,
+        "total_configs": 144,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
