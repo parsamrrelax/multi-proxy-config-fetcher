@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-24T04:29:53.461731",
+  "timestamp": "2025-01-24T05:25:07.966406",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -22,11 +22,11 @@
         "total_configs": 64,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.1,
+        "avg_response_time": 0.17,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.36,
-        "last_success": "2025-01-24T04:25:56.814820"
+        "overall_score": 78.26,
+        "last_success": "2025-01-24T05:20:54.647591"
       }
     },
     {
@@ -36,11 +36,11 @@
         "total_configs": 1332,
         "valid_configs": 100,
         "unique_configs": 47,
-        "avg_response_time": 0.31,
+        "avg_response_time": 0.09,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.16,
-        "last_success": "2025-01-24T04:25:57.681169"
+        "overall_score": 63.49,
+        "last_success": "2025-01-24T05:20:55.297852"
       }
     },
     {
@@ -75,7 +75,7 @@
       "url": "https://t.me/s/v2Source",
       "enabled": false,
       "metrics": {
-        "total_configs": 63,
+        "total_configs": 60,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -90,8 +90,8 @@
       "enabled": true,
       "metrics": {
         "total_configs": 60,
-        "valid_configs": 15,
-        "unique_configs": 4,
+        "valid_configs": 12,
+        "unique_configs": 3,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
