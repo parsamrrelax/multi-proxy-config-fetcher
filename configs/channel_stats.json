@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-23T23:23:37.571142",
+  "timestamp": "2025-01-24T01:46:30.591326",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -22,11 +22,11 @@
         "total_configs": 64,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.08,
+        "avg_response_time": 0.4,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.4,
-        "last_success": "2025-01-23T23:20:15.715152"
+        "overall_score": 77.92,
+        "last_success": "2025-01-24T01:43:15.050497"
       }
     },
     {
@@ -36,18 +36,18 @@
         "total_configs": 1332,
         "valid_configs": 100,
         "unique_configs": 47,
-        "avg_response_time": 0.08,
+        "avg_response_time": 0.33,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.5,
-        "last_success": "2025-01-23T23:20:16.356845"
+        "overall_score": 63.13,
+        "last_success": "2025-01-24T01:43:15.941689"
       }
     },
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": false,
       "metrics": {
-        "total_configs": 102,
+        "total_configs": 90,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -90,8 +90,8 @@
       "enabled": true,
       "metrics": {
         "total_configs": 60,
-        "valid_configs": 18,
-        "unique_configs": 4,
+        "valid_configs": 9,
+        "unique_configs": 3,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
