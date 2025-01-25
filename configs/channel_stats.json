@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-25T16:28:54.549036",
+  "timestamp": "2025-01-25T17:19:41.214742",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -26,7 +26,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 76.66,
-        "last_success": "2025-01-25T16:25:53.457429"
+        "last_success": "2025-01-25T17:16:37.478968"
       }
     },
     {
@@ -36,11 +36,11 @@
         "total_configs": 1472,
         "valid_configs": 102,
         "unique_configs": 51,
-        "avg_response_time": 0.38,
+        "avg_response_time": 0.12,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.66,
-        "last_success": "2025-01-25T16:25:54.480441"
+        "overall_score": 64.06,
+        "last_success": "2025-01-25T17:16:38.238078"
       }
     },
     {
@@ -89,9 +89,9 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": true,
       "metrics": {
-        "total_configs": 48,
-        "valid_configs": 6,
-        "unique_configs": 1,
+        "total_configs": 45,
+        "valid_configs": 9,
+        "unique_configs": 2,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -117,7 +117,7 @@
       "url": "https://t.me/s/ShadowProxy66",
       "enabled": false,
       "metrics": {
-        "total_configs": 150,
+        "total_configs": 120,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -187,7 +187,7 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": false,
       "metrics": {
-        "total_configs": 183,
+        "total_configs": 180,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
