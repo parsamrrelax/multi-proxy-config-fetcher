@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-27T23:23:35.148239",
+  "timestamp": "2025-01-28T01:45:42.524227",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -36,18 +36,18 @@
         "total_configs": 1602,
         "valid_configs": 98,
         "unique_configs": 53,
-        "avg_response_time": 0.11,
+        "avg_response_time": 0.34,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 64.88,
-        "last_success": "2025-01-27T23:20:32.432012"
+        "overall_score": 64.54,
+        "last_success": "2025-01-28T01:42:52.989340"
       }
     },
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": false,
       "metrics": {
-        "total_configs": 87,
+        "total_configs": 60,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -89,14 +89,14 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": true,
       "metrics": {
-        "total_configs": 48,
-        "valid_configs": 15,
-        "unique_configs": 2,
-        "avg_response_time": 0,
-        "success_count": 0,
+        "total_configs": 18,
+        "valid_configs": 6,
+        "unique_configs": 5,
+        "avg_response_time": 0.38,
+        "success_count": 1,
         "fail_count": 0,
-        "overall_score": 0.0,
-        "last_success": null
+        "overall_score": 78.6,
+        "last_success": "2025-01-28T01:43:26.830344"
       }
     },
     {
