@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-29T12:44:12.969051",
+  "timestamp": "2025-01-29T13:29:28.863950",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -36,11 +36,11 @@
         "total_configs": 1535,
         "valid_configs": 103,
         "unique_configs": 53,
-        "avg_response_time": 0.36,
+        "avg_response_time": 0.05,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 64.01,
-        "last_success": "2025-01-29T12:41:12.754682"
+        "overall_score": 64.46,
+        "last_success": "2025-01-29T13:26:27.857731"
       }
     },
     {
@@ -89,8 +89,8 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": true,
       "metrics": {
-        "total_configs": 51,
-        "valid_configs": 15,
+        "total_configs": 57,
+        "valid_configs": 12,
         "unique_configs": 4,
         "avg_response_time": 0,
         "success_count": 0,
@@ -117,7 +117,7 @@
       "url": "https://t.me/s/ShadowProxy66",
       "enabled": false,
       "metrics": {
-        "total_configs": 207,
+        "total_configs": 48,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
