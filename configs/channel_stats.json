@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-02T17:20:57.764429",
+  "timestamp": "2025-02-02T18:31:07.289659",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -33,14 +33,14 @@
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1152,
-        "valid_configs": 98,
+        "total_configs": 1158,
+        "valid_configs": 112,
         "unique_configs": 52,
-        "avg_response_time": 0.14,
+        "avg_response_time": 0.13,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 65.18,
-        "last_success": "2025-02-02T17:18:19.401120"
+        "overall_score": 63.83,
+        "last_success": "2025-02-02T18:28:18.662737"
       }
     },
     {
@@ -89,14 +89,14 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": true,
       "metrics": {
-        "total_configs": 20,
-        "valid_configs": 5,
-        "unique_configs": 5,
-        "avg_response_time": 0.38,
-        "success_count": 1,
+        "total_configs": 57,
+        "valid_configs": 12,
+        "unique_configs": 4,
+        "avg_response_time": 0,
+        "success_count": 0,
         "fail_count": 0,
-        "overall_score": 80.68,
-        "last_success": "2025-02-02T17:18:53.330107"
+        "overall_score": 0.0,
+        "last_success": null
       }
     },
     {
@@ -187,7 +187,7 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": false,
       "metrics": {
-        "total_configs": 204,
+        "total_configs": 186,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -260,11 +260,11 @@
         "total_configs": 40,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 0.38,
+        "avg_response_time": 0.52,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.56,
-        "last_success": "2025-02-02T17:20:57.762493"
+        "overall_score": 77.35,
+        "last_success": "2025-02-02T18:31:07.287735"
       }
     }
   ]
