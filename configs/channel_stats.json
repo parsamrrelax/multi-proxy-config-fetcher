@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-06T18:33:27.261518",
+  "timestamp": "2025-02-06T19:21:25.227178",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -33,14 +33,14 @@
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1465,
+        "total_configs": 1479,
         "valid_configs": 113,
         "unique_configs": 52,
-        "avg_response_time": 0.34,
+        "avg_response_time": 0.25,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 62.93,
-        "last_success": "2025-02-06T18:30:29.625563"
+        "overall_score": 63.04,
+        "last_success": "2025-02-06T19:18:33.228187"
       }
     },
     {
@@ -90,7 +90,7 @@
       "enabled": true,
       "metrics": {
         "total_configs": 54,
-        "valid_configs": 6,
+        "valid_configs": 9,
         "unique_configs": 2,
         "avg_response_time": 0,
         "success_count": 0,
@@ -117,14 +117,14 @@
       "url": "https://t.me/s/ShadowProxy66",
       "enabled": true,
       "metrics": {
-        "total_configs": 20,
+        "total_configs": 22,
         "valid_configs": 8,
         "unique_configs": 8,
-        "avg_response_time": 0.6,
+        "avg_response_time": 0.42,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 84.1,
-        "last_success": "2025-02-06T18:31:29.187533"
+        "overall_score": 83.46,
+        "last_success": "2025-02-06T19:19:30.519551"
       }
     },
     {
@@ -185,15 +185,15 @@
     },
     {
       "url": "https://t.me/s/meli_proxyy",
-      "enabled": true,
+      "enabled": false,
       "metrics": {
-        "total_configs": 360,
-        "valid_configs": 12,
-        "unique_configs": 4,
+        "total_configs": 399,
+        "valid_configs": 0,
+        "unique_configs": 0,
         "avg_response_time": 0,
         "success_count": 0,
-        "fail_count": 0,
-        "overall_score": 0.0,
+        "fail_count": 1,
+        "overall_score": 15.0,
         "last_success": null
       }
     },
@@ -258,8 +258,8 @@
       "enabled": true,
       "metrics": {
         "total_configs": 123,
-        "valid_configs": 1,
-        "unique_configs": 1,
+        "valid_configs": 9,
+        "unique_configs": 3,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
