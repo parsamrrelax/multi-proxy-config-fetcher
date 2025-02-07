@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-07T13:28:57.986611",
+  "timestamp": "2025-02-07T14:23:29.960844",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -33,14 +33,14 @@
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1504,
+        "total_configs": 1499,
         "valid_configs": 113,
         "unique_configs": 52,
-        "avg_response_time": 0.18,
+        "avg_response_time": 0.44,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.12,
-        "last_success": "2025-02-07T13:26:07.809292"
+        "overall_score": 62.72,
+        "last_success": "2025-02-07T14:20:32.478051"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": false,
       "metrics": {
-        "total_configs": 51,
+        "total_configs": 54,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -89,7 +89,7 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": true,
       "metrics": {
-        "total_configs": 60,
+        "total_configs": 57,
         "valid_configs": 12,
         "unique_configs": 4,
         "avg_response_time": 0,
@@ -120,11 +120,11 @@
         "total_configs": 38,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.4,
+        "avg_response_time": 0.59,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.34,
-        "last_success": "2025-02-07T13:27:05.020225"
+        "overall_score": 78.06,
+        "last_success": "2025-02-07T14:21:32.081229"
       }
     },
     {
@@ -173,7 +173,7 @@
       "url": "https://t.me/s/proxy_shadosocks",
       "enabled": false,
       "metrics": {
-        "total_configs": 21,
+        "total_configs": 12,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -229,7 +229,7 @@
       "url": "https://t.me/s/ArV2ray",
       "enabled": false,
       "metrics": {
-        "total_configs": 54,
+        "total_configs": 57,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
