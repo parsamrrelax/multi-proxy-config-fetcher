@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-08T01:44:41.350487",
+  "timestamp": "2025-02-08T02:48:51.126508",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -36,11 +36,11 @@
         "total_configs": 1471,
         "valid_configs": 113,
         "unique_configs": 52,
-        "avg_response_time": 0.17,
+        "avg_response_time": 0.06,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.17,
-        "last_success": "2025-02-08T01:41:52.232127"
+        "overall_score": 63.34,
+        "last_success": "2025-02-08T02:46:01.987402"
       }
     },
     {
@@ -90,8 +90,8 @@
       "enabled": true,
       "metrics": {
         "total_configs": 57,
-        "valid_configs": 18,
-        "unique_configs": 3,
+        "valid_configs": 12,
+        "unique_configs": 4,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -118,13 +118,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 60,
-        "valid_configs": 7,
-        "unique_configs": 7,
+        "valid_configs": 6,
+        "unique_configs": 6,
         "avg_response_time": 0.38,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.34,
-        "last_success": "2025-02-08T01:42:48.884147"
+        "overall_score": 76.93,
+        "last_success": "2025-02-08T02:46:58.627986"
       }
     },
     {
