@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-10T16:31:12.040692",
+  "timestamp": "2025-02-10T17:20:33.909684",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -36,11 +36,11 @@
         "total_configs": 1644,
         "valid_configs": 109,
         "unique_configs": 52,
-        "avg_response_time": 0.22,
+        "avg_response_time": 0.13,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.25,
-        "last_success": "2025-02-10T16:28:20.808734"
+        "overall_score": 63.39,
+        "last_success": "2025-02-10T17:17:40.746367"
       }
     },
     {
@@ -89,8 +89,8 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": true,
       "metrics": {
-        "total_configs": 51,
-        "valid_configs": 12,
+        "total_configs": 54,
+        "valid_configs": 9,
         "unique_configs": 3,
         "avg_response_time": 0,
         "success_count": 0,
@@ -120,11 +120,11 @@
         "total_configs": 80,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 0.69,
+        "avg_response_time": 0.65,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.53,
-        "last_success": "2025-02-10T16:29:18.309864"
+        "overall_score": 75.59,
+        "last_success": "2025-02-10T17:18:38.935849"
       }
     },
     {
@@ -215,7 +215,7 @@
       "url": "https://t.me/s/Parsashonam",
       "enabled": false,
       "metrics": {
-        "total_configs": 93,
+        "total_configs": 78,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -257,7 +257,7 @@
       "url": "https://t.me/s/VmessProtocol",
       "enabled": true,
       "metrics": {
-        "total_configs": 135,
+        "total_configs": 144,
         "valid_configs": 1,
         "unique_configs": 1,
         "avg_response_time": 0,
