@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-10T14:24:52.947699",
+  "timestamp": "2025-02-10T15:27:53.874951",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -36,18 +36,18 @@
         "total_configs": 1632,
         "valid_configs": 109,
         "unique_configs": 52,
-        "avg_response_time": 0.29,
+        "avg_response_time": 0.13,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.16,
-        "last_success": "2025-02-10T14:21:54.305850"
+        "overall_score": 63.4,
+        "last_success": "2025-02-10T15:25:00.806808"
       }
     },
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": false,
       "metrics": {
-        "total_configs": 126,
+        "total_configs": 192,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": false,
       "metrics": {
-        "total_configs": 54,
+        "total_configs": 57,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -89,9 +89,9 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": true,
       "metrics": {
-        "total_configs": 48,
-        "valid_configs": 3,
-        "unique_configs": 1,
+        "total_configs": 51,
+        "valid_configs": 12,
+        "unique_configs": 2,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -117,14 +117,14 @@
       "url": "https://t.me/s/ShadowProxy66",
       "enabled": true,
       "metrics": {
-        "total_configs": 44,
+        "total_configs": 56,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 0.69,
+        "avg_response_time": 0.6,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.8,
-        "last_success": "2025-02-10T14:22:54.177308"
+        "overall_score": 76.34,
+        "last_success": "2025-02-10T15:25:58.445489"
       }
     },
     {
@@ -187,7 +187,7 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": true,
       "metrics": {
-        "total_configs": 330,
+        "total_configs": 303,
         "valid_configs": 12,
         "unique_configs": 4,
         "avg_response_time": 0,
@@ -201,7 +201,7 @@
       "url": "https://t.me/s/DirectVPN",
       "enabled": false,
       "metrics": {
-        "total_configs": 51,
+        "total_configs": 57,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
