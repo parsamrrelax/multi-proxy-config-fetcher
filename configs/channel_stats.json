@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-10T18:33:47.080655",
+  "timestamp": "2025-02-10T19:20:27.861304",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -36,11 +36,11 @@
         "total_configs": 1660,
         "valid_configs": 109,
         "unique_configs": 52,
-        "avg_response_time": 0.11,
+        "avg_response_time": 0.17,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.4,
-        "last_success": "2025-02-10T18:30:53.955811"
+        "overall_score": 63.31,
+        "last_success": "2025-02-10T19:17:35.606506"
       }
     },
     {
@@ -89,9 +89,9 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": true,
       "metrics": {
-        "total_configs": 57,
-        "valid_configs": 12,
-        "unique_configs": 3,
+        "total_configs": 60,
+        "valid_configs": 9,
+        "unique_configs": 2,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -120,11 +120,11 @@
         "total_configs": 80,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 0.67,
+        "avg_response_time": 0.72,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.55,
-        "last_success": "2025-02-10T18:31:51.305002"
+        "overall_score": 75.49,
+        "last_success": "2025-02-10T19:18:32.919612"
       }
     },
     {
@@ -187,7 +187,7 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": true,
       "metrics": {
-        "total_configs": 267,
+        "total_configs": 363,
         "valid_configs": 12,
         "unique_configs": 4,
         "avg_response_time": 0,
