@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-11T09:26:26.945963",
+  "timestamp": "2025-02-11T10:27:46.809681",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -33,14 +33,14 @@
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1349,
+        "total_configs": 1354,
         "valid_configs": 111,
         "unique_configs": 52,
-        "avg_response_time": 0.13,
+        "avg_response_time": 0.17,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.57,
-        "last_success": "2025-02-11T09:23:44.504433"
+        "overall_score": 63.5,
+        "last_success": "2025-02-11T10:24:59.148726"
       }
     },
     {
@@ -117,14 +117,14 @@
       "url": "https://t.me/s/ShadowProxy66",
       "enabled": true,
       "metrics": {
-        "total_configs": 91,
+        "total_configs": 75,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 0.66,
+        "avg_response_time": 0.76,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.38,
-        "last_success": "2025-02-11T09:24:42.368376"
+        "overall_score": 75.52,
+        "last_success": "2025-02-11T10:25:59.267472"
       }
     },
     {
@@ -190,11 +190,11 @@
         "total_configs": 155,
         "valid_configs": 7,
         "unique_configs": 7,
-        "avg_response_time": 0.45,
+        "avg_response_time": 0.61,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.46,
-        "last_success": "2025-02-11T09:25:29.314282"
+        "overall_score": 75.22,
+        "last_success": "2025-02-11T10:26:47.632057"
       }
     },
     {
