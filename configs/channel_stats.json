@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-11T16:32:40.403668",
+  "timestamp": "2025-02-11T17:23:31.796013",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -36,11 +36,11 @@
         "total_configs": 1324,
         "valid_configs": 111,
         "unique_configs": 52,
-        "avg_response_time": 0.16,
+        "avg_response_time": 0.2,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.57,
-        "last_success": "2025-02-11T16:29:49.436031"
+        "overall_score": 63.51,
+        "last_success": "2025-02-11T17:20:40.615039"
       }
     },
     {
@@ -187,14 +187,14 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": true,
       "metrics": {
-        "total_configs": 173,
+        "total_configs": 152,
         "valid_configs": 7,
         "unique_configs": 7,
         "avg_response_time": 0.43,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.37,
-        "last_success": "2025-02-11T16:31:43.863518"
+        "overall_score": 75.51,
+        "last_success": "2025-02-11T17:22:35.129684"
       }
     },
     {
@@ -215,7 +215,7 @@
       "url": "https://t.me/s/Parsashonam",
       "enabled": false,
       "metrics": {
-        "total_configs": 88,
+        "total_configs": 78,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
