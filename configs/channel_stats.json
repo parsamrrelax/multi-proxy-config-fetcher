@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-11T14:24:43.177423",
+  "timestamp": "2025-02-11T15:28:13.061463",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -36,11 +36,11 @@
         "total_configs": 1348,
         "valid_configs": 111,
         "unique_configs": 52,
-        "avg_response_time": 0.26,
+        "avg_response_time": 0.17,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.38,
-        "last_success": "2025-02-11T14:21:59.429718"
+        "overall_score": 63.51,
+        "last_success": "2025-02-11T15:25:21.190058"
       }
     },
     {
@@ -89,14 +89,14 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": true,
       "metrics": {
-        "total_configs": 15,
-        "valid_configs": 6,
-        "unique_configs": 5,
-        "avg_response_time": 0.46,
-        "success_count": 1,
+        "total_configs": 48,
+        "valid_configs": 12,
+        "unique_configs": 4,
+        "avg_response_time": 0,
+        "success_count": 0,
         "fail_count": 0,
-        "overall_score": 80.14,
-        "last_success": "2025-02-11T14:22:34.259893"
+        "overall_score": 0.0,
+        "last_success": null
       }
     },
     {
@@ -117,7 +117,7 @@
       "url": "https://t.me/s/ShadowProxy66",
       "enabled": false,
       "metrics": {
-        "total_configs": 216,
+        "total_configs": 102,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -187,14 +187,14 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": true,
       "metrics": {
-        "total_configs": 170,
+        "total_configs": 175,
         "valid_configs": 7,
         "unique_configs": 7,
-        "avg_response_time": 0.67,
+        "avg_response_time": 0.39,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.03,
-        "last_success": "2025-02-11T14:23:45.729288"
+        "overall_score": 75.42,
+        "last_success": "2025-02-11T15:27:16.376701"
       }
     },
     {
