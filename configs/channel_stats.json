@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-17T05:26:56.127415",
+  "timestamp": "2025-02-17T06:35:07.528630",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -33,14 +33,14 @@
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1603,
+        "total_configs": 1607,
         "valid_configs": 112,
         "unique_configs": 52,
-        "avg_response_time": 0.31,
+        "avg_response_time": 0.16,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 62.89,
-        "last_success": "2025-02-17T05:23:46.545038"
+        "overall_score": 63.11,
+        "last_success": "2025-02-17T06:32:16.208839"
       }
     },
     {
@@ -89,9 +89,9 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": true,
       "metrics": {
-        "total_configs": 54,
-        "valid_configs": 6,
-        "unique_configs": 1,
+        "total_configs": 60,
+        "valid_configs": 9,
+        "unique_configs": 3,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -257,14 +257,14 @@
       "url": "https://t.me/s/VmessProtocol",
       "enabled": true,
       "metrics": {
-        "total_configs": 57,
-        "valid_configs": 12,
-        "unique_configs": 4,
-        "avg_response_time": 0,
-        "success_count": 0,
+        "total_configs": 23,
+        "valid_configs": 5,
+        "unique_configs": 5,
+        "avg_response_time": 0.4,
+        "success_count": 1,
         "fail_count": 0,
-        "overall_score": 0.0,
-        "last_success": null
+        "overall_score": 79.83,
+        "last_success": "2025-02-17T06:35:07.526637"
       }
     }
   ]
