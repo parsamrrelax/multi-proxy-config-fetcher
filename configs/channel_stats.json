@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-18T21:23:18.221614",
+  "timestamp": "2025-02-18T22:23:47.210903",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -20,13 +20,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 60,
-        "valid_configs": 9,
+        "valid_configs": 12,
         "unique_configs": 9,
-        "avg_response_time": 0.03,
+        "avg_response_time": 0.17,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.7,
-        "last_success": "2025-02-18T21:20:39.277307"
+        "overall_score": 73.5,
+        "last_success": "2025-02-18T22:20:59.162377"
       }
     },
     {
@@ -36,11 +36,11 @@
         "total_configs": 1565,
         "valid_configs": 107,
         "unique_configs": 47,
-        "avg_response_time": 0.13,
+        "avg_response_time": 0.24,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 62.5,
-        "last_success": "2025-02-18T21:20:40.075236"
+        "overall_score": 62.34,
+        "last_success": "2025-02-18T22:21:00.069112"
       }
     },
     {
@@ -90,8 +90,8 @@
       "enabled": true,
       "metrics": {
         "total_configs": 54,
-        "valid_configs": 9,
-        "unique_configs": 2,
+        "valid_configs": 18,
+        "unique_configs": 4,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -118,13 +118,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 40,
-        "valid_configs": 8,
-        "unique_configs": 8,
-        "avg_response_time": 0.43,
+        "valid_configs": 6,
+        "unique_configs": 6,
+        "avg_response_time": 0.62,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 79.35,
-        "last_success": "2025-02-18T21:21:36.774517"
+        "overall_score": 77.82,
+        "last_success": "2025-02-18T22:22:00.096427"
       }
     },
     {
@@ -229,7 +229,7 @@
       "url": "https://t.me/s/ArV2ray",
       "enabled": false,
       "metrics": {
-        "total_configs": 45,
+        "total_configs": 54,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -260,11 +260,11 @@
         "total_configs": 26,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 0.36,
+        "avg_response_time": 0.72,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 79.26,
-        "last_success": "2025-02-18T21:23:18.219570"
+        "overall_score": 78.73,
+        "last_success": "2025-02-18T22:23:47.208824"
       }
     }
   ]
