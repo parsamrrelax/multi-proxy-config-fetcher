@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-20T04:29:11.511550",
+  "timestamp": "2025-02-20T05:24:43.718555",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -20,13 +20,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 63,
-        "valid_configs": 10,
-        "unique_configs": 10,
-        "avg_response_time": 0.09,
+        "valid_configs": 16,
+        "unique_configs": 13,
+        "avg_response_time": 0.04,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.83,
-        "last_success": "2025-02-20T04:26:21.172126"
+        "overall_score": 76.6,
+        "last_success": "2025-02-20T05:21:53.493564"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 1298,
-        "valid_configs": 108,
-        "unique_configs": 46,
-        "avg_response_time": 0.2,
+        "valid_configs": 104,
+        "unique_configs": 43,
+        "avg_response_time": 0.11,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 62.43,
-        "last_success": "2025-02-20T04:26:21.821038"
+        "overall_score": 62.17,
+        "last_success": "2025-02-20T05:21:54.052457"
       }
     },
     {
@@ -89,9 +89,9 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": true,
       "metrics": {
-        "total_configs": 42,
-        "valid_configs": 9,
-        "unique_configs": 2,
+        "total_configs": 48,
+        "valid_configs": 15,
+        "unique_configs": 3,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -118,13 +118,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 8,
-        "valid_configs": 8,
-        "unique_configs": 8,
-        "avg_response_time": 0.5,
+        "valid_configs": 7,
+        "unique_configs": 7,
+        "avg_response_time": 0.62,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.25,
-        "last_success": "2025-02-20T04:27:18.778101"
+        "overall_score": 95.95,
+        "last_success": "2025-02-20T05:22:51.053359"
       }
     },
     {
