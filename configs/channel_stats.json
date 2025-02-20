@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-20T16:32:54.204368",
+  "timestamp": "2025-02-20T17:21:12.853276",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -22,11 +22,11 @@
         "total_configs": 64,
         "valid_configs": 11,
         "unique_configs": 11,
-        "avg_response_time": 0.17,
+        "avg_response_time": 0.08,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 79.05,
-        "last_success": "2025-02-20T16:29:53.651778"
+        "overall_score": 79.18,
+        "last_success": "2025-02-20T17:18:21.983619"
       }
     },
     {
@@ -36,11 +36,11 @@
         "total_configs": 1658,
         "valid_configs": 107,
         "unique_configs": 45,
-        "avg_response_time": 0.29,
+        "avg_response_time": 0.09,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 61.69,
-        "last_success": "2025-02-20T16:29:54.649633"
+        "overall_score": 62.0,
+        "last_success": "2025-02-20T17:18:22.781722"
       }
     },
     {
@@ -90,8 +90,8 @@
       "enabled": true,
       "metrics": {
         "total_configs": 54,
-        "valid_configs": 12,
-        "unique_configs": 3,
+        "valid_configs": 6,
+        "unique_configs": 2,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -187,7 +187,7 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": false,
       "metrics": {
-        "total_configs": 282,
+        "total_configs": 279,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -260,11 +260,11 @@
         "total_configs": 32,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 0.62,
+        "avg_response_time": 0.4,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.97,
-        "last_success": "2025-02-20T16:32:54.202332"
+        "overall_score": 78.31,
+        "last_success": "2025-02-20T17:21:12.851683"
       }
     }
   ]
