@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-21T15:26:30.390498",
+  "timestamp": "2025-02-21T16:30:59.470471",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -22,32 +22,32 @@
         "total_configs": 59,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.21,
+        "avg_response_time": 0.16,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.51,
-        "last_success": "2025-02-21T15:23:30.152230"
+        "overall_score": 78.57,
+        "last_success": "2025-02-21T16:27:58.705101"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1653,
+        "total_configs": 1666,
         "valid_configs": 109,
         "unique_configs": 47,
-        "avg_response_time": 0.25,
+        "avg_response_time": 0.27,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 62.05,
-        "last_success": "2025-02-21T15:23:31.102876"
+        "overall_score": 62.01,
+        "last_success": "2025-02-21T16:27:59.695247"
       }
     },
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": false,
       "metrics": {
-        "total_configs": 90,
+        "total_configs": 117,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": false,
       "metrics": {
-        "total_configs": 54,
+        "total_configs": 51,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -229,7 +229,7 @@
       "url": "https://t.me/s/ArV2ray",
       "enabled": false,
       "metrics": {
-        "total_configs": 45,
+        "total_configs": 42,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -260,11 +260,11 @@
         "total_configs": 32,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 0.54,
+        "avg_response_time": 0.55,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.1,
-        "last_success": "2025-02-21T15:26:30.388506"
+        "overall_score": 78.09,
+        "last_success": "2025-02-21T16:30:59.468449"
       }
     }
   ]
