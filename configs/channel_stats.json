@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-22T14:21:32.870272",
+  "timestamp": "2025-02-22T15:23:20.982811",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -22,11 +22,11 @@
         "total_configs": 63,
         "valid_configs": 18,
         "unique_configs": 13,
-        "avg_response_time": 0.09,
+        "avg_response_time": 0.16,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.07,
-        "last_success": "2025-02-22T14:18:41.083626"
+        "overall_score": 74.96,
+        "last_success": "2025-02-22T15:20:20.515036"
       }
     },
     {
@@ -36,11 +36,11 @@
         "total_configs": 1501,
         "valid_configs": 108,
         "unique_configs": 43,
-        "avg_response_time": 0.16,
+        "avg_response_time": 0.26,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 61.52,
-        "last_success": "2025-02-22T14:18:41.818940"
+        "overall_score": 61.36,
+        "last_success": "2025-02-22T15:20:21.353724"
       }
     },
     {
@@ -90,8 +90,8 @@
       "enabled": true,
       "metrics": {
         "total_configs": 57,
-        "valid_configs": 9,
-        "unique_configs": 2,
+        "valid_configs": 12,
+        "unique_configs": 3,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -131,7 +131,7 @@
       "url": "https://t.me/s/OutlineReleasedKey",
       "enabled": false,
       "metrics": {
-        "total_configs": 48,
+        "total_configs": 51,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -187,7 +187,7 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": false,
       "metrics": {
-        "total_configs": 312,
+        "total_configs": 315,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -260,11 +260,11 @@
         "total_configs": 28,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 0.42,
+        "avg_response_time": 0.59,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.84,
-        "last_success": "2025-02-22T14:21:32.868367"
+        "overall_score": 78.58,
+        "last_success": "2025-02-22T15:23:20.980879"
       }
     }
   ]
