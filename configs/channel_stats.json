@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-22T01:45:57.839850",
+  "timestamp": "2025-02-22T02:51:45.263325",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -20,13 +20,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 59,
-        "valid_configs": 16,
-        "unique_configs": 13,
-        "avg_response_time": 0.25,
+        "valid_configs": 12,
+        "unique_configs": 12,
+        "avg_response_time": 0.07,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.71,
-        "last_success": "2025-02-22T01:42:59.332878"
+        "overall_score": 79.98,
+        "last_success": "2025-02-22T02:48:51.966634"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 1642,
-        "valid_configs": 104,
-        "unique_configs": 43,
-        "avg_response_time": 0.43,
+        "valid_configs": 106,
+        "unique_configs": 44,
+        "avg_response_time": 0.26,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 61.28,
-        "last_success": "2025-02-22T01:43:00.440493"
+        "overall_score": 61.6,
+        "last_success": "2025-02-22T02:48:52.911694"
       }
     },
     {
@@ -89,9 +89,9 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": true,
       "metrics": {
-        "total_configs": 54,
-        "valid_configs": 3,
-        "unique_configs": 1,
+        "total_configs": 57,
+        "valid_configs": 18,
+        "unique_configs": 4,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -260,11 +260,11 @@
         "total_configs": 32,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 0.59,
+        "avg_response_time": 0.5,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.03,
-        "last_success": "2025-02-22T01:45:57.837987"
+        "overall_score": 78.16,
+        "last_success": "2025-02-22T02:51:45.261262"
       }
     }
   ]
