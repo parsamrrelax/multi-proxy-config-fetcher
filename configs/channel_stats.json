@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-22T22:22:26.506808",
+  "timestamp": "2025-02-22T23:22:28.225102",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -22,11 +22,11 @@
         "total_configs": 62,
         "valid_configs": 17,
         "unique_configs": 12,
-        "avg_response_time": 0.11,
+        "avg_response_time": 0.1,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.34,
-        "last_success": "2025-02-22T22:19:33.287883"
+        "overall_score": 74.36,
+        "last_success": "2025-02-22T23:19:37.315053"
       }
     },
     {
@@ -36,11 +36,11 @@
         "total_configs": 1499,
         "valid_configs": 108,
         "unique_configs": 44,
-        "avg_response_time": 0.2,
+        "avg_response_time": 0.12,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 61.68,
-        "last_success": "2025-02-22T22:19:34.065471"
+        "overall_score": 61.81,
+        "last_success": "2025-02-22T23:19:38.005419"
       }
     },
     {
@@ -89,9 +89,9 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": true,
       "metrics": {
-        "total_configs": 54,
-        "valid_configs": 9,
-        "unique_configs": 2,
+        "total_configs": 51,
+        "valid_configs": 15,
+        "unique_configs": 4,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -229,7 +229,7 @@
       "url": "https://t.me/s/ArV2ray",
       "enabled": false,
       "metrics": {
-        "total_configs": 45,
+        "total_configs": 51,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -260,11 +260,11 @@
         "total_configs": 28,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 0.43,
+        "avg_response_time": 0.42,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.81,
-        "last_success": "2025-02-22T22:22:26.505306"
+        "overall_score": 78.83,
+        "last_success": "2025-02-22T23:22:28.223199"
       }
     }
   ]
