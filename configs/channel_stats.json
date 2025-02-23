@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-23T03:31:47.138771",
+  "timestamp": "2025-02-23T04:29:29.258967",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -19,28 +19,28 @@
       "url": "https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 62,
-        "valid_configs": 17,
+        "total_configs": 61,
+        "valid_configs": 18,
         "unique_configs": 12,
-        "avg_response_time": 0.16,
+        "avg_response_time": 0.17,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.27,
-        "last_success": "2025-02-23T03:28:47.743305"
+        "overall_score": 73.79,
+        "last_success": "2025-02-23T04:26:40.085200"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1613,
+        "total_configs": 1692,
         "valid_configs": 116,
         "unique_configs": 45,
-        "avg_response_time": 0.27,
+        "avg_response_time": 0.24,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 61.1,
-        "last_success": "2025-02-23T03:28:48.649255"
+        "overall_score": 61.05,
+        "last_success": "2025-02-23T04:26:41.151004"
       }
     },
     {
@@ -89,14 +89,14 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": true,
       "metrics": {
-        "total_configs": 42,
-        "valid_configs": 12,
-        "unique_configs": 4,
-        "avg_response_time": 0,
-        "success_count": 0,
+        "total_configs": 17,
+        "valid_configs": 6,
+        "unique_configs": 5,
+        "avg_response_time": 0.66,
+        "success_count": 1,
         "fail_count": 0,
-        "overall_score": 0.0,
-        "last_success": null
+        "overall_score": 78.67,
+        "last_success": "2025-02-23T04:27:17.288655"
       }
     },
     {
@@ -260,11 +260,11 @@
         "total_configs": 28,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 0.58,
+        "avg_response_time": 0.66,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.6,
-        "last_success": "2025-02-23T03:31:47.136832"
+        "overall_score": 78.48,
+        "last_success": "2025-02-23T04:29:29.257488"
       }
     }
   ]
