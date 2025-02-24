@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-24T07:24:42.423301",
+  "timestamp": "2025-02-24T08:33:08.797660",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -19,28 +19,28 @@
       "url": "https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 57,
-        "valid_configs": 16,
+        "total_configs": 59,
+        "valid_configs": 21,
         "unique_configs": 12,
-        "avg_response_time": 0.17,
+        "avg_response_time": 0.05,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.52,
-        "last_success": "2025-02-24T07:21:31.358848"
+        "overall_score": 73.11,
+        "last_success": "2025-02-24T08:30:07.082680"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1612,
+        "total_configs": 1605,
         "valid_configs": 115,
         "unique_configs": 45,
-        "avg_response_time": 0.35,
+        "avg_response_time": 0.11,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 61.03,
-        "last_success": "2025-02-24T07:21:32.456702"
+        "overall_score": 61.4,
+        "last_success": "2025-02-24T08:30:07.933878"
       }
     },
     {
@@ -90,8 +90,8 @@
       "enabled": true,
       "metrics": {
         "total_configs": 60,
-        "valid_configs": 15,
-        "unique_configs": 3,
+        "valid_configs": 12,
+        "unique_configs": 4,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -257,7 +257,7 @@
       "url": "https://t.me/s/VmessProtocol",
       "enabled": true,
       "metrics": {
-        "total_configs": 72,
+        "total_configs": 84,
         "valid_configs": 12,
         "unique_configs": 3,
         "avg_response_time": 0,
