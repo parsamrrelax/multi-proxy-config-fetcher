@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-25T06:34:40.490751",
+  "timestamp": "2025-02-25T07:24:26.745224",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -20,27 +20,27 @@
       "enabled": true,
       "metrics": {
         "total_configs": 66,
-        "valid_configs": 24,
+        "valid_configs": 25,
         "unique_configs": 13,
-        "avg_response_time": 0.03,
+        "avg_response_time": 0.05,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 72.58,
-        "last_success": "2025-02-25T06:31:47.652826"
+        "overall_score": 72.39,
+        "last_success": "2025-02-25T07:21:28.965032"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1386,
+        "total_configs": 1314,
         "valid_configs": 114,
         "unique_configs": 44,
-        "avg_response_time": 0.47,
+        "avg_response_time": 0.24,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 61.0,
-        "last_success": "2025-02-25T06:31:48.646585"
+        "overall_score": 61.45,
+        "last_success": "2025-02-25T07:21:29.669713"
       }
     },
     {
@@ -90,8 +90,8 @@
       "enabled": true,
       "metrics": {
         "total_configs": 60,
-        "valid_configs": 9,
-        "unique_configs": 3,
+        "valid_configs": 6,
+        "unique_configs": 2,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -118,13 +118,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 10,
-        "valid_configs": 6,
-        "unique_configs": 6,
-        "avg_response_time": 0.43,
+        "valid_configs": 7,
+        "unique_configs": 7,
+        "avg_response_time": 0.54,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.36,
-        "last_success": "2025-02-25T06:32:46.082736"
+        "overall_score": 91.68,
+        "last_success": "2025-02-25T07:22:29.133527"
       }
     },
     {
