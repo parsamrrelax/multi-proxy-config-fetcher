@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-25T17:26:17.712856",
+  "timestamp": "2025-02-25T18:34:35.666689",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -19,28 +19,28 @@
       "url": "https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 63,
-        "valid_configs": 24,
-        "unique_configs": 13,
-        "avg_response_time": 0.23,
+        "total_configs": 54,
+        "valid_configs": 23,
+        "unique_configs": 12,
+        "avg_response_time": 0.03,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 72.72,
-        "last_success": "2025-02-25T17:23:18.237549"
+        "overall_score": 73.64,
+        "last_success": "2025-02-25T18:31:46.128685"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1299,
-        "valid_configs": 117,
-        "unique_configs": 44,
-        "avg_response_time": 0.33,
+        "total_configs": 1286,
+        "valid_configs": 118,
+        "unique_configs": 45,
+        "avg_response_time": 0.14,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 61.17,
-        "last_success": "2025-02-25T17:23:19.016837"
+        "overall_score": 61.62,
+        "last_success": "2025-02-25T18:31:46.701271"
       }
     },
     {
@@ -89,9 +89,9 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": true,
       "metrics": {
-        "total_configs": 60,
-        "valid_configs": 12,
-        "unique_configs": 4,
+        "total_configs": 54,
+        "valid_configs": 6,
+        "unique_configs": 2,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -118,13 +118,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 10,
-        "valid_configs": 5,
-        "unique_configs": 5,
-        "avg_response_time": 0.62,
+        "valid_configs": 7,
+        "unique_configs": 7,
+        "avg_response_time": 0.36,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.57,
-        "last_success": "2025-02-25T17:24:18.930560"
+        "overall_score": 91.95,
+        "last_success": "2025-02-25T18:32:43.183847"
       }
     },
     {
@@ -187,7 +187,7 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": false,
       "metrics": {
-        "total_configs": 297,
+        "total_configs": 249,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
