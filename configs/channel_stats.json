@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-25T12:48:57.134244",
+  "timestamp": "2025-02-25T13:32:04.692874",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -22,11 +22,11 @@
         "total_configs": 64,
         "valid_configs": 24,
         "unique_configs": 11,
-        "avg_response_time": 0.23,
+        "avg_response_time": 0.03,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 70.48,
-        "last_success": "2025-02-25T12:45:57.319038"
+        "overall_score": 70.79,
+        "last_success": "2025-02-25T13:29:14.374315"
       }
     },
     {
@@ -36,11 +36,11 @@
         "total_configs": 1314,
         "valid_configs": 119,
         "unique_configs": 46,
-        "avg_response_time": 0.27,
+        "avg_response_time": 0.17,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 61.53,
-        "last_success": "2025-02-25T12:45:58.048143"
+        "overall_score": 61.67,
+        "last_success": "2025-02-25T13:29:15.009364"
       }
     },
     {
@@ -91,7 +91,7 @@
       "metrics": {
         "total_configs": 60,
         "valid_configs": 15,
-        "unique_configs": 3,
+        "unique_configs": 4,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -118,20 +118,20 @@
       "enabled": true,
       "metrics": {
         "total_configs": 10,
-        "valid_configs": 6,
-        "unique_configs": 6,
-        "avg_response_time": 0.62,
+        "valid_configs": 5,
+        "unique_configs": 5,
+        "avg_response_time": 0.38,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.07,
-        "last_success": "2025-02-25T12:46:58.175589"
+        "overall_score": 86.94,
+        "last_success": "2025-02-25T13:30:11.647130"
       }
     },
     {
       "url": "https://t.me/s/OutlineReleasedKey",
       "enabled": false,
       "metrics": {
-        "total_configs": 54,
+        "total_configs": 56,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
