@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-26T09:27:39.811685",
+  "timestamp": "2025-02-26T10:28:00.461786",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -20,27 +20,27 @@
       "enabled": true,
       "metrics": {
         "total_configs": 54,
-        "valid_configs": 19,
-        "unique_configs": 12,
-        "avg_response_time": 0.2,
+        "valid_configs": 25,
+        "unique_configs": 13,
+        "avg_response_time": 0.07,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.28,
-        "last_success": "2025-02-26T09:24:41.775944"
+        "overall_score": 74.46,
+        "last_success": "2025-02-26T10:24:59.128330"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1267,
-        "valid_configs": 118,
-        "unique_configs": 45,
-        "avg_response_time": 0.31,
+        "total_configs": 1293,
+        "valid_configs": 117,
+        "unique_configs": 44,
+        "avg_response_time": 0.15,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 61.39,
-        "last_success": "2025-02-26T09:24:42.516982"
+        "overall_score": 61.44,
+        "last_success": "2025-02-26T10:24:59.723735"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": false,
       "metrics": {
-        "total_configs": 51,
+        "total_configs": 57,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -89,14 +89,14 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": true,
       "metrics": {
-        "total_configs": 20,
+        "total_configs": 60,
         "valid_configs": 6,
-        "unique_configs": 5,
-        "avg_response_time": 0.61,
-        "success_count": 1,
+        "unique_configs": 2,
+        "avg_response_time": 0,
+        "success_count": 0,
         "fail_count": 0,
-        "overall_score": 77.43,
-        "last_success": "2025-02-26T09:25:18.273096"
+        "overall_score": 0.0,
+        "last_success": null
       }
     },
     {
@@ -201,7 +201,7 @@
       "url": "https://t.me/s/DirectVPN",
       "enabled": false,
       "metrics": {
-        "total_configs": 51,
+        "total_configs": 57,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
