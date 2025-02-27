@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-27T05:26:03.632214",
+  "timestamp": "2025-02-27T06:35:08.020484",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -20,34 +20,34 @@
       "enabled": true,
       "metrics": {
         "total_configs": 64,
-        "valid_configs": 27,
-        "unique_configs": 15,
-        "avg_response_time": 0.08,
+        "valid_configs": 23,
+        "unique_configs": 14,
+        "avg_response_time": 0.18,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.31,
-        "last_success": "2025-02-27T05:23:13.844605"
+        "overall_score": 73.94,
+        "last_success": "2025-02-27T06:32:08.798602"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1319,
-        "valid_configs": 116,
-        "unique_configs": 42,
-        "avg_response_time": 0.15,
+        "total_configs": 1329,
+        "valid_configs": 117,
+        "unique_configs": 43,
+        "avg_response_time": 0.41,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 61.02,
-        "last_success": "2025-02-27T05:23:14.447823"
+        "overall_score": 60.78,
+        "last_success": "2025-02-27T06:32:09.662890"
       }
     },
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": false,
       "metrics": {
-        "total_configs": 57,
+        "total_configs": 72,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -90,8 +90,8 @@
       "enabled": true,
       "metrics": {
         "total_configs": 60,
-        "valid_configs": 12,
-        "unique_configs": 4,
+        "valid_configs": 6,
+        "unique_configs": 2,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -118,20 +118,20 @@
       "enabled": true,
       "metrics": {
         "total_configs": 10,
-        "valid_configs": 5,
-        "unique_configs": 5,
-        "avg_response_time": 0.38,
+        "valid_configs": 7,
+        "unique_configs": 7,
+        "avg_response_time": 0.55,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.94,
-        "last_success": "2025-02-27T05:24:10.999888"
+        "overall_score": 91.67,
+        "last_success": "2025-02-27T06:33:09.451698"
       }
     },
     {
       "url": "https://t.me/s/OutlineReleasedKey",
       "enabled": false,
       "metrics": {
-        "total_configs": 54,
+        "total_configs": 51,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -187,7 +187,7 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": false,
       "metrics": {
-        "total_configs": 339,
+        "total_configs": 363,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
