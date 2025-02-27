@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-27T14:25:03.262316",
+  "timestamp": "2025-02-27T15:28:48.473132",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -22,11 +22,11 @@
         "total_configs": 64,
         "valid_configs": 24,
         "unique_configs": 14,
-        "avg_response_time": 0.1,
+        "avg_response_time": 0.17,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 73.8,
-        "last_success": "2025-02-27T14:22:12.159520"
+        "overall_score": 73.7,
+        "last_success": "2025-02-27T15:25:48.607669"
       }
     },
     {
@@ -36,11 +36,11 @@
         "total_configs": 1349,
         "valid_configs": 113,
         "unique_configs": 43,
-        "avg_response_time": 0.11,
+        "avg_response_time": 0.36,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 61.45,
-        "last_success": "2025-02-27T14:22:12.736223"
+        "overall_score": 61.07,
+        "last_success": "2025-02-27T15:25:49.440979"
       }
     },
     {
@@ -89,9 +89,9 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": true,
       "metrics": {
-        "total_configs": 60,
-        "valid_configs": 12,
-        "unique_configs": 3,
+        "total_configs": 57,
+        "valid_configs": 18,
+        "unique_configs": 4,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -117,21 +117,21 @@
       "url": "https://t.me/s/ShadowProxy66",
       "enabled": true,
       "metrics": {
-        "total_configs": 10,
-        "valid_configs": 6,
-        "unique_configs": 6,
-        "avg_response_time": 0.56,
+        "total_configs": 13,
+        "valid_configs": 5,
+        "unique_configs": 5,
+        "avg_response_time": 0.62,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.17,
-        "last_success": "2025-02-27T14:23:09.879169"
+        "overall_score": 83.69,
+        "last_success": "2025-02-27T15:26:49.532019"
       }
     },
     {
       "url": "https://t.me/s/OutlineReleasedKey",
       "enabled": false,
       "metrics": {
-        "total_configs": 57,
+        "total_configs": 54,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
