@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-27T11:21:26.593514",
+  "timestamp": "2025-02-27T12:48:53.569190",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -21,26 +21,26 @@
       "metrics": {
         "total_configs": 64,
         "valid_configs": 24,
-        "unique_configs": 15,
-        "avg_response_time": 0.09,
+        "unique_configs": 14,
+        "avg_response_time": 0.03,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.86,
-        "last_success": "2025-02-27T11:18:35.877253"
+        "overall_score": 73.91,
+        "last_success": "2025-02-27T12:46:03.815807"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1337,
-        "valid_configs": 116,
-        "unique_configs": 42,
+        "total_configs": 1343,
+        "valid_configs": 113,
+        "unique_configs": 43,
         "avg_response_time": 0.11,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 61.05,
-        "last_success": "2025-02-27T11:18:36.452504"
+        "overall_score": 61.45,
+        "last_success": "2025-02-27T12:46:04.395308"
       }
     },
     {
@@ -90,7 +90,7 @@
       "enabled": true,
       "metrics": {
         "total_configs": 60,
-        "valid_configs": 15,
+        "valid_configs": 18,
         "unique_configs": 3,
         "avg_response_time": 0,
         "success_count": 0,
@@ -120,11 +120,11 @@
         "total_configs": 10,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.39,
+        "avg_response_time": 0.46,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.42,
-        "last_success": "2025-02-27T11:19:33.401756"
+        "overall_score": 89.31,
+        "last_success": "2025-02-27T12:47:01.012583"
       }
     },
     {
@@ -187,7 +187,7 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": false,
       "metrics": {
-        "total_configs": 375,
+        "total_configs": 303,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -229,7 +229,7 @@
       "url": "https://t.me/s/ArV2ray",
       "enabled": false,
       "metrics": {
-        "total_configs": 48,
+        "total_configs": 45,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
