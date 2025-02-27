@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-27T03:33:08.982574",
+  "timestamp": "2025-02-27T04:29:51.520064",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -20,27 +20,27 @@
       "enabled": true,
       "metrics": {
         "total_configs": 64,
-        "valid_configs": 22,
+        "valid_configs": 24,
         "unique_configs": 14,
-        "avg_response_time": 0.03,
+        "avg_response_time": 0.04,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.45,
-        "last_success": "2025-02-27T03:30:10.024374"
+        "overall_score": 73.89,
+        "last_success": "2025-02-27T04:27:00.975259"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1314,
+        "total_configs": 1319,
         "valid_configs": 117,
         "unique_configs": 43,
-        "avg_response_time": 0.18,
+        "avg_response_time": 0.15,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 61.14,
-        "last_success": "2025-02-27T03:30:10.655974"
+        "overall_score": 61.18,
+        "last_success": "2025-02-27T04:27:01.577403"
       }
     },
     {
@@ -90,7 +90,7 @@
       "enabled": true,
       "metrics": {
         "total_configs": 60,
-        "valid_configs": 15,
+        "valid_configs": 12,
         "unique_configs": 4,
         "avg_response_time": 0,
         "success_count": 0,
@@ -120,11 +120,11 @@
         "total_configs": 10,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 0.58,
+        "avg_response_time": 0.38,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.64,
-        "last_success": "2025-02-27T03:31:10.483980"
+        "overall_score": 86.94,
+        "last_success": "2025-02-27T04:27:58.421752"
       }
     },
     {
@@ -187,7 +187,7 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": false,
       "metrics": {
-        "total_configs": 351,
+        "total_configs": 339,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
