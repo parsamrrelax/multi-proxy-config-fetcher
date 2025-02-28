@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-28T22:25:20.072883",
+  "timestamp": "2025-02-28T23:23:50.045807",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -22,11 +22,11 @@
         "total_configs": 73,
         "valid_configs": 25,
         "unique_configs": 16,
-        "avg_response_time": 0.05,
+        "avg_response_time": 0.13,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.49,
-        "last_success": "2025-02-28T22:21:17.529172"
+        "overall_score": 74.36,
+        "last_success": "2025-02-28T23:20:46.054011"
       }
     },
     {
@@ -36,11 +36,11 @@
         "total_configs": 1370,
         "valid_configs": 111,
         "unique_configs": 41,
-        "avg_response_time": 0.05,
+        "avg_response_time": 0.14,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 61.18,
-        "last_success": "2025-02-28T22:21:18.062960"
+        "overall_score": 61.05,
+        "last_success": "2025-02-28T23:20:46.675221"
       }
     },
     {
@@ -229,7 +229,7 @@
       "url": "https://t.me/s/ArV2ray",
       "enabled": false,
       "metrics": {
-        "total_configs": 54,
+        "total_configs": 51,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
