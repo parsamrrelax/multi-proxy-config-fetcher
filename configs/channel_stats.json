@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-28T16:32:15.357475",
+  "timestamp": "2025-02-28T17:21:16.070562",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -22,11 +22,11 @@
         "total_configs": 70,
         "valid_configs": 24,
         "unique_configs": 15,
-        "avg_response_time": 0.03,
+        "avg_response_time": 0.1,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.15,
-        "last_success": "2025-02-28T16:29:11.030457"
+        "overall_score": 74.04,
+        "last_success": "2025-02-28T17:18:10.801971"
       }
     },
     {
@@ -36,11 +36,11 @@
         "total_configs": 1381,
         "valid_configs": 112,
         "unique_configs": 42,
-        "avg_response_time": 0.17,
+        "avg_response_time": 0.11,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 61.14,
-        "last_success": "2025-02-28T16:29:11.694324"
+        "overall_score": 61.24,
+        "last_success": "2025-02-28T17:18:11.398959"
       }
     },
     {
@@ -91,7 +91,7 @@
       "metrics": {
         "total_configs": 60,
         "valid_configs": 12,
-        "unique_configs": 4,
+        "unique_configs": 3,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -229,7 +229,7 @@
       "url": "https://t.me/s/ArV2ray",
       "enabled": false,
       "metrics": {
-        "total_configs": 48,
+        "total_configs": 45,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -257,7 +257,7 @@
       "url": "https://t.me/s/VmessProtocol",
       "enabled": true,
       "metrics": {
-        "total_configs": 72,
+        "total_configs": 75,
         "valid_configs": 1,
         "unique_configs": 1,
         "avg_response_time": 0,
