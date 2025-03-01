@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-01T17:21:24.362991",
+  "timestamp": "2025-03-01T18:31:38.148395",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -19,28 +19,28 @@
       "url": "https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 71,
-        "valid_configs": 23,
-        "unique_configs": 15,
-        "avg_response_time": 0.09,
+        "total_configs": 75,
+        "valid_configs": 24,
+        "unique_configs": 16,
+        "avg_response_time": 0.16,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.28,
-        "last_success": "2025-03-01T17:18:21.137457"
+        "overall_score": 74.43,
+        "last_success": "2025-03-01T18:28:25.658492"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1892,
-        "valid_configs": 111,
-        "unique_configs": 42,
-        "avg_response_time": 0.09,
+        "total_configs": 1872,
+        "valid_configs": 110,
+        "unique_configs": 41,
+        "avg_response_time": 0.21,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 60.78,
-        "last_success": "2025-03-01T17:18:22.168164"
+        "overall_score": 60.47,
+        "last_success": "2025-03-01T18:28:26.776765"
       }
     },
     {
@@ -90,8 +90,8 @@
       "enabled": true,
       "metrics": {
         "total_configs": 57,
-        "valid_configs": 12,
-        "unique_configs": 3,
+        "valid_configs": 18,
+        "unique_configs": 4,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -187,7 +187,7 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": false,
       "metrics": {
-        "total_configs": 321,
+        "total_configs": 288,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
