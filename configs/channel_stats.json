@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-02T04:28:45.197740",
+  "timestamp": "2025-03-02T05:25:54.811732",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -22,25 +22,25 @@
         "total_configs": 76,
         "valid_configs": 24,
         "unique_configs": 16,
-        "avg_response_time": 0.09,
+        "avg_response_time": 0.08,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.42,
-        "last_success": "2025-03-02T04:25:40.807536"
+        "overall_score": 74.43,
+        "last_success": "2025-03-02T05:22:53.015522"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1873,
+        "total_configs": 1848,
         "valid_configs": 110,
         "unique_configs": 41,
-        "avg_response_time": 0.12,
+        "avg_response_time": 0.13,
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 60.61,
-        "last_success": "2025-03-02T04:25:41.832324"
+        "last_success": "2025-03-02T05:22:54.026171"
       }
     },
     {
@@ -90,8 +90,8 @@
       "enabled": true,
       "metrics": {
         "total_configs": 57,
-        "valid_configs": 3,
-        "unique_configs": 1,
+        "valid_configs": 12,
+        "unique_configs": 3,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
