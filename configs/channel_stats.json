@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-03T09:29:31.575150",
+  "timestamp": "2025-03-03T10:28:55.135386",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -33,21 +33,21 @@
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1669,
+        "total_configs": 1661,
         "valid_configs": 127,
         "unique_configs": 54,
-        "avg_response_time": 0.24,
+        "avg_response_time": 0.15,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 62.18,
-        "last_success": "2025-03-03T09:26:40.841587"
+        "overall_score": 62.31,
+        "last_success": "2025-03-03T10:26:01.680595"
       }
     },
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": false,
       "metrics": {
-        "total_configs": 60,
+        "total_configs": 129,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -120,11 +120,11 @@
         "total_configs": 26,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.49,
+        "avg_response_time": 0.47,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 82.93,
-        "last_success": "2025-03-03T09:27:37.604080"
+        "overall_score": 82.95,
+        "last_success": "2025-03-03T10:26:59.833899"
       }
     },
     {
@@ -187,7 +187,7 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": false,
       "metrics": {
-        "total_configs": 342,
+        "total_configs": 375,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -257,7 +257,7 @@
       "url": "https://t.me/s/VmessProtocol",
       "enabled": false,
       "metrics": {
-        "total_configs": 54,
+        "total_configs": 45,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
