@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-07T03:01:40.623665",
+  "timestamp": "2025-03-07T03:37:27.060130",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -19,14 +19,14 @@
       "url": "https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 237,
-        "valid_configs": 6,
-        "unique_configs": 2,
-        "avg_response_time": 0,
-        "success_count": 0,
+        "total_configs": 245,
+        "valid_configs": 9,
+        "unique_configs": 5,
+        "avg_response_time": 10.19,
+        "success_count": 1,
         "fail_count": 0,
-        "overall_score": 0.0,
-        "last_success": null
+        "overall_score": 49.81,
+        "last_success": "2025-03-07T03:34:33.815816"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 1421,
-        "valid_configs": 113,
-        "unique_configs": 55,
-        "avg_response_time": 0.17,
+        "valid_configs": 108,
+        "unique_configs": 52,
+        "avg_response_time": 0.12,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.91,
-        "last_success": "2025-03-07T02:58:48.180100"
+        "overall_score": 63.76,
+        "last_success": "2025-03-07T03:34:34.456758"
       }
     },
     {
@@ -120,11 +120,11 @@
         "total_configs": 43,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.44,
+        "avg_response_time": 0.49,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 79.58,
-        "last_success": "2025-03-07T02:59:45.781966"
+        "overall_score": 79.5,
+        "last_success": "2025-03-07T03:35:32.041374"
       }
     },
     {
