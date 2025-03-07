@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-07T15:27:23.052807",
+  "timestamp": "2025-03-07T16:31:43.278645",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -19,28 +19,28 @@
       "url": "https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 73,
-        "valid_configs": 7,
-        "unique_configs": 7,
+        "total_configs": 74,
+        "valid_configs": 6,
+        "unique_configs": 6,
         "avg_response_time": 0.03,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.35,
-        "last_success": "2025-03-07T15:24:18.499691"
+        "overall_score": 76.98,
+        "last_success": "2025-03-07T16:28:40.087232"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1383,
-        "valid_configs": 122,
-        "unique_configs": 50,
-        "avg_response_time": 0.09,
+        "total_configs": 1381,
+        "valid_configs": 125,
+        "unique_configs": 51,
+        "avg_response_time": 0.1,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 62.32,
-        "last_success": "2025-03-07T15:24:19.088982"
+        "overall_score": 62.31,
+        "last_success": "2025-03-07T16:28:40.693187"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": false,
       "metrics": {
-        "total_configs": 57,
+        "total_configs": 54,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -201,7 +201,7 @@
       "url": "https://t.me/s/DirectVPN",
       "enabled": false,
       "metrics": {
-        "total_configs": 57,
+        "total_configs": 54,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
