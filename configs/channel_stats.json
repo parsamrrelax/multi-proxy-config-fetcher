@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-08T16:24:37.165941",
+  "timestamp": "2025-03-08T18:27:08.715310",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -22,25 +22,25 @@
         "total_configs": 77,
         "valid_configs": 8,
         "unique_configs": 8,
-        "avg_response_time": 0.04,
+        "avg_response_time": 0.05,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.53,
-        "last_success": "2025-03-08T16:21:34.938943"
+        "overall_score": 77.52,
+        "last_success": "2025-03-08T18:23:57.187987"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1356,
+        "total_configs": 1346,
         "valid_configs": 104,
         "unique_configs": 49,
-        "avg_response_time": 0.16,
+        "avg_response_time": 0.35,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.46,
-        "last_success": "2025-03-08T16:21:35.589780"
+        "overall_score": 63.19,
+        "last_success": "2025-03-08T18:23:58.023962"
       }
     },
     {
@@ -89,7 +89,7 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": false,
       "metrics": {
-        "total_configs": 51,
+        "total_configs": 42,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -117,9 +117,9 @@
       "url": "https://t.me/s/ShadowProxy66",
       "enabled": true,
       "metrics": {
-        "total_configs": 108,
-        "valid_configs": 3,
-        "unique_configs": 1,
+        "total_configs": 147,
+        "valid_configs": 6,
+        "unique_configs": 2,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -187,7 +187,7 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": false,
       "metrics": {
-        "total_configs": 141,
+        "total_configs": 114,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
