@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-09T04:24:22.756703",
+  "timestamp": "2025-03-09T05:20:52.538315",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -22,25 +22,25 @@
         "total_configs": 77,
         "valid_configs": 8,
         "unique_configs": 8,
-        "avg_response_time": 0.09,
+        "avg_response_time": 0.08,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.47,
-        "last_success": "2025-03-09T04:21:20.531258"
+        "overall_score": 77.48,
+        "last_success": "2025-03-09T05:17:50.814349"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1332,
+        "total_configs": 1336,
         "valid_configs": 104,
         "unique_configs": 49,
-        "avg_response_time": 0.09,
+        "avg_response_time": 0.07,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.59,
-        "last_success": "2025-03-09T04:21:21.099456"
+        "overall_score": 63.61,
+        "last_success": "2025-03-09T05:17:51.364627"
       }
     },
     {
