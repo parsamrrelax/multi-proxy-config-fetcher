@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-10T14:26:23.062042",
+  "timestamp": "2025-03-10T15:28:47.988280",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -20,13 +20,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 74,
-        "valid_configs": 23,
-        "unique_configs": 15,
-        "avg_response_time": 0.1,
+        "valid_configs": 24,
+        "unique_configs": 16,
+        "avg_response_time": 0.18,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 73.93,
-        "last_success": "2025-03-10T14:23:26.129722"
+        "overall_score": 74.5,
+        "last_success": "2025-03-10T15:25:42.109349"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 1340,
-        "valid_configs": 92,
-        "unique_configs": 42,
-        "avg_response_time": 0.18,
+        "valid_configs": 91,
+        "unique_configs": 41,
+        "avg_response_time": 0.24,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 62.87,
-        "last_success": "2025-03-10T14:23:26.772371"
+        "overall_score": 62.61,
+        "last_success": "2025-03-10T15:25:42.812049"
       }
     },
     {
@@ -120,18 +120,18 @@
         "total_configs": 50,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 1.35,
+        "avg_response_time": 1.28,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.97,
-        "last_success": "2025-03-10T14:24:26.406593"
+        "overall_score": 78.07,
+        "last_success": "2025-03-10T15:26:45.065460"
       }
     },
     {
       "url": "https://t.me/s/OutlineReleasedKey",
       "enabled": false,
       "metrics": {
-        "total_configs": 45,
+        "total_configs": 48,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
