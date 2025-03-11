@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-11T13:33:53.460556",
+  "timestamp": "2025-03-11T14:27:01.496499",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -20,27 +20,27 @@
       "enabled": true,
       "metrics": {
         "total_configs": 67,
-        "valid_configs": 19,
-        "unique_configs": 14,
-        "avg_response_time": 0.09,
+        "valid_configs": 21,
+        "unique_configs": 15,
+        "avg_response_time": 0.22,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.37,
-        "last_success": "2025-03-11T13:31:02.266701"
+        "overall_score": 75.36,
+        "last_success": "2025-03-11T14:23:59.677720"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1400,
-        "valid_configs": 93,
-        "unique_configs": 43,
-        "avg_response_time": 0.15,
+        "total_configs": 1407,
+        "valid_configs": 91,
+        "unique_configs": 42,
+        "avg_response_time": 0.26,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.0,
-        "last_success": "2025-03-11T13:31:02.901826"
+        "overall_score": 62.76,
+        "last_success": "2025-03-11T14:24:00.437378"
       }
     },
     {
@@ -117,14 +117,14 @@
       "url": "https://t.me/s/ShadowProxy66",
       "enabled": true,
       "metrics": {
-        "total_configs": 38,
+        "total_configs": 40,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 0.36,
+        "avg_response_time": 0.8,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 81.03,
-        "last_success": "2025-03-11T13:31:59.803413"
+        "overall_score": 80.04,
+        "last_success": "2025-03-11T14:25:00.829533"
       }
     },
     {
@@ -187,7 +187,7 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": false,
       "metrics": {
-        "total_configs": 264,
+        "total_configs": 276,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
