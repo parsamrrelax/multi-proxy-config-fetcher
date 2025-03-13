@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-13T03:40:34.206676",
+  "timestamp": "2025-03-13T04:31:11.627829",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -20,13 +20,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 66,
-        "valid_configs": 16,
-        "unique_configs": 11,
-        "avg_response_time": 0.08,
+        "valid_configs": 18,
+        "unique_configs": 10,
+        "avg_response_time": 0.12,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 73.14,
-        "last_success": "2025-03-13T03:37:40.831998"
+        "overall_score": 70.52,
+        "last_success": "2025-03-13T04:28:09.929919"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 1545,
-        "valid_configs": 95,
-        "unique_configs": 46,
-        "avg_response_time": 0.1,
+        "valid_configs": 96,
+        "unique_configs": 47,
+        "avg_response_time": 0.23,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.49,
-        "last_success": "2025-03-13T03:37:41.544529"
+        "overall_score": 63.44,
+        "last_success": "2025-03-13T04:28:10.750582"
       }
     },
     {
@@ -89,7 +89,7 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": false,
       "metrics": {
-        "total_configs": 51,
+        "total_configs": 54,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -120,11 +120,11 @@
         "total_configs": 59,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 0.5,
+        "avg_response_time": 0.75,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.49,
-        "last_success": "2025-03-13T03:38:39.237506"
+        "overall_score": 78.11,
+        "last_success": "2025-03-13T04:29:10.970021"
       }
     },
     {
