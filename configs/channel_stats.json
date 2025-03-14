@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-14T11:21:53.917739",
+  "timestamp": "2025-03-14T12:47:27.310643",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -20,13 +20,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 58,
-        "valid_configs": 16,
-        "unique_configs": 15,
-        "avg_response_time": 0.03,
+        "valid_configs": 14,
+        "unique_configs": 13,
+        "avg_response_time": 0.12,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 80.29,
-        "last_success": "2025-03-14T11:18:53.836191"
+        "overall_score": 79.07,
+        "last_success": "2025-03-14T12:44:36.584282"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 1479,
-        "valid_configs": 92,
-        "unique_configs": 42,
-        "avg_response_time": 0.21,
+        "valid_configs": 94,
+        "unique_configs": 44,
+        "avg_response_time": 0.14,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 62.66,
-        "last_success": "2025-03-14T11:18:54.621758"
+        "overall_score": 63.08,
+        "last_success": "2025-03-14T12:44:37.304017"
       }
     },
     {
@@ -89,7 +89,7 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": false,
       "metrics": {
-        "total_configs": 57,
+        "total_configs": 60,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -120,18 +120,18 @@
         "total_configs": 77,
         "valid_configs": 12,
         "unique_configs": 12,
-        "avg_response_time": 0.71,
+        "avg_response_time": 0.48,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.83,
-        "last_success": "2025-03-14T11:19:54.502677"
+        "overall_score": 78.17,
+        "last_success": "2025-03-14T12:45:34.191441"
       }
     },
     {
       "url": "https://t.me/s/OutlineReleasedKey",
       "enabled": false,
       "metrics": {
-        "total_configs": 51,
+        "total_configs": 54,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
