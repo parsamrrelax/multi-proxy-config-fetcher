@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-15T11:19:52.562450",
+  "timestamp": "2025-03-15T12:44:15.120942",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -22,25 +22,25 @@
         "total_configs": 59,
         "valid_configs": 11,
         "unique_configs": 11,
-        "avg_response_time": 0.03,
+        "avg_response_time": 0.15,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 79.61,
-        "last_success": "2025-03-15T11:16:57.253326"
+        "overall_score": 79.43,
+        "last_success": "2025-03-15T12:41:12.870893"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1458,
-        "valid_configs": 95,
+        "total_configs": 1451,
+        "valid_configs": 97,
         "unique_configs": 46,
-        "avg_response_time": 0.11,
+        "avg_response_time": 0.4,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.57,
-        "last_success": "2025-03-15T11:16:57.932383"
+        "overall_score": 62.93,
+        "last_success": "2025-03-15T12:41:13.823020"
       }
     },
     {
@@ -89,7 +89,7 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": false,
       "metrics": {
-        "total_configs": 54,
+        "total_configs": 57,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -117,14 +117,14 @@
       "url": "https://t.me/s/ShadowProxy66",
       "enabled": true,
       "metrics": {
-        "total_configs": 122,
+        "total_configs": 127,
         "valid_configs": 11,
         "unique_configs": 11,
-        "avg_response_time": 0.65,
+        "avg_response_time": 0.72,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.29,
-        "last_success": "2025-03-15T11:17:56.315898"
+        "overall_score": 76.08,
+        "last_success": "2025-03-15T12:42:15.659269"
       }
     },
     {
