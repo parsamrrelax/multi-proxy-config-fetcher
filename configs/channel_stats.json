@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-16T15:25:02.539524",
+  "timestamp": "2025-03-16T16:29:26.748440",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -19,28 +19,28 @@
       "url": "https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 52,
-        "valid_configs": 10,
-        "unique_configs": 9,
-        "avg_response_time": 0.15,
+        "total_configs": 58,
+        "valid_configs": 11,
+        "unique_configs": 10,
+        "avg_response_time": 0.05,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.08,
-        "last_success": "2025-03-16T15:22:01.276672"
+        "overall_score": 77.4,
+        "last_success": "2025-03-16T16:26:33.843491"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1479,
-        "valid_configs": 99,
-        "unique_configs": 48,
-        "avg_response_time": 0.28,
+        "total_configs": 1480,
+        "valid_configs": 98,
+        "unique_configs": 47,
+        "avg_response_time": 0.14,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.37,
-        "last_success": "2025-03-16T15:22:02.140887"
+        "overall_score": 63.43,
+        "last_success": "2025-03-16T16:26:34.564966"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": false,
       "metrics": {
-        "total_configs": 57,
+        "total_configs": 54,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -89,7 +89,7 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": false,
       "metrics": {
-        "total_configs": 57,
+        "total_configs": 60,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -120,18 +120,18 @@
         "total_configs": 80,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.77,
+        "avg_response_time": 0.63,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.66,
-        "last_success": "2025-03-16T15:23:02.243912"
+        "overall_score": 76.86,
+        "last_success": "2025-03-16T16:27:31.924818"
       }
     },
     {
       "url": "https://t.me/s/OutlineReleasedKey",
       "enabled": false,
       "metrics": {
-        "total_configs": 54,
+        "total_configs": 57,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -187,7 +187,7 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": false,
       "metrics": {
-        "total_configs": 348,
+        "total_configs": 318,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -201,7 +201,7 @@
       "url": "https://t.me/s/DirectVPN",
       "enabled": false,
       "metrics": {
-        "total_configs": 57,
+        "total_configs": 54,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
