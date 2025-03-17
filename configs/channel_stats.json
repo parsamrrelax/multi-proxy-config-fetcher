@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-17T05:26:39.886611",
+  "timestamp": "2025-03-17T06:36:31.991853",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -20,27 +20,27 @@
       "enabled": true,
       "metrics": {
         "total_configs": 58,
-        "valid_configs": 13,
-        "unique_configs": 11,
-        "avg_response_time": 0.21,
+        "valid_configs": 11,
+        "unique_configs": 10,
+        "avg_response_time": 0.36,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.45,
-        "last_success": "2025-03-17T05:23:39.335931"
+        "overall_score": 76.93,
+        "last_success": "2025-03-17T06:33:37.536577"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1473,
-        "valid_configs": 97,
-        "unique_configs": 46,
-        "avg_response_time": 0.24,
+        "total_configs": 2778,
+        "valid_configs": 99,
+        "unique_configs": 47,
+        "avg_response_time": 0.33,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.14,
-        "last_success": "2025-03-17T05:23:40.159365"
+        "overall_score": 62.27,
+        "last_success": "2025-03-17T06:33:39.703262"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": false,
       "metrics": {
-        "total_configs": 51,
+        "total_configs": 54,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -120,18 +120,18 @@
         "total_configs": 61,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.75,
+        "avg_response_time": 0.52,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.56,
-        "last_success": "2025-03-17T05:24:40.312231"
+        "overall_score": 77.9,
+        "last_success": "2025-03-17T06:34:36.964355"
       }
     },
     {
       "url": "https://t.me/s/OutlineReleasedKey",
       "enabled": false,
       "metrics": {
-        "total_configs": 57,
+        "total_configs": 60,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
