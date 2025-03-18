@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-18T16:33:46.564406",
+  "timestamp": "2025-03-18T17:24:15.253525",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -19,28 +19,28 @@
       "url": "https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 62,
-        "valid_configs": 13,
-        "unique_configs": 12,
-        "avg_response_time": 0.37,
+        "total_configs": 65,
+        "valid_configs": 14,
+        "unique_configs": 13,
+        "avg_response_time": 0.38,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.76,
-        "last_success": "2025-03-18T16:30:43.612502"
+        "overall_score": 78.03,
+        "last_success": "2025-03-18T17:21:12.782335"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 2526,
-        "valid_configs": 95,
-        "unique_configs": 45,
-        "avg_response_time": 0.46,
+        "total_configs": 2527,
+        "valid_configs": 94,
+        "unique_configs": 44,
+        "avg_response_time": 0.53,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 62.1,
-        "last_success": "2025-03-18T16:30:45.585203"
+        "overall_score": 61.84,
+        "last_success": "2025-03-18T17:21:14.822441"
       }
     },
     {
@@ -117,14 +117,14 @@
       "url": "https://t.me/s/ShadowProxy66",
       "enabled": true,
       "metrics": {
-        "total_configs": 41,
+        "total_configs": 49,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.8,
+        "avg_response_time": 0.69,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 79.29,
-        "last_success": "2025-03-18T16:31:46.296132"
+        "overall_score": 78.56,
+        "last_success": "2025-03-18T17:22:14.842192"
       }
     },
     {
