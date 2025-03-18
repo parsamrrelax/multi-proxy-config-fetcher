@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-18T09:28:59.613704",
+  "timestamp": "2025-03-18T10:28:32.707677",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -19,28 +19,28 @@
       "url": "https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 61,
-        "valid_configs": 17,
-        "unique_configs": 16,
-        "avg_response_time": 0.11,
+        "total_configs": 62,
+        "valid_configs": 15,
+        "unique_configs": 14,
+        "avg_response_time": 0.16,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 80.34,
-        "last_success": "2025-03-18T09:26:03.312147"
+        "overall_score": 79.14,
+        "last_success": "2025-03-18T10:25:29.841330"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 2529,
-        "valid_configs": 92,
-        "unique_configs": 41,
-        "avg_response_time": 0.16,
+        "total_configs": 2528,
+        "valid_configs": 94,
+        "unique_configs": 43,
+        "avg_response_time": 0.18,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 61.8,
-        "last_success": "2025-03-18T09:26:04.981618"
+        "overall_score": 62.09,
+        "last_success": "2025-03-18T10:25:31.529359"
       }
     },
     {
@@ -89,7 +89,7 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": false,
       "metrics": {
-        "total_configs": 48,
+        "total_configs": 36,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -120,11 +120,11 @@
         "total_configs": 27,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.56,
+        "avg_response_time": 0.72,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 82.49,
-        "last_success": "2025-03-18T09:27:03.353327"
+        "overall_score": 82.25,
+        "last_success": "2025-03-18T10:26:32.249972"
       }
     },
     {
@@ -215,7 +215,7 @@
       "url": "https://t.me/s/Parsashonam",
       "enabled": false,
       "metrics": {
-        "total_configs": 60,
+        "total_configs": 54,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
