@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-18T21:24:18.358897",
+  "timestamp": "2025-03-18T22:25:03.636140",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -20,27 +20,27 @@
       "enabled": true,
       "metrics": {
         "total_configs": 65,
-        "valid_configs": 15,
-        "unique_configs": 14,
-        "avg_response_time": 0.1,
+        "valid_configs": 16,
+        "unique_configs": 15,
+        "avg_response_time": 0.09,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.95,
-        "last_success": "2025-03-18T21:21:22.211243"
+        "overall_score": 79.46,
+        "last_success": "2025-03-18T22:22:11.511048"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 2523,
-        "valid_configs": 93,
-        "unique_configs": 43,
-        "avg_response_time": 0.38,
+        "total_configs": 2525,
+        "valid_configs": 92,
+        "unique_configs": 42,
+        "avg_response_time": 0.35,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 61.91,
-        "last_success": "2025-03-18T21:21:24.095483"
+        "overall_score": 61.81,
+        "last_success": "2025-03-18T22:22:13.359842"
       }
     },
     {
@@ -117,14 +117,14 @@
       "url": "https://t.me/s/ShadowProxy66",
       "enabled": true,
       "metrics": {
-        "total_configs": 49,
+        "total_configs": 69,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.53,
+        "avg_response_time": 0.47,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.8,
-        "last_success": "2025-03-18T21:22:22.518391"
+        "overall_score": 77.55,
+        "last_success": "2025-03-18T22:23:10.011708"
       }
     },
     {
@@ -173,7 +173,7 @@
       "url": "https://t.me/s/proxy_shadosocks",
       "enabled": false,
       "metrics": {
-        "total_configs": 18,
+        "total_configs": 9,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
