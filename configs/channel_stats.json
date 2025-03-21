@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-21T21:23:51.426047",
+  "timestamp": "2025-03-21T22:25:23.144909",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -22,11 +22,11 @@
         "total_configs": 71,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.07,
+        "avg_response_time": 0.12,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 80.17,
-        "last_success": "2025-03-21T21:21:00.722941"
+        "overall_score": 80.11,
+        "last_success": "2025-03-21T22:22:22.978982"
       }
     },
     {
@@ -36,18 +36,18 @@
         "total_configs": 1951,
         "valid_configs": 95,
         "unique_configs": 42,
-        "avg_response_time": 0.1,
+        "avg_response_time": 0.2,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 62.12,
-        "last_success": "2025-03-21T21:21:01.740068"
+        "overall_score": 61.97,
+        "last_success": "2025-03-21T22:22:24.094513"
       }
     },
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": false,
       "metrics": {
-        "total_configs": 60,
+        "total_configs": 81,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -120,11 +120,11 @@
         "total_configs": 158,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.49,
+        "avg_response_time": 0.75,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.69,
-        "last_success": "2025-03-21T21:21:58.357302"
+        "overall_score": 75.3,
+        "last_success": "2025-03-21T22:23:24.079747"
       }
     },
     {
@@ -187,7 +187,7 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": true,
       "metrics": {
-        "total_configs": 397,
+        "total_configs": 384,
         "valid_configs": 3,
         "unique_configs": 1,
         "avg_response_time": 0,
