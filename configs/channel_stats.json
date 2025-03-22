@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-22T05:24:25.389867",
+  "timestamp": "2025-03-22T06:33:20.823178",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -22,25 +22,25 @@
         "total_configs": 69,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.08,
+        "avg_response_time": 0.04,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 80.31,
-        "last_success": "2025-03-22T05:21:33.255503"
+        "overall_score": 80.37,
+        "last_success": "2025-03-22T06:30:28.417720"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1962,
+        "total_configs": 1950,
         "valid_configs": 95,
         "unique_configs": 42,
-        "avg_response_time": 0.15,
+        "avg_response_time": 0.18,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 62.04,
-        "last_success": "2025-03-22T05:21:34.333448"
+        "overall_score": 62.0,
+        "last_success": "2025-03-22T06:30:29.517726"
       }
     },
     {
@@ -89,7 +89,7 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": false,
       "metrics": {
-        "total_configs": 57,
+        "total_configs": 60,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -120,11 +120,11 @@
         "total_configs": 158,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.51,
+        "avg_response_time": 0.54,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.66,
-        "last_success": "2025-03-22T05:22:31.628678"
+        "overall_score": 75.61,
+        "last_success": "2025-03-22T06:31:26.930060"
       }
     },
     {
