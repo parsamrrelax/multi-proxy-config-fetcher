@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-23T03:09:53.351879",
+  "timestamp": "2025-03-23T04:29:30.930565",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -20,27 +20,27 @@
       "enabled": true,
       "metrics": {
         "total_configs": 82,
-        "valid_configs": 19,
+        "valid_configs": 21,
         "unique_configs": 15,
-        "avg_response_time": 0.16,
+        "avg_response_time": 0.04,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.29,
-        "last_success": "2025-03-23T03:06:50.448645"
+        "overall_score": 74.19,
+        "last_success": "2025-03-23T04:26:39.072017"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1513,
+        "total_configs": 1509,
         "valid_configs": 96,
         "unique_configs": 42,
-        "avg_response_time": 0.16,
+        "avg_response_time": 0.12,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 62.29,
-        "last_success": "2025-03-23T03:06:51.175445"
+        "overall_score": 62.34,
+        "last_success": "2025-03-23T04:26:39.762408"
       }
     },
     {
@@ -89,7 +89,7 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": false,
       "metrics": {
-        "total_configs": 48,
+        "total_configs": 51,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -120,11 +120,11 @@
         "total_configs": 35,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.66,
+        "avg_response_time": 0.45,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 80.43,
-        "last_success": "2025-03-23T03:07:52.361068"
+        "overall_score": 80.75,
+        "last_success": "2025-03-23T04:27:36.615979"
       }
     },
     {
