@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-23T08:30:23.754617",
+  "timestamp": "2025-03-23T09:24:35.433000",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -20,13 +20,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 82,
-        "valid_configs": 20,
+        "valid_configs": 21,
         "unique_configs": 15,
-        "avg_response_time": 0.03,
+        "avg_response_time": 0.1,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.8,
-        "last_success": "2025-03-23T08:27:28.194989"
+        "overall_score": 74.11,
+        "last_success": "2025-03-23T09:21:39.988493"
       }
     },
     {
@@ -36,11 +36,11 @@
         "total_configs": 1495,
         "valid_configs": 113,
         "unique_configs": 42,
-        "avg_response_time": 0.11,
+        "avg_response_time": 0.12,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 61.01,
-        "last_success": "2025-03-23T08:27:28.866422"
+        "overall_score": 61.0,
+        "last_success": "2025-03-23T09:21:40.666356"
       }
     },
     {
@@ -124,7 +124,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 78.56,
-        "last_success": "2025-03-23T08:28:27.313941"
+        "last_success": "2025-03-23T09:22:39.044928"
       }
     },
     {
@@ -185,15 +185,15 @@
     },
     {
       "url": "https://t.me/s/meli_proxyy",
-      "enabled": false,
+      "enabled": true,
       "metrics": {
-        "total_configs": 252,
-        "valid_configs": 0,
-        "unique_configs": 0,
+        "total_configs": 240,
+        "valid_configs": 6,
+        "unique_configs": 2,
         "avg_response_time": 0,
         "success_count": 0,
-        "fail_count": 1,
-        "overall_score": 15.0,
+        "fail_count": 0,
+        "overall_score": 0.0,
         "last_success": null
       }
     },
@@ -258,7 +258,7 @@
       "enabled": true,
       "metrics": {
         "total_configs": 123,
-        "valid_configs": 9,
+        "valid_configs": 3,
         "unique_configs": 3,
         "avg_response_time": 0,
         "success_count": 0,
