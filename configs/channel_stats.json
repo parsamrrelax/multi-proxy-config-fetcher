@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-24T16:33:57.222148",
+  "timestamp": "2025-03-24T17:24:20.345509",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -20,13 +20,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 81,
-        "valid_configs": 20,
-        "unique_configs": 15,
-        "avg_response_time": 0.03,
+        "valid_configs": 19,
+        "unique_configs": 14,
+        "avg_response_time": 0.14,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.87,
-        "last_success": "2025-03-24T16:31:16.969163"
+        "overall_score": 74.07,
+        "last_success": "2025-03-24T17:21:37.801437"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 1370,
-        "valid_configs": 96,
-        "unique_configs": 42,
-        "avg_response_time": 0.14,
+        "valid_configs": 97,
+        "unique_configs": 43,
+        "avg_response_time": 0.12,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 62.48,
-        "last_success": "2025-03-24T16:31:17.578131"
+        "overall_score": 62.68,
+        "last_success": "2025-03-24T17:21:38.385506"
       }
     },
     {
@@ -117,14 +117,14 @@
       "url": "https://t.me/s/ShadowProxy66",
       "enabled": true,
       "metrics": {
-        "total_configs": 79,
+        "total_configs": 96,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.54,
+        "avg_response_time": 0.6,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.04,
-        "last_success": "2025-03-24T16:32:14.517369"
+        "overall_score": 76.45,
+        "last_success": "2025-03-24T17:22:36.299120"
       }
     },
     {
@@ -190,11 +190,11 @@
         "total_configs": 119,
         "valid_configs": 6,
         "unique_configs": 5,
-        "avg_response_time": 0.38,
+        "avg_response_time": 0.45,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 71.53,
-        "last_success": "2025-03-24T16:33:00.857938"
+        "overall_score": 71.42,
+        "last_success": "2025-03-24T17:23:23.251480"
       }
     },
     {
