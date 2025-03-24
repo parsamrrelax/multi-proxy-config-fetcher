@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-24T13:35:22.732225",
+  "timestamp": "2025-03-24T14:26:41.560496",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -22,25 +22,25 @@
         "total_configs": 76,
         "valid_configs": 16,
         "unique_configs": 15,
-        "avg_response_time": 0.18,
+        "avg_response_time": 0.11,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.43,
-        "last_success": "2025-03-24T13:32:33.585705"
+        "overall_score": 78.53,
+        "last_success": "2025-03-24T14:23:51.500974"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1374,
+        "total_configs": 1369,
         "valid_configs": 112,
         "unique_configs": 42,
-        "avg_response_time": 0.28,
+        "avg_response_time": 0.2,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 61.0,
-        "last_success": "2025-03-24T13:32:34.333787"
+        "overall_score": 61.12,
+        "last_success": "2025-03-24T14:23:52.169103"
       }
     },
     {
@@ -89,7 +89,7 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": false,
       "metrics": {
-        "total_configs": 48,
+        "total_configs": 51,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -120,11 +120,11 @@
         "total_configs": 79,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.77,
+        "avg_response_time": 0.79,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.7,
-        "last_success": "2025-03-24T13:33:34.567934"
+        "overall_score": 76.66,
+        "last_success": "2025-03-24T14:24:52.747298"
       }
     },
     {
@@ -190,11 +190,11 @@
         "total_configs": 117,
         "valid_configs": 6,
         "unique_configs": 5,
-        "avg_response_time": 0.61,
+        "avg_response_time": 0.62,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 71.2,
-        "last_success": "2025-03-24T13:34:23.173399"
+        "overall_score": 71.18,
+        "last_success": "2025-03-24T14:25:41.964784"
       }
     },
     {
@@ -229,7 +229,7 @@
       "url": "https://t.me/s/ArV2ray",
       "enabled": false,
       "metrics": {
-        "total_configs": 54,
+        "total_configs": 51,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -257,7 +257,7 @@
       "url": "https://t.me/s/VmessProtocol",
       "enabled": false,
       "metrics": {
-        "total_configs": 119,
+        "total_configs": 117,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
