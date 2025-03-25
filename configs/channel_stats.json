@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-25T07:27:29.741884",
+  "timestamp": "2025-03-25T08:33:35.694228",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -19,28 +19,28 @@
       "url": "https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 93,
+        "total_configs": 94,
         "valid_configs": 21,
         "unique_configs": 15,
-        "avg_response_time": 0.1,
+        "avg_response_time": 0.18,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 73.35,
-        "last_success": "2025-03-25T07:24:32.938751"
+        "overall_score": 73.18,
+        "last_success": "2025-03-25T08:30:28.840765"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1209,
-        "valid_configs": 95,
+        "total_configs": 1205,
+        "valid_configs": 112,
         "unique_configs": 42,
-        "avg_response_time": 0.21,
+        "avg_response_time": 0.23,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 62.7,
-        "last_success": "2025-03-25T07:24:33.526221"
+        "overall_score": 61.35,
+        "last_success": "2025-03-25T08:30:29.451326"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": false,
       "metrics": {
-        "total_configs": 51,
+        "total_configs": 48,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -190,11 +190,11 @@
         "total_configs": 128,
         "valid_configs": 6,
         "unique_configs": 5,
-        "avg_response_time": 0.6,
+        "avg_response_time": 1.46,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 71.11,
-        "last_success": "2025-03-25T07:26:30.619932"
+        "overall_score": 69.81,
+        "last_success": "2025-03-25T08:32:34.675193"
       }
     },
     {
@@ -257,7 +257,7 @@
       "url": "https://t.me/s/VmessProtocol",
       "enabled": false,
       "metrics": {
-        "total_configs": 135,
+        "total_configs": 111,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
