@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-26T14:26:46.166156",
+  "timestamp": "2025-03-26T15:29:11.259204",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -22,11 +22,11 @@
         "total_configs": 93,
         "valid_configs": 23,
         "unique_configs": 15,
-        "avg_response_time": 0.12,
+        "avg_response_time": 0.05,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 72.3,
-        "last_success": "2025-03-26T14:23:59.448941"
+        "overall_score": 72.42,
+        "last_success": "2025-03-26T15:26:31.390056"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 1221,
-        "valid_configs": 112,
+        "valid_configs": 95,
         "unique_configs": 42,
-        "avg_response_time": 0.12,
+        "avg_response_time": 0.06,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 61.49,
-        "last_success": "2025-03-26T14:23:59.961808"
+        "overall_score": 62.91,
+        "last_success": "2025-03-26T15:26:31.849005"
       }
     },
     {
@@ -120,11 +120,11 @@
         "total_configs": 64,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 1.67,
+        "avg_response_time": 0.49,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.01,
-        "last_success": "2025-03-26T14:24:58.972264"
+        "overall_score": 77.78,
+        "last_success": "2025-03-26T15:27:28.698218"
       }
     },
     {
@@ -187,7 +187,7 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": false,
       "metrics": {
-        "total_configs": 333,
+        "total_configs": 297,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -257,14 +257,14 @@
       "url": "https://t.me/s/VmessProtocol",
       "enabled": true,
       "metrics": {
-        "total_configs": 34,
+        "total_configs": 42,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 1.65,
+        "avg_response_time": 0.42,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.2,
-        "last_success": "2025-03-26T14:26:46.164233"
+        "overall_score": 77.35,
+        "last_success": "2025-03-26T15:29:11.257594"
       }
     }
   ]
