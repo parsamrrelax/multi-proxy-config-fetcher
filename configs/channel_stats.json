@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-28T20:29:37.563837",
+  "timestamp": "2025-03-28T21:24:36.722921",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -22,11 +22,11 @@
         "total_configs": 81,
         "valid_configs": 16,
         "unique_configs": 12,
-        "avg_response_time": 0.16,
+        "avg_response_time": 0.04,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 73.45,
-        "last_success": "2025-03-28T20:25:48.823955"
+        "overall_score": 73.64,
+        "last_success": "2025-03-28T21:21:43.562801"
       }
     },
     {
@@ -36,11 +36,11 @@
         "total_configs": 1189,
         "valid_configs": 96,
         "unique_configs": 45,
-        "avg_response_time": 0.16,
+        "avg_response_time": 0.17,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.5,
-        "last_success": "2025-03-28T20:25:49.354347"
+        "overall_score": 63.48,
+        "last_success": "2025-03-28T21:21:44.107017"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": false,
       "metrics": {
-        "total_configs": 34,
+        "total_configs": 51,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -187,14 +187,14 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": true,
       "metrics": {
-        "total_configs": 56,
-        "valid_configs": 8,
-        "unique_configs": 8,
-        "avg_response_time": 0.59,
+        "total_configs": 62,
+        "valid_configs": 10,
+        "unique_configs": 10,
+        "avg_response_time": 0.44,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.68,
-        "last_success": "2025-03-28T20:28:38.343796"
+        "overall_score": 78.37,
+        "last_success": "2025-03-28T21:23:39.615110"
       }
     },
     {
@@ -258,8 +258,8 @@
       "enabled": true,
       "metrics": {
         "total_configs": 126,
-        "valid_configs": 4,
-        "unique_configs": 4,
+        "valid_configs": 2,
+        "unique_configs": 2,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
