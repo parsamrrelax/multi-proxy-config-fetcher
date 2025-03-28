@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-28T16:32:33.098363",
+  "timestamp": "2025-03-28T17:23:50.535840",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -22,25 +22,25 @@
         "total_configs": 81,
         "valid_configs": 18,
         "unique_configs": 14,
-        "avg_response_time": 0.19,
+        "avg_response_time": 0.05,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.71,
-        "last_success": "2025-03-28T16:29:32.525198"
+        "overall_score": 74.92,
+        "last_success": "2025-03-28T17:20:59.556982"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1189,
-        "valid_configs": 94,
+        "total_configs": 1198,
+        "valid_configs": 95,
         "unique_configs": 43,
-        "avg_response_time": 0.26,
+        "avg_response_time": 0.13,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.03,
-        "last_success": "2025-03-28T16:29:33.165134"
+        "overall_score": 63.1,
+        "last_success": "2025-03-28T17:21:00.075165"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": false,
       "metrics": {
-        "total_configs": 48,
+        "total_configs": 54,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -190,18 +190,18 @@
         "total_configs": 74,
         "valid_configs": 8,
         "unique_configs": 8,
-        "avg_response_time": 0.62,
+        "avg_response_time": 0.38,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.77,
-        "last_success": "2025-03-28T16:31:33.877437"
+        "overall_score": 77.14,
+        "last_success": "2025-03-28T17:22:54.256772"
       }
     },
     {
       "url": "https://t.me/s/DirectVPN",
       "enabled": false,
       "metrics": {
-        "total_configs": 51,
+        "total_configs": 54,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -229,7 +229,7 @@
       "url": "https://t.me/s/ArV2ray",
       "enabled": false,
       "metrics": {
-        "total_configs": 54,
+        "total_configs": 57,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
