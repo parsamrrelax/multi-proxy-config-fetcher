@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-29T16:31:26.259711",
+  "timestamp": "2025-03-29T17:22:14.480194",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -22,11 +22,11 @@
         "total_configs": 75,
         "valid_configs": 13,
         "unique_configs": 10,
-        "avg_response_time": 0.15,
+        "avg_response_time": 0.04,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 73.34,
-        "last_success": "2025-03-29T16:28:25.406362"
+        "overall_score": 73.5,
+        "last_success": "2025-03-29T17:19:23.038640"
       }
     },
     {
@@ -36,11 +36,11 @@
         "total_configs": 1209,
         "valid_configs": 98,
         "unique_configs": 47,
-        "avg_response_time": 0.21,
+        "avg_response_time": 0.16,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.7,
-        "last_success": "2025-03-29T16:28:26.009118"
+        "overall_score": 63.78,
+        "last_success": "2025-03-29T17:19:23.586774"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": false,
       "metrics": {
-        "total_configs": 48,
+        "total_configs": 54,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -190,18 +190,18 @@
         "total_configs": 89,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 0.62,
+        "avg_response_time": 0.47,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.88,
-        "last_success": "2025-03-29T16:30:27.025371"
+        "overall_score": 77.1,
+        "last_success": "2025-03-29T17:21:18.278537"
       }
     },
     {
       "url": "https://t.me/s/DirectVPN",
       "enabled": false,
       "metrics": {
-        "total_configs": 51,
+        "total_configs": 54,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -257,7 +257,7 @@
       "url": "https://t.me/s/VmessProtocol",
       "enabled": true,
       "metrics": {
-        "total_configs": 129,
+        "total_configs": 126,
         "valid_configs": 2,
         "unique_configs": 2,
         "avg_response_time": 0,
