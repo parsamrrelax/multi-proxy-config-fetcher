@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-29T17:22:14.480194",
+  "timestamp": "2025-03-29T18:33:19.497053",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -22,25 +22,25 @@
         "total_configs": 75,
         "valid_configs": 13,
         "unique_configs": 10,
-        "avg_response_time": 0.04,
+        "avg_response_time": 0.16,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 73.5,
-        "last_success": "2025-03-29T17:19:23.038640"
+        "overall_score": 73.33,
+        "last_success": "2025-03-29T18:30:07.120742"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1209,
+        "total_configs": 1224,
         "valid_configs": 98,
         "unique_configs": 47,
-        "avg_response_time": 0.16,
+        "avg_response_time": 0.2,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.78,
-        "last_success": "2025-03-29T17:19:23.586774"
+        "overall_score": 63.7,
+        "last_success": "2025-03-29T18:30:07.717296"
       }
     },
     {
@@ -117,7 +117,7 @@
       "url": "https://t.me/s/ShadowProxy66",
       "enabled": false,
       "metrics": {
-        "total_configs": 0,
+        "total_configs": 30,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -187,14 +187,14 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": true,
       "metrics": {
-        "total_configs": 89,
-        "valid_configs": 10,
-        "unique_configs": 10,
-        "avg_response_time": 0.47,
-        "success_count": 1,
+        "total_configs": 240,
+        "valid_configs": 9,
+        "unique_configs": 3,
+        "avg_response_time": 0,
+        "success_count": 0,
         "fail_count": 0,
-        "overall_score": 77.1,
-        "last_success": "2025-03-29T17:21:18.278537"
+        "overall_score": 0.0,
+        "last_success": null
       }
     },
     {
