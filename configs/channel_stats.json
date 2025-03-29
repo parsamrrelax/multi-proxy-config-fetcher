@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-29T07:23:20.751001",
+  "timestamp": "2025-03-29T08:31:02.344309",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -26,21 +26,21 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 73.67,
-        "last_success": "2025-03-29T07:20:30.130728"
+        "last_success": "2025-03-29T08:28:11.552794"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1186,
+        "total_configs": 1197,
         "valid_configs": 96,
         "unique_configs": 45,
         "avg_response_time": 0.11,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.58,
-        "last_success": "2025-03-29T07:20:30.609723"
+        "overall_score": 63.56,
+        "last_success": "2025-03-29T08:28:12.041651"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": false,
       "metrics": {
-        "total_configs": 51,
+        "total_configs": 48,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -190,11 +190,11 @@
         "total_configs": 61,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 0.37,
+        "avg_response_time": 0.38,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.55,
-        "last_success": "2025-03-29T07:22:24.672627"
+        "overall_score": 78.53,
+        "last_success": "2025-03-29T08:30:06.178072"
       }
     },
     {
@@ -257,7 +257,7 @@
       "url": "https://t.me/s/VmessProtocol",
       "enabled": true,
       "metrics": {
-        "total_configs": 126,
+        "total_configs": 129,
         "valid_configs": 2,
         "unique_configs": 2,
         "avg_response_time": 0,
