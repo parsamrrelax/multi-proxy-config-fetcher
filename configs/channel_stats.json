@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-30T14:24:06.844466",
+  "timestamp": "2025-03-30T15:25:38.605491",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -19,28 +19,28 @@
       "url": "https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 68,
-        "valid_configs": 11,
-        "unique_configs": 11,
+        "total_configs": 57,
+        "valid_configs": 10,
+        "unique_configs": 10,
         "avg_response_time": 0.09,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.91,
-        "last_success": "2025-03-30T14:21:16.120917"
+        "overall_score": 79.25,
+        "last_success": "2025-03-30T15:22:47.758360"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1231,
+        "total_configs": 1239,
         "valid_configs": 98,
-        "unique_configs": 46,
-        "avg_response_time": 0.04,
+        "unique_configs": 47,
+        "avg_response_time": 0.15,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.66,
-        "last_success": "2025-03-30T14:21:16.560498"
+        "overall_score": 63.75,
+        "last_success": "2025-03-30T15:22:48.309861"
       }
     },
     {
@@ -117,14 +117,14 @@
       "url": "https://t.me/s/ShadowProxy66",
       "enabled": true,
       "metrics": {
-        "total_configs": 20,
+        "total_configs": 31,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.55,
+        "avg_response_time": 0.49,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 85.42,
-        "last_success": "2025-03-30T14:22:13.261512"
+        "overall_score": 81.52,
+        "last_success": "2025-03-30T15:23:45.110830"
       }
     },
     {
