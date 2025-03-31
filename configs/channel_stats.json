@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-31T08:35:54.237404",
+  "timestamp": "2025-03-31T09:30:02.577332",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -26,7 +26,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 80.14,
-        "last_success": "2025-03-31T08:33:02.652955"
+        "last_success": "2025-03-31T09:27:10.155956"
       }
     },
     {
@@ -36,11 +36,11 @@
         "total_configs": 1259,
         "valid_configs": 97,
         "unique_configs": 46,
-        "avg_response_time": 0.16,
+        "avg_response_time": 0.29,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.54,
-        "last_success": "2025-03-31T08:33:03.225710"
+        "overall_score": 63.35,
+        "last_success": "2025-03-31T09:27:10.860616"
       }
     },
     {
@@ -117,14 +117,14 @@
       "url": "https://t.me/s/ShadowProxy66",
       "enabled": true,
       "metrics": {
-        "total_configs": 31,
+        "total_configs": 21,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.6,
+        "avg_response_time": 0.44,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 81.36,
-        "last_success": "2025-03-31T08:34:00.860525"
+        "overall_score": 85.05,
+        "last_success": "2025-03-31T09:28:08.209467"
       }
     },
     {
@@ -257,7 +257,7 @@
       "url": "https://t.me/s/VmessProtocol",
       "enabled": true,
       "metrics": {
-        "total_configs": 120,
+        "total_configs": 126,
         "valid_configs": 3,
         "unique_configs": 1,
         "avg_response_time": 0,
