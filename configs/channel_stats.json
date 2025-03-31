@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-31T07:27:22.669980",
+  "timestamp": "2025-03-31T08:35:54.237404",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -20,27 +20,27 @@
       "enabled": true,
       "metrics": {
         "total_configs": 52,
-        "valid_configs": 9,
-        "unique_configs": 9,
-        "avg_response_time": 0.04,
+        "valid_configs": 11,
+        "unique_configs": 11,
+        "avg_response_time": 0.1,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 79.26,
-        "last_success": "2025-03-31T07:24:31.446450"
+        "overall_score": 80.14,
+        "last_success": "2025-03-31T08:33:02.652955"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1258,
-        "valid_configs": 99,
-        "unique_configs": 48,
-        "avg_response_time": 0.1,
+        "total_configs": 1259,
+        "valid_configs": 97,
+        "unique_configs": 46,
+        "avg_response_time": 0.16,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.94,
-        "last_success": "2025-03-31T07:24:31.955813"
+        "overall_score": 63.54,
+        "last_success": "2025-03-31T08:33:03.225710"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": false,
       "metrics": {
-        "total_configs": 51,
+        "total_configs": 48,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -120,11 +120,11 @@
         "total_configs": 31,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.54,
+        "avg_response_time": 0.6,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 81.45,
-        "last_success": "2025-03-31T07:25:29.030290"
+        "overall_score": 81.36,
+        "last_success": "2025-03-31T08:34:00.860525"
       }
     },
     {
