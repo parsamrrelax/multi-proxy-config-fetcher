@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-31T15:28:56.864722",
+  "timestamp": "2025-03-31T16:33:09.555535",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -19,28 +19,28 @@
       "url": "https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 58,
-        "valid_configs": 12,
-        "unique_configs": 11,
+        "total_configs": 52,
+        "valid_configs": 7,
+        "unique_configs": 7,
         "avg_response_time": 0.14,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.88,
-        "last_success": "2025-03-31T15:26:00.780667"
+        "overall_score": 78.16,
+        "last_success": "2025-03-31T16:30:16.008817"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1254,
-        "valid_configs": 98,
-        "unique_configs": 46,
-        "avg_response_time": 0.21,
+        "total_configs": 1262,
+        "valid_configs": 103,
+        "unique_configs": 50,
+        "avg_response_time": 0.22,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.37,
-        "last_success": "2025-03-31T15:26:01.403933"
+        "overall_score": 63.85,
+        "last_success": "2025-03-31T16:30:16.640156"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": false,
       "metrics": {
-        "total_configs": 48,
+        "total_configs": 54,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -120,11 +120,11 @@
         "total_configs": 21,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.49,
+        "avg_response_time": 0.44,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 84.98,
-        "last_success": "2025-03-31T15:27:00.761746"
+        "overall_score": 85.05,
+        "last_success": "2025-03-31T16:31:14.373417"
       }
     },
     {
@@ -187,7 +187,7 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": false,
       "metrics": {
-        "total_configs": 294,
+        "total_configs": 303,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -201,7 +201,7 @@
       "url": "https://t.me/s/DirectVPN",
       "enabled": false,
       "metrics": {
-        "total_configs": 51,
+        "total_configs": 54,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
