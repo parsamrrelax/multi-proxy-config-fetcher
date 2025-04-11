@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-11T20:29:31.685169",
+  "timestamp": "2025-04-11T21:25:15.233236",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -36,11 +36,11 @@
         "total_configs": 1428,
         "valid_configs": 104,
         "unique_configs": 53,
-        "avg_response_time": 0.27,
+        "avg_response_time": 0.1,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 64.15,
-        "last_success": "2025-04-11T20:26:21.766932"
+        "overall_score": 64.41,
+        "last_success": "2025-04-11T21:22:12.262631"
       }
     },
     {
@@ -120,11 +120,11 @@
         "total_configs": 39,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.61,
+        "avg_response_time": 1.05,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 79.85,
-        "last_success": "2025-04-11T20:27:24.290127"
+        "overall_score": 79.2,
+        "last_success": "2025-04-11T21:23:14.989447"
       }
     },
     {
@@ -187,7 +187,7 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": false,
       "metrics": {
-        "total_configs": 279,
+        "total_configs": 276,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
