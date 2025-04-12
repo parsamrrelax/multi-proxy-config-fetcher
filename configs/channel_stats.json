@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-12T18:33:14.465337",
+  "timestamp": "2025-04-12T19:21:10.898660",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -20,13 +20,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 60,
-        "valid_configs": 10,
-        "unique_configs": 10,
-        "avg_response_time": 0.11,
+        "valid_configs": 9,
+        "unique_configs": 9,
+        "avg_response_time": 0.03,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 79.01,
-        "last_success": "2025-04-12T18:30:03.527223"
+        "overall_score": 78.7,
+        "last_success": "2025-04-12T19:18:02.812328"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 1411,
-        "valid_configs": 95,
-        "unique_configs": 47,
-        "avg_response_time": 0.15,
+        "valid_configs": 96,
+        "unique_configs": 48,
+        "avg_response_time": 0.1,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.82,
-        "last_success": "2025-04-12T18:30:04.165771"
+        "overall_score": 64.04,
+        "last_success": "2025-04-12T19:18:03.400381"
       }
     },
     {
@@ -89,7 +89,7 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": false,
       "metrics": {
-        "total_configs": 57,
+        "total_configs": 54,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -120,11 +120,11 @@
         "total_configs": 39,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.43,
+        "avg_response_time": 1.01,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 80.12,
-        "last_success": "2025-04-12T18:31:07.490445"
+        "overall_score": 79.26,
+        "last_success": "2025-04-12T19:19:06.631757"
       }
     },
     {
@@ -159,7 +159,7 @@
       "url": "https://t.me/s/prrofile_purple",
       "enabled": false,
       "metrics": {
-        "total_configs": 207,
+        "total_configs": 231,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
