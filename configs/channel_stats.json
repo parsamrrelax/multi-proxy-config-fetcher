@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-12T07:24:07.473109",
+  "timestamp": "2025-04-12T08:31:09.385111",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -20,27 +20,27 @@
       "enabled": true,
       "metrics": {
         "total_configs": 63,
-        "valid_configs": 11,
-        "unique_configs": 10,
-        "avg_response_time": 0.03,
+        "valid_configs": 13,
+        "unique_configs": 13,
+        "avg_response_time": 0.08,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.04,
-        "last_success": "2025-04-12T07:21:02.078290"
+        "overall_score": 80.05,
+        "last_success": "2025-04-12T08:28:04.366711"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1416,
-        "valid_configs": 95,
-        "unique_configs": 47,
-        "avg_response_time": 0.1,
+        "total_configs": 1415,
+        "valid_configs": 92,
+        "unique_configs": 44,
+        "avg_response_time": 0.15,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.89,
-        "last_success": "2025-04-12T07:21:02.676324"
+        "overall_score": 63.36,
+        "last_success": "2025-04-12T08:28:05.005016"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": false,
       "metrics": {
-        "total_configs": 54,
+        "total_configs": 51,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -120,11 +120,11 @@
         "total_configs": 39,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 1.05,
+        "avg_response_time": 0.38,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 79.2,
-        "last_success": "2025-04-12T07:22:04.857047"
+        "overall_score": 80.21,
+        "last_success": "2025-04-12T08:29:07.418851"
       }
     },
     {
@@ -215,7 +215,7 @@
       "url": "https://t.me/s/Parsashonam",
       "enabled": false,
       "metrics": {
-        "total_configs": 114,
+        "total_configs": 111,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
