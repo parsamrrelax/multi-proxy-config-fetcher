@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-13T12:46:35.520558",
+  "timestamp": "2025-04-13T13:33:27.751707",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -19,14 +19,14 @@
       "url": "https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 61,
+        "total_configs": 59,
         "valid_configs": 12,
         "unique_configs": 10,
-        "avg_response_time": 0.11,
+        "avg_response_time": 0.17,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.58,
-        "last_success": "2025-04-13T12:43:30.527981"
+        "overall_score": 75.66,
+        "last_success": "2025-04-13T13:30:12.266483"
       }
     },
     {
@@ -36,11 +36,11 @@
         "total_configs": 1451,
         "valid_configs": 95,
         "unique_configs": 47,
-        "avg_response_time": 0.06,
+        "avg_response_time": 0.17,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.92,
-        "last_success": "2025-04-13T12:43:31.096312"
+        "overall_score": 63.75,
+        "last_success": "2025-04-13T13:30:12.942939"
       }
     },
     {
@@ -89,7 +89,7 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": false,
       "metrics": {
-        "total_configs": 60,
+        "total_configs": 54,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -120,11 +120,11 @@
         "total_configs": 39,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.49,
+        "avg_response_time": 0.62,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 80.03,
-        "last_success": "2025-04-13T12:44:31.519671"
+        "overall_score": 79.84,
+        "last_success": "2025-04-13T13:31:18.889739"
       }
     },
     {
@@ -187,7 +187,7 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": false,
       "metrics": {
-        "total_configs": 495,
+        "total_configs": 558,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
