@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-13T07:24:22.307494",
+  "timestamp": "2025-04-13T08:31:10.060872",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -20,27 +20,27 @@
       "enabled": true,
       "metrics": {
         "total_configs": 61,
-        "valid_configs": 12,
-        "unique_configs": 10,
-        "avg_response_time": 0.03,
+        "valid_configs": 15,
+        "unique_configs": 12,
+        "avg_response_time": 0.11,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.7,
-        "last_success": "2025-04-13T07:21:15.421897"
+        "overall_score": 75.98,
+        "last_success": "2025-04-13T08:28:04.522287"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1426,
-        "valid_configs": 95,
-        "unique_configs": 47,
-        "avg_response_time": 0.09,
+        "total_configs": 1435,
+        "valid_configs": 93,
+        "unique_configs": 45,
+        "avg_response_time": 0.16,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.9,
-        "last_success": "2025-04-13T07:21:16.005338"
+        "overall_score": 63.48,
+        "last_success": "2025-04-13T08:28:05.180420"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": false,
       "metrics": {
-        "total_configs": 54,
+        "total_configs": 51,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -120,11 +120,11 @@
         "total_configs": 39,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.96,
+        "avg_response_time": 0.54,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 79.33,
-        "last_success": "2025-04-13T07:22:18.573486"
+        "overall_score": 79.95,
+        "last_success": "2025-04-13T08:29:08.348010"
       }
     },
     {
