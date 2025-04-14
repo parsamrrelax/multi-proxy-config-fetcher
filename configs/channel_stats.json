@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-14T10:30:50.130097",
+  "timestamp": "2025-04-14T11:23:29.234657",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -19,14 +19,14 @@
       "url": "https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 57,
-        "valid_configs": 10,
-        "unique_configs": 8,
-        "avg_response_time": 0.12,
+        "total_configs": 59,
+        "valid_configs": 11,
+        "unique_configs": 9,
+        "avg_response_time": 0.11,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.21,
-        "last_success": "2025-04-14T10:27:41.953156"
+        "overall_score": 74.96,
+        "last_success": "2025-04-14T11:20:18.651598"
       }
     },
     {
@@ -34,20 +34,20 @@
       "enabled": true,
       "metrics": {
         "total_configs": 1541,
-        "valid_configs": 98,
-        "unique_configs": 49,
-        "avg_response_time": 0.16,
+        "valid_configs": 97,
+        "unique_configs": 48,
+        "avg_response_time": 0.1,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.85,
-        "last_success": "2025-04-14T10:27:42.694953"
+        "overall_score": 63.79,
+        "last_success": "2025-04-14T11:20:19.338781"
       }
     },
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": false,
       "metrics": {
-        "total_configs": 60,
+        "total_configs": 66,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -120,11 +120,11 @@
         "total_configs": 22,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.54,
+        "avg_response_time": 1.36,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 84.41,
-        "last_success": "2025-04-14T10:28:44.922545"
+        "overall_score": 83.19,
+        "last_success": "2025-04-14T11:21:23.427021"
       }
     },
     {
@@ -159,7 +159,7 @@
       "url": "https://t.me/s/prrofile_purple",
       "enabled": false,
       "metrics": {
-        "total_configs": 186,
+        "total_configs": 210,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
