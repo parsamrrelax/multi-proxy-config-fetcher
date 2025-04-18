@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-18T11:22:30.493978",
+  "timestamp": "2025-04-18T12:51:20.194468",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -22,25 +22,25 @@
         "total_configs": 58,
         "valid_configs": 11,
         "unique_configs": 9,
-        "avg_response_time": 0.04,
+        "avg_response_time": 0.24,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.13,
-        "last_success": "2025-04-18T11:19:13.061938"
+        "overall_score": 74.83,
+        "last_success": "2025-04-18T12:47:45.091008"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1504,
+        "total_configs": 1488,
         "valid_configs": 114,
         "unique_configs": 53,
-        "avg_response_time": 0.11,
+        "avg_response_time": 0.34,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.35,
-        "last_success": "2025-04-18T11:19:13.752065"
+        "overall_score": 63.03,
+        "last_success": "2025-04-18T12:47:46.000673"
       }
     },
     {
@@ -89,7 +89,7 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": false,
       "metrics": {
-        "total_configs": 54,
+        "total_configs": 60,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -117,7 +117,7 @@
       "url": "https://t.me/s/ShadowProxy66",
       "enabled": true,
       "metrics": {
-        "total_configs": 87,
+        "total_configs": 141,
         "valid_configs": 4,
         "unique_configs": 4,
         "avg_response_time": 0,
@@ -187,7 +187,7 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": true,
       "metrics": {
-        "total_configs": 384,
+        "total_configs": 390,
         "valid_configs": 3,
         "unique_configs": 1,
         "avg_response_time": 0,
