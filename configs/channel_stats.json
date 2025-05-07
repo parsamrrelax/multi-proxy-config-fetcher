@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-06T23:26:30.679851",
+  "timestamp": "2025-05-07T02:04:32.962693",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -36,11 +36,11 @@
         "total_configs": 1513,
         "valid_configs": 115,
         "unique_configs": 58,
-        "avg_response_time": 0.32,
+        "avg_response_time": 0.05,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 64.03,
-        "last_success": "2025-05-06T23:22:53.432717"
+        "overall_score": 64.43,
+        "last_success": "2025-05-07T02:01:00.731731"
       }
     },
     {
