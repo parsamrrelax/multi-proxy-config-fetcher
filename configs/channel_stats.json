@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-13T16:36:17.961930",
+  "timestamp": "2025-05-13T17:26:26.770901",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -19,14 +19,14 @@
       "url": "https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 58,
-        "valid_configs": 17,
+        "total_configs": 55,
+        "valid_configs": 16,
         "unique_configs": 12,
-        "avg_response_time": 0.14,
+        "avg_response_time": 0.03,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.77,
-        "last_success": "2025-05-13T16:32:33.783606"
+        "overall_score": 75.98,
+        "last_success": "2025-05-13T17:22:53.338047"
       }
     },
     {
@@ -36,11 +36,11 @@
         "total_configs": 1552,
         "valid_configs": 112,
         "unique_configs": 50,
-        "avg_response_time": 0.14,
+        "avg_response_time": 0.12,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 62.75,
-        "last_success": "2025-05-13T16:32:34.525137"
+        "overall_score": 62.78,
+        "last_success": "2025-05-13T17:22:54.061445"
       }
     },
     {
@@ -271,7 +271,7 @@
       "url": "https://t.me/s/ArV2ray",
       "enabled": false,
       "metrics": {
-        "total_configs": 57,
+        "total_configs": 60,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
