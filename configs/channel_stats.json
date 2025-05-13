@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-13T08:37:33.424598",
+  "timestamp": "2025-05-13T09:31:11.216863",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -22,25 +22,25 @@
         "total_configs": 59,
         "valid_configs": 14,
         "unique_configs": 11,
-        "avg_response_time": 0.19,
+        "avg_response_time": 0.12,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.29,
-        "last_success": "2025-05-13T08:33:48.432025"
+        "overall_score": 75.39,
+        "last_success": "2025-05-13T09:27:37.362465"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1501,
+        "total_configs": 1497,
         "valid_configs": 108,
         "unique_configs": 51,
-        "avg_response_time": 0.21,
+        "avg_response_time": 0.15,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.29,
-        "last_success": "2025-05-13T08:33:49.200456"
+        "overall_score": 63.38,
+        "last_success": "2025-05-13T09:27:38.072276"
       }
     },
     {
@@ -271,7 +271,7 @@
       "url": "https://t.me/s/ArV2ray",
       "enabled": false,
       "metrics": {
-        "total_configs": 54,
+        "total_configs": 57,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
