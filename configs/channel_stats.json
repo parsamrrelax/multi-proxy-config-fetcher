@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-14T08:36:55.856966",
+  "timestamp": "2025-05-14T09:30:49.593273",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -20,13 +20,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 54,
-        "valid_configs": 16,
-        "unique_configs": 13,
-        "avg_response_time": 0.12,
+        "valid_configs": 13,
+        "unique_configs": 11,
+        "avg_response_time": 0.04,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.54,
-        "last_success": "2025-05-14T08:33:19.811936"
+        "overall_score": 77.11,
+        "last_success": "2025-05-14T09:27:15.267411"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 1540,
-        "valid_configs": 106,
-        "unique_configs": 49,
-        "avg_response_time": 0.08,
+        "valid_configs": 108,
+        "unique_configs": 51,
+        "avg_response_time": 0.17,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.16,
-        "last_success": "2025-05-14T08:33:20.479473"
+        "overall_score": 63.31,
+        "last_success": "2025-05-14T09:27:16.022720"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/v2rayfree",
       "enabled": false,
       "metrics": {
-        "total_configs": 54,
+        "total_configs": 51,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -159,7 +159,7 @@
       "url": "https://t.me/s/ShadowProxy66",
       "enabled": true,
       "metrics": {
-        "total_configs": 228,
+        "total_configs": 135,
         "valid_configs": 4,
         "unique_configs": 4,
         "avg_response_time": 0,
@@ -229,7 +229,7 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": true,
       "metrics": {
-        "total_configs": 267,
+        "total_configs": 276,
         "valid_configs": 4,
         "unique_configs": 4,
         "avg_response_time": 0,
@@ -271,7 +271,7 @@
       "url": "https://t.me/s/ArV2ray",
       "enabled": false,
       "metrics": {
-        "total_configs": 54,
+        "total_configs": 57,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
