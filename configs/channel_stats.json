@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-14T20:26:43.353890",
+  "timestamp": "2025-05-14T21:23:03.537091",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -20,13 +20,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 59,
-        "valid_configs": 16,
-        "unique_configs": 13,
-        "avg_response_time": 0.09,
+        "valid_configs": 17,
+        "unique_configs": 15,
+        "avg_response_time": 0.04,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.96,
-        "last_success": "2025-05-14T20:23:10.271809"
+        "overall_score": 79.2,
+        "last_success": "2025-05-14T21:19:30.034811"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 1494,
-        "valid_configs": 111,
-        "unique_configs": 49,
-        "avg_response_time": 0.13,
+        "valid_configs": 109,
+        "unique_configs": 47,
+        "avg_response_time": 0.05,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 62.7,
-        "last_success": "2025-05-14T20:23:10.958099"
+        "overall_score": 62.52,
+        "last_success": "2025-05-14T21:19:30.640846"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/v2rayfree",
       "enabled": false,
       "metrics": {
-        "total_configs": 39,
+        "total_configs": 42,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -159,7 +159,7 @@
       "url": "https://t.me/s/ShadowProxy66",
       "enabled": true,
       "metrics": {
-        "total_configs": 138,
+        "total_configs": 198,
         "valid_configs": 4,
         "unique_configs": 4,
         "avg_response_time": 0,
@@ -229,7 +229,7 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": true,
       "metrics": {
-        "total_configs": 291,
+        "total_configs": 285,
         "valid_configs": 4,
         "unique_configs": 4,
         "avg_response_time": 0,
