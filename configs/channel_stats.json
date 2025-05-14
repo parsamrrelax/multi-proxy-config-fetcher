@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-14T10:31:09.907011",
+  "timestamp": "2025-05-14T11:24:30.045989",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -20,13 +20,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 54,
-        "valid_configs": 15,
-        "unique_configs": 13,
+        "valid_configs": 13,
+        "unique_configs": 11,
         "avg_response_time": 0.04,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.55,
-        "last_success": "2025-05-14T10:27:35.846255"
+        "overall_score": 77.11,
+        "last_success": "2025-05-14T11:20:55.670399"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 1532,
-        "valid_configs": 106,
-        "unique_configs": 49,
-        "avg_response_time": 0.17,
+        "valid_configs": 108,
+        "unique_configs": 51,
+        "avg_response_time": 0.14,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.03,
-        "last_success": "2025-05-14T10:27:36.597019"
+        "overall_score": 63.36,
+        "last_success": "2025-05-14T11:20:56.388872"
       }
     },
     {
@@ -201,7 +201,7 @@
       "url": "https://t.me/s/prrofile_purple",
       "enabled": true,
       "metrics": {
-        "total_configs": 168,
+        "total_configs": 192,
         "valid_configs": 3,
         "unique_configs": 1,
         "avg_response_time": 0,
@@ -229,7 +229,7 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": true,
       "metrics": {
-        "total_configs": 276,
+        "total_configs": 282,
         "valid_configs": 4,
         "unique_configs": 4,
         "avg_response_time": 0,
