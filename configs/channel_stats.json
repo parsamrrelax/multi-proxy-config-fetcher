@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-21T07:28:09.022157",
+  "timestamp": "2025-05-21T08:37:02.325771",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -26,21 +26,21 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 73.74,
-        "last_success": "2025-05-21T07:24:33.240544"
+        "last_success": "2025-05-21T08:33:26.249119"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 994,
-        "valid_configs": 133,
+        "total_configs": 984,
+        "valid_configs": 131,
         "unique_configs": 54,
-        "avg_response_time": 0.19,
+        "avg_response_time": 0.2,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.21,
-        "last_success": "2025-05-21T07:24:33.682018"
+        "overall_score": 63.34,
+        "last_success": "2025-05-21T08:33:26.693028"
       }
     },
     {
@@ -103,7 +103,7 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": false,
       "metrics": {
-        "total_configs": 48,
+        "total_configs": 42,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -243,7 +243,7 @@
       "url": "https://t.me/s/DirectVPN",
       "enabled": false,
       "metrics": {
-        "total_configs": 48,
+        "total_configs": 42,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
