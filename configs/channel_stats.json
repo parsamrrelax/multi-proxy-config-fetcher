@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-23T12:54:45.097766",
+  "timestamp": "2025-05-23T13:37:41.359871",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -19,14 +19,14 @@
       "url": "https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 72,
-        "valid_configs": 18,
-        "unique_configs": 14,
-        "avg_response_time": 0.16,
+        "total_configs": 74,
+        "valid_configs": 16,
+        "unique_configs": 12,
+        "avg_response_time": 0.1,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.45,
-        "last_success": "2025-05-23T12:51:01.208545"
+        "overall_score": 74.0,
+        "last_success": "2025-05-23T13:34:05.076245"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 995,
-        "valid_configs": 134,
-        "unique_configs": 48,
-        "avg_response_time": 0.29,
+        "valid_configs": 136,
+        "unique_configs": 50,
+        "avg_response_time": 0.15,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 61.89,
-        "last_success": "2025-05-23T12:51:01.750720"
+        "overall_score": 62.38,
+        "last_success": "2025-05-23T13:34:05.477882"
       }
     },
     {
@@ -227,15 +227,15 @@
     },
     {
       "url": "https://t.me/s/meli_proxyy",
-      "enabled": true,
+      "enabled": false,
       "metrics": {
-        "total_configs": 319,
-        "valid_configs": 12,
-        "unique_configs": 4,
+        "total_configs": 309,
+        "valid_configs": 0,
+        "unique_configs": 0,
         "avg_response_time": 0,
         "success_count": 0,
-        "fail_count": 0,
-        "overall_score": 0.0,
+        "fail_count": 1,
+        "overall_score": 15.0,
         "last_success": null
       }
     },
@@ -300,8 +300,8 @@
       "enabled": true,
       "metrics": {
         "total_configs": 78,
-        "valid_configs": 1,
-        "unique_configs": 1,
+        "valid_configs": 12,
+        "unique_configs": 4,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
