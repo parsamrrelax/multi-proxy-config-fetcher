@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-23T18:36:45.435829",
+  "timestamp": "2025-05-23T19:22:54.023928",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -22,11 +22,11 @@
         "total_configs": 74,
         "valid_configs": 16,
         "unique_configs": 12,
-        "avg_response_time": 0.18,
+        "avg_response_time": 0.26,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 73.89,
-        "last_success": "2025-05-23T18:33:01.318148"
+        "overall_score": 73.77,
+        "last_success": "2025-05-23T19:19:15.008628"
       }
     },
     {
@@ -36,11 +36,11 @@
         "total_configs": 987,
         "valid_configs": 138,
         "unique_configs": 50,
-        "avg_response_time": 0.22,
+        "avg_response_time": 0.25,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 62.22,
-        "last_success": "2025-05-23T18:33:01.786418"
+        "overall_score": 62.18,
+        "last_success": "2025-05-23T19:19:15.507247"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/v2rayfree",
       "enabled": false,
       "metrics": {
-        "total_configs": 33,
+        "total_configs": 36,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -75,7 +75,7 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": false,
       "metrics": {
-        "total_configs": 57,
+        "total_configs": 54,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -131,7 +131,7 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": false,
       "metrics": {
-        "total_configs": 57,
+        "total_configs": 54,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -229,7 +229,7 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": false,
       "metrics": {
-        "total_configs": 303,
+        "total_configs": 321,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -257,7 +257,7 @@
       "url": "https://t.me/s/Parsashonam",
       "enabled": false,
       "metrics": {
-        "total_configs": 60,
+        "total_configs": 75,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
