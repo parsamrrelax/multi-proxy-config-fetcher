@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-26T20:30:24.224178",
+  "timestamp": "2025-05-26T21:25:50.209900",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -20,13 +20,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 78,
-        "valid_configs": 20,
-        "unique_configs": 15,
-        "avg_response_time": 0.23,
+        "valid_configs": 21,
+        "unique_configs": 17,
+        "avg_response_time": 0.1,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.81,
-        "last_success": "2025-05-26T20:26:41.231781"
+        "overall_score": 76.81,
+        "last_success": "2025-05-26T21:22:17.744469"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 968,
-        "valid_configs": 110,
-        "unique_configs": 47,
-        "avg_response_time": 0.23,
+        "valid_configs": 108,
+        "unique_configs": 45,
+        "avg_response_time": 0.05,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.17,
-        "last_success": "2025-05-26T20:26:41.706458"
+        "overall_score": 63.13,
+        "last_success": "2025-05-26T21:22:18.032576"
       }
     },
     {
@@ -229,7 +229,7 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": false,
       "metrics": {
-        "total_configs": 162,
+        "total_configs": 156,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
