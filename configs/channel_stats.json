@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-30T09:30:13.830120",
+  "timestamp": "2025-05-30T10:30:25.700078",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -22,25 +22,25 @@
         "total_configs": 84,
         "valid_configs": 22,
         "unique_configs": 17,
-        "avg_response_time": 0.17,
+        "avg_response_time": 0.03,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.6,
-        "last_success": "2025-05-30T09:26:35.397097"
+        "overall_score": 75.82,
+        "last_success": "2025-05-30T10:26:42.183534"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 950,
+        "total_configs": 970,
         "valid_configs": 107,
         "unique_configs": 45,
-        "avg_response_time": 0.19,
+        "avg_response_time": 0.22,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.05,
-        "last_success": "2025-05-30T09:26:35.810652"
+        "overall_score": 62.93,
+        "last_success": "2025-05-30T10:26:42.644071"
       }
     },
     {
@@ -103,7 +103,7 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": false,
       "metrics": {
-        "total_configs": 42,
+        "total_configs": 54,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -229,7 +229,7 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": true,
       "metrics": {
-        "total_configs": 210,
+        "total_configs": 192,
         "valid_configs": 4,
         "unique_configs": 4,
         "avg_response_time": 0,
@@ -243,7 +243,7 @@
       "url": "https://t.me/s/DirectVPN",
       "enabled": false,
       "metrics": {
-        "total_configs": 42,
+        "total_configs": 54,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
