@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-06T11:25:43.967153",
+  "timestamp": "2025-06-06T12:55:20.013356",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -22,11 +22,11 @@
         "total_configs": 59,
         "valid_configs": 11,
         "unique_configs": 5,
-        "avg_response_time": 0.09,
+        "avg_response_time": 0.04,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 65.88,
-        "last_success": "2025-06-06T11:22:11.283702"
+        "overall_score": 65.96,
+        "last_success": "2025-06-06T12:51:48.076009"
       }
     },
     {
@@ -36,11 +36,11 @@
         "total_configs": 983,
         "valid_configs": 119,
         "unique_configs": 57,
-        "avg_response_time": 0.13,
+        "avg_response_time": 0.09,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 64.8,
-        "last_success": "2025-06-06T11:22:11.704616"
+        "overall_score": 64.86,
+        "last_success": "2025-06-06T12:51:48.456573"
       }
     },
     {
@@ -157,15 +157,15 @@
     },
     {
       "url": "https://t.me/s/ShadowProxy66",
-      "enabled": true,
+      "enabled": false,
       "metrics": {
-        "total_configs": 171,
-        "valid_configs": 9,
-        "unique_configs": 3,
+        "total_configs": 147,
+        "valid_configs": 0,
+        "unique_configs": 0,
         "avg_response_time": 0,
         "success_count": 0,
-        "fail_count": 0,
-        "overall_score": 0.0,
+        "fail_count": 1,
+        "overall_score": 15.0,
         "last_success": null
       }
     },
@@ -229,7 +229,7 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": false,
       "metrics": {
-        "total_configs": 138,
+        "total_configs": 147,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -300,7 +300,7 @@
       "enabled": true,
       "metrics": {
         "total_configs": 21,
-        "valid_configs": 1,
+        "valid_configs": 3,
         "unique_configs": 1,
         "avg_response_time": 0,
         "success_count": 0,
