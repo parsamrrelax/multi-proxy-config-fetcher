@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-07T13:34:22.289840",
+  "timestamp": "2025-06-07T14:25:21.441092",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -22,11 +22,11 @@
         "total_configs": 56,
         "valid_configs": 10,
         "unique_configs": 5,
-        "avg_response_time": 0.15,
+        "avg_response_time": 0.21,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 66.74,
-        "last_success": "2025-06-07T13:30:50.163841"
+        "overall_score": 66.65,
+        "last_success": "2025-06-07T14:21:52.516788"
       }
     },
     {
@@ -36,11 +36,11 @@
         "total_configs": 969,
         "valid_configs": 119,
         "unique_configs": 57,
-        "avg_response_time": 0.12,
+        "avg_response_time": 0.33,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 64.87,
-        "last_success": "2025-06-07T13:30:50.563411"
+        "overall_score": 64.55,
+        "last_success": "2025-06-07T14:21:53.123498"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/v2rayfree",
       "enabled": false,
       "metrics": {
-        "total_configs": 24,
+        "total_configs": 27,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -204,11 +204,11 @@
         "total_configs": 55,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 0.87,
+        "avg_response_time": 0.68,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.97,
-        "last_success": "2025-06-07T13:32:59.912792"
+        "overall_score": 76.25,
+        "last_success": "2025-06-07T14:24:00.414781"
       }
     },
     {
@@ -271,7 +271,7 @@
       "url": "https://t.me/s/ArV2ray",
       "enabled": false,
       "metrics": {
-        "total_configs": 48,
+        "total_configs": 51,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
