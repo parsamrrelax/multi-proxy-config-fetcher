@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-12T21:28:05.770606",
+  "timestamp": "2025-06-12T22:28:06.670497",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -22,25 +22,25 @@
         "total_configs": 54,
         "valid_configs": 13,
         "unique_configs": 9,
-        "avg_response_time": 0.05,
+        "avg_response_time": 0.1,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 73.25,
-        "last_success": "2025-06-12T21:24:25.382783"
+        "overall_score": 73.18,
+        "last_success": "2025-06-12T22:24:33.706902"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 977,
+        "total_configs": 976,
         "valid_configs": 117,
         "unique_configs": 53,
-        "avg_response_time": 0.21,
+        "avg_response_time": 0.05,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 64.0,
-        "last_success": "2025-06-12T21:24:25.881772"
+        "overall_score": 64.25,
+        "last_success": "2025-06-12T22:24:34.036842"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/v2rayfree",
       "enabled": false,
       "metrics": {
-        "total_configs": 48,
+        "total_configs": 45,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -227,15 +227,15 @@
     },
     {
       "url": "https://t.me/s/meli_proxyy",
-      "enabled": false,
+      "enabled": true,
       "metrics": {
-        "total_configs": 231,
-        "valid_configs": 0,
-        "unique_configs": 0,
+        "total_configs": 273,
+        "valid_configs": 3,
+        "unique_configs": 1,
         "avg_response_time": 0,
         "success_count": 0,
-        "fail_count": 1,
-        "overall_score": 15.0,
+        "fail_count": 0,
+        "overall_score": 0.0,
         "last_success": null
       }
     },
