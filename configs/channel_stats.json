@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-15T22:27:11.591924",
+  "timestamp": "2025-06-15T23:26:16.020525",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -19,9 +19,9 @@
       "url": "https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 120,
-        "valid_configs": 15,
-        "unique_configs": 3,
+        "total_configs": 126,
+        "valid_configs": 12,
+        "unique_configs": 2,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -33,14 +33,14 @@
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 900,
-        "valid_configs": 125,
-        "unique_configs": 59,
-        "avg_response_time": 0.12,
+        "total_configs": 902,
+        "valid_configs": 126,
+        "unique_configs": 60,
+        "avg_response_time": 0.2,
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 65.1,
-        "last_success": "2025-06-15T22:23:51.060460"
+        "last_success": "2025-06-15T23:22:52.796595"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/v2rayfree",
       "enabled": false,
       "metrics": {
-        "total_configs": 45,
+        "total_configs": 33,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -159,7 +159,7 @@
       "url": "https://t.me/s/ShadowProxy66",
       "enabled": false,
       "metrics": {
-        "total_configs": 36,
+        "total_configs": 57,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -204,11 +204,11 @@
         "total_configs": 115,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 0.53,
+        "avg_response_time": 0.58,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.29,
-        "last_success": "2025-06-15T22:25:53.724704"
+        "overall_score": 75.22,
+        "last_success": "2025-06-15T23:24:56.681047"
       }
     },
     {
