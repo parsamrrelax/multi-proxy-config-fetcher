@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-18T06:41:06.533939",
+  "timestamp": "2025-06-18T07:29:08.685183",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -33,14 +33,14 @@
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 918,
+        "total_configs": 914,
         "valid_configs": 145,
         "unique_configs": 63,
-        "avg_response_time": 0.2,
+        "avg_response_time": 0.14,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 64.51,
-        "last_success": "2025-06-18T06:37:29.382814"
+        "overall_score": 64.61,
+        "last_success": "2025-06-18T07:25:36.886337"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/v2rayfree",
       "enabled": false,
       "metrics": {
-        "total_configs": 45,
+        "total_configs": 36,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -201,7 +201,7 @@
       "url": "https://t.me/s/prrofile_purple",
       "enabled": true,
       "metrics": {
-        "total_configs": 408,
+        "total_configs": 384,
         "valid_configs": 3,
         "unique_configs": 3,
         "avg_response_time": 0,
