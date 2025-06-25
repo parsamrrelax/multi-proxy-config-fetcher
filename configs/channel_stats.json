@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-25T10:32:40.620687",
+  "timestamp": "2025-06-25T11:26:15.420754",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -19,28 +19,28 @@
       "url": "https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 77,
-        "valid_configs": 14,
-        "unique_configs": 11,
-        "avg_response_time": 0.12,
+        "total_configs": 82,
+        "valid_configs": 19,
+        "unique_configs": 13,
+        "avg_response_time": 0.03,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.01,
-        "last_success": "2025-06-25T10:29:07.071939"
+        "overall_score": 72.85,
+        "last_success": "2025-06-25T11:22:44.074687"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 967,
-        "valid_configs": 119,
-        "unique_configs": 53,
-        "avg_response_time": 0.16,
+        "total_configs": 978,
+        "valid_configs": 117,
+        "unique_configs": 51,
+        "avg_response_time": 0.03,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.97,
-        "last_success": "2025-06-25T10:29:07.475544"
+        "overall_score": 63.84,
+        "last_success": "2025-06-25T11:22:44.359540"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/v2rayfree",
       "enabled": false,
       "metrics": {
-        "total_configs": 36,
+        "total_configs": 6,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -75,7 +75,7 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": false,
       "metrics": {
-        "total_configs": 57,
+        "total_configs": 60,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -131,7 +131,7 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": false,
       "metrics": {
-        "total_configs": 57,
+        "total_configs": 60,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
