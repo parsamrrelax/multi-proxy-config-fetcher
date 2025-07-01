@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-01T14:29:04.552592",
+  "timestamp": "2025-07-01T15:31:37.828925",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -20,27 +20,27 @@
       "enabled": true,
       "metrics": {
         "total_configs": 78,
-        "valid_configs": 12,
-        "unique_configs": 10,
-        "avg_response_time": 0.03,
+        "valid_configs": 17,
+        "unique_configs": 11,
+        "avg_response_time": 0.24,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.63,
-        "last_success": "2025-07-01T14:25:41.398379"
+        "overall_score": 71.26,
+        "last_success": "2025-07-01T15:28:07.054284"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1091,
-        "valid_configs": 113,
-        "unique_configs": 52,
-        "avg_response_time": 0.04,
+        "total_configs": 1101,
+        "valid_configs": 112,
+        "unique_configs": 51,
+        "avg_response_time": 0.22,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 64.04,
-        "last_success": "2025-07-01T14:25:41.751963"
+        "overall_score": 63.6,
+        "last_success": "2025-07-01T15:28:07.595881"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/v2rayfree",
       "enabled": false,
       "metrics": {
-        "total_configs": 42,
+        "total_configs": 48,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -232,11 +232,11 @@
         "total_configs": 149,
         "valid_configs": 7,
         "unique_configs": 7,
-        "avg_response_time": 0.43,
+        "avg_response_time": 0.61,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.53,
-        "last_success": "2025-07-01T14:28:08.431675"
+        "overall_score": 75.27,
+        "last_success": "2025-07-01T15:30:39.690722"
       }
     },
     {
