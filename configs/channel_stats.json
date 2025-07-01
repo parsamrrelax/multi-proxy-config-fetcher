@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-01T18:38:56.130793",
+  "timestamp": "2025-07-01T19:23:32.825987",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -22,11 +22,11 @@
         "total_configs": 70,
         "valid_configs": 10,
         "unique_configs": 7,
-        "avg_response_time": 0.12,
+        "avg_response_time": 0.07,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 70.89,
-        "last_success": "2025-07-01T18:35:35.827445"
+        "overall_score": 70.97,
+        "last_success": "2025-07-01T19:20:07.551939"
       }
     },
     {
@@ -36,11 +36,11 @@
         "total_configs": 1075,
         "valid_configs": 116,
         "unique_configs": 55,
-        "avg_response_time": 0.13,
+        "avg_response_time": 0.24,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 64.35,
-        "last_success": "2025-07-01T18:35:36.263740"
+        "overall_score": 64.2,
+        "last_success": "2025-07-01T19:20:08.092190"
       }
     },
     {
@@ -201,7 +201,7 @@
       "url": "https://t.me/s/prrofile_purple",
       "enabled": false,
       "metrics": {
-        "total_configs": 243,
+        "total_configs": 264,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -229,14 +229,14 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": true,
       "metrics": {
-        "total_configs": 147,
+        "total_configs": 146,
         "valid_configs": 7,
         "unique_configs": 7,
-        "avg_response_time": 0.37,
+        "avg_response_time": 0.48,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.64,
-        "last_success": "2025-07-01T18:38:00.704468"
+        "overall_score": 75.47,
+        "last_success": "2025-07-01T19:22:36.148751"
       }
     },
     {
