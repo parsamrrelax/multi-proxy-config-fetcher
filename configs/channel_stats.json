@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-04T11:26:26.294141",
+  "timestamp": "2025-07-04T12:56:22.400493",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -22,11 +22,11 @@
         "total_configs": 78,
         "valid_configs": 15,
         "unique_configs": 12,
-        "avg_response_time": 0.08,
+        "avg_response_time": 0.09,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.69,
-        "last_success": "2025-07-04T11:22:54.881132"
+        "overall_score": 74.67,
+        "last_success": "2025-07-04T12:52:49.627911"
       }
     },
     {
@@ -36,11 +36,11 @@
         "total_configs": 1082,
         "valid_configs": 111,
         "unique_configs": 50,
-        "avg_response_time": 0.05,
+        "avg_response_time": 0.13,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.76,
-        "last_success": "2025-07-04T11:22:55.255508"
+        "overall_score": 63.63,
+        "last_success": "2025-07-04T12:52:50.086612"
       }
     },
     {
@@ -173,7 +173,7 @@
       "url": "https://t.me/s/OutlineReleasedKey",
       "enabled": false,
       "metrics": {
-        "total_configs": 57,
+        "total_configs": 54,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -229,7 +229,7 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": true,
       "metrics": {
-        "total_configs": 348,
+        "total_configs": 369,
         "valid_configs": 3,
         "unique_configs": 1,
         "avg_response_time": 0,
