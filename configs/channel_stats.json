@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-07T20:32:18.040166",
+  "timestamp": "2025-07-07T21:27:59.096467",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -36,11 +36,11 @@
         "total_configs": 1030,
         "valid_configs": 128,
         "unique_configs": 61,
-        "avg_response_time": 0.08,
+        "avg_response_time": 0.11,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 64.9,
-        "last_success": "2025-07-07T20:28:55.464941"
+        "overall_score": 64.85,
+        "last_success": "2025-07-07T21:24:25.423895"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/v2rayfree",
       "enabled": false,
       "metrics": {
-        "total_configs": 39,
+        "total_configs": 30,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -115,15 +115,15 @@
     },
     {
       "url": "https://t.me/s/v2Source",
-      "enabled": false,
+      "enabled": true,
       "metrics": {
         "total_configs": 60,
-        "valid_configs": 0,
-        "unique_configs": 0,
+        "valid_configs": 3,
+        "unique_configs": 1,
         "avg_response_time": 0,
         "success_count": 0,
-        "fail_count": 1,
-        "overall_score": 15.0,
+        "fail_count": 0,
+        "overall_score": 0.0,
         "last_success": null
       }
     },
@@ -159,7 +159,7 @@
       "url": "https://t.me/s/ShadowProxy66",
       "enabled": false,
       "metrics": {
-        "total_configs": 48,
+        "total_configs": 117,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -229,14 +229,14 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": true,
       "metrics": {
-        "total_configs": 205,
-        "valid_configs": 6,
-        "unique_configs": 5,
-        "avg_response_time": 0.51,
-        "success_count": 1,
+        "total_configs": 597,
+        "valid_configs": 4,
+        "unique_configs": 4,
+        "avg_response_time": 0,
+        "success_count": 0,
         "fail_count": 0,
-        "overall_score": 70.8,
-        "last_success": "2025-07-07T20:31:22.006673"
+        "overall_score": 0.0,
+        "last_success": null
       }
     },
     {
