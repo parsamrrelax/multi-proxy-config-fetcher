@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-12T19:23:28.931761",
+  "timestamp": "2025-07-12T20:30:51.238337",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -33,14 +33,14 @@
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1468,
+        "total_configs": 1466,
         "valid_configs": 130,
         "unique_configs": 61,
         "avg_response_time": 0.17,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.69,
-        "last_success": "2025-07-12T19:20:05.281515"
+        "overall_score": 63.7,
+        "last_success": "2025-07-12T20:27:18.710295"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/v2rayfree",
       "enabled": false,
       "metrics": {
-        "total_configs": 54,
+        "total_configs": 51,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -75,7 +75,7 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": false,
       "metrics": {
-        "total_configs": 57,
+        "total_configs": 60,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -131,7 +131,7 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": false,
       "metrics": {
-        "total_configs": 57,
+        "total_configs": 60,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -201,7 +201,7 @@
       "url": "https://t.me/s/prrofile_purple",
       "enabled": false,
       "metrics": {
-        "total_configs": 321,
+        "total_configs": 345,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -232,11 +232,11 @@
         "total_configs": 239,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 0.51,
+        "avg_response_time": 0.71,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.76,
-        "last_success": "2025-07-12T19:22:32.465331"
+        "overall_score": 74.46,
+        "last_success": "2025-07-12T20:29:51.985139"
       }
     },
     {
