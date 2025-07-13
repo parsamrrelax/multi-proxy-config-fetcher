@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-13T16:34:02.142131",
+  "timestamp": "2025-07-13T17:25:25.822355",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -36,11 +36,11 @@
         "total_configs": 1458,
         "valid_configs": 134,
         "unique_configs": 61,
-        "avg_response_time": 0.11,
+        "avg_response_time": 0.04,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.52,
-        "last_success": "2025-07-13T16:30:40.613409"
+        "overall_score": 63.62,
+        "last_success": "2025-07-13T17:22:05.002038"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/v2rayfree",
       "enabled": false,
       "metrics": {
-        "total_configs": 39,
+        "total_configs": 36,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -75,7 +75,7 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": false,
       "metrics": {
-        "total_configs": 57,
+        "total_configs": 54,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -131,7 +131,7 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": false,
       "metrics": {
-        "total_configs": 57,
+        "total_configs": 54,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -159,7 +159,7 @@
       "url": "https://t.me/s/ShadowProxy66",
       "enabled": true,
       "metrics": {
-        "total_configs": 117,
+        "total_configs": 153,
         "valid_configs": 4,
         "unique_configs": 4,
         "avg_response_time": 0,
@@ -232,11 +232,11 @@
         "total_configs": 214,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 0.47,
+        "avg_response_time": 0.46,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.88,
-        "last_success": "2025-07-13T16:33:06.339650"
+        "overall_score": 74.9,
+        "last_success": "2025-07-13T17:24:30.162026"
       }
     },
     {
