@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-18T11:27:05.746775",
+  "timestamp": "2025-07-18T13:01:13.844105",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -33,14 +33,14 @@
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1803,
+        "total_configs": 1780,
         "valid_configs": 127,
         "unique_configs": 64,
-        "avg_response_time": 0.13,
+        "avg_response_time": 0.1,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 64.17,
-        "last_success": "2025-07-18T11:23:33.929874"
+        "overall_score": 64.23,
+        "last_success": "2025-07-18T12:57:40.578666"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/v2rayfree",
       "enabled": false,
       "metrics": {
-        "total_configs": 30,
+        "total_configs": 45,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -159,7 +159,7 @@
       "url": "https://t.me/s/ShadowProxy66",
       "enabled": true,
       "metrics": {
-        "total_configs": 162,
+        "total_configs": 210,
         "valid_configs": 3,
         "unique_configs": 3,
         "avg_response_time": 0,
@@ -201,7 +201,7 @@
       "url": "https://t.me/s/prrofile_purple",
       "enabled": false,
       "metrics": {
-        "total_configs": 228,
+        "total_configs": 237,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -229,7 +229,7 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": false,
       "metrics": {
-        "total_configs": 510,
+        "total_configs": 537,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
