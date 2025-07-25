@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-25T19:26:08.870775",
+  "timestamp": "2025-07-25T20:33:39.601824",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -22,25 +22,25 @@
         "total_configs": 71,
         "valid_configs": 16,
         "unique_configs": 15,
-        "avg_response_time": 0.04,
+        "avg_response_time": 0.15,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 79.02,
-        "last_success": "2025-07-25T19:22:35.719778"
+        "overall_score": 78.84,
+        "last_success": "2025-07-25T20:29:53.846365"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1894,
-        "valid_configs": 108,
+        "total_configs": 1901,
+        "valid_configs": 122,
         "unique_configs": 47,
-        "avg_response_time": 0.11,
+        "avg_response_time": 0.27,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 62.15,
-        "last_success": "2025-07-25T19:22:36.826647"
+        "overall_score": 60.84,
+        "last_success": "2025-07-25T20:29:55.122991"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/v2rayfree",
       "enabled": false,
       "metrics": {
-        "total_configs": 27,
+        "total_configs": 21,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -75,7 +75,7 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": false,
       "metrics": {
-        "total_configs": 57,
+        "total_configs": 60,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -89,7 +89,7 @@
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": false,
       "metrics": {
-        "total_configs": 126,
+        "total_configs": 99,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -131,7 +131,7 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": false,
       "metrics": {
-        "total_configs": 57,
+        "total_configs": 60,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -201,7 +201,7 @@
       "url": "https://t.me/s/prrofile_purple",
       "enabled": false,
       "metrics": {
-        "total_configs": 192,
+        "total_configs": 168,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -229,7 +229,7 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": false,
       "metrics": {
-        "total_configs": 387,
+        "total_configs": 357,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
