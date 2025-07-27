@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-27T11:25:22.992288",
+  "timestamp": "2025-07-27T12:57:28.752332",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -19,28 +19,28 @@
       "url": "https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 70,
+        "total_configs": 71,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.08,
+        "avg_response_time": 0.15,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 80.24,
-        "last_success": "2025-07-27T11:21:46.564590"
+        "overall_score": 80.06,
+        "last_success": "2025-07-27T12:53:43.746954"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 2179,
+        "total_configs": 2180,
         "valid_configs": 109,
         "unique_configs": 52,
-        "avg_response_time": 0.27,
+        "avg_response_time": 0.23,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 62.78,
-        "last_success": "2025-07-27T11:21:48.117309"
+        "overall_score": 62.84,
+        "last_success": "2025-07-27T12:53:45.261216"
       }
     },
     {
@@ -75,7 +75,7 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": false,
       "metrics": {
-        "total_configs": 60,
+        "total_configs": 57,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -131,7 +131,7 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": false,
       "metrics": {
-        "total_configs": 60,
+        "total_configs": 56,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -229,7 +229,7 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": true,
       "metrics": {
-        "total_configs": 504,
+        "total_configs": 531,
         "valid_configs": 3,
         "unique_configs": 1,
         "avg_response_time": 0,
