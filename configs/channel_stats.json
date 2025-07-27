@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-27T13:38:55.888122",
+  "timestamp": "2025-07-27T14:28:05.500408",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -22,25 +22,25 @@
         "total_configs": 71,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.07,
+        "avg_response_time": 0.67,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 80.17,
-        "last_success": "2025-07-27T13:35:21.897087"
+        "overall_score": 79.28,
+        "last_success": "2025-07-27T14:24:20.765109"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 2170,
+        "total_configs": 2168,
         "valid_configs": 109,
         "unique_configs": 52,
-        "avg_response_time": 0.11,
+        "avg_response_time": 0.28,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.01,
-        "last_success": "2025-07-27T13:35:23.287045"
+        "overall_score": 62.76,
+        "last_success": "2025-07-27T14:24:22.322057"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/v2rayfree",
       "enabled": false,
       "metrics": {
-        "total_configs": 45,
+        "total_configs": 54,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -89,7 +89,7 @@
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": false,
       "metrics": {
-        "total_configs": 96,
+        "total_configs": 84,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -131,7 +131,7 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": false,
       "metrics": {
-        "total_configs": 48,
+        "total_configs": 51,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
