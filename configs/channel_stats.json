@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-31T20:34:25.587530",
+  "timestamp": "2025-07-31T21:30:37.363094",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -21,26 +21,26 @@
       "metrics": {
         "total_configs": 64,
         "valid_configs": 18,
-        "unique_configs": 15,
-        "avg_response_time": 0.04,
+        "unique_configs": 13,
+        "avg_response_time": 0.13,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.8,
-        "last_success": "2025-07-31T20:30:52.321878"
+        "overall_score": 74.89,
+        "last_success": "2025-07-31T21:26:52.084898"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1611,
-        "valid_configs": 124,
-        "unique_configs": 49,
-        "avg_response_time": 0.11,
+        "total_configs": 1624,
+        "valid_configs": 112,
+        "unique_configs": 51,
+        "avg_response_time": 0.34,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 61.63,
-        "last_success": "2025-07-31T20:30:53.127020"
+        "overall_score": 62.6,
+        "last_success": "2025-07-31T21:26:53.127495"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/v2rayfree",
       "enabled": false,
       "metrics": {
-        "total_configs": 48,
+        "total_configs": 51,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -89,7 +89,7 @@
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": false,
       "metrics": {
-        "total_configs": 69,
+        "total_configs": 60,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -159,7 +159,7 @@
       "url": "https://t.me/s/ShadowProxy66",
       "enabled": false,
       "metrics": {
-        "total_configs": 174,
+        "total_configs": 135,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -187,7 +187,7 @@
       "url": "https://t.me/s/GetConfigIR",
       "enabled": false,
       "metrics": {
-        "total_configs": 40,
+        "total_configs": 60,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -229,7 +229,7 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": true,
       "metrics": {
-        "total_configs": 489,
+        "total_configs": 447,
         "valid_configs": 9,
         "unique_configs": 3,
         "avg_response_time": 0,
