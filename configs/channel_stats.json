@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-01T10:34:36.314618",
+  "timestamp": "2025-08-01T11:27:51.805648",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -20,27 +20,27 @@
       "enabled": true,
       "metrics": {
         "total_configs": 65,
-        "valid_configs": 19,
+        "valid_configs": 18,
         "unique_configs": 14,
-        "avg_response_time": 0.14,
+        "avg_response_time": 0.13,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.53,
-        "last_success": "2025-08-01T10:30:58.202358"
+        "overall_score": 76.18,
+        "last_success": "2025-08-01T11:24:13.533042"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1541,
-        "valid_configs": 77,
+        "total_configs": 1563,
+        "valid_configs": 59,
         "unique_configs": 39,
-        "avg_response_time": 0.2,
+        "avg_response_time": 0.27,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.62,
-        "last_success": "2025-08-01T10:30:59.132475"
+        "overall_score": 67.07,
+        "last_success": "2025-08-01T11:24:14.554710"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/v2rayfree",
       "enabled": false,
       "metrics": {
-        "total_configs": 42,
+        "total_configs": 39,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -227,15 +227,15 @@
     },
     {
       "url": "https://t.me/s/meli_proxyy",
-      "enabled": true,
+      "enabled": false,
       "metrics": {
-        "total_configs": 435,
-        "valid_configs": 9,
-        "unique_configs": 3,
+        "total_configs": 264,
+        "valid_configs": 0,
+        "unique_configs": 0,
         "avg_response_time": 0,
         "success_count": 0,
-        "fail_count": 0,
-        "overall_score": 0.0,
+        "fail_count": 1,
+        "overall_score": 15.0,
         "last_success": null
       }
     },
@@ -271,7 +271,7 @@
       "url": "https://t.me/s/ArV2ray",
       "enabled": false,
       "metrics": {
-        "total_configs": 36,
+        "total_configs": 39,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
