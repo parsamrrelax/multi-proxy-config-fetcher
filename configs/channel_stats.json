@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-02T04:46:45.723677",
+  "timestamp": "2025-08-02T05:33:38.818842",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -22,25 +22,25 @@
         "total_configs": 67,
         "valid_configs": 16,
         "unique_configs": 15,
-        "avg_response_time": 0.07,
+        "avg_response_time": 0.03,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 79.3,
-        "last_success": "2025-08-02T04:43:12.430922"
+        "overall_score": 79.36,
+        "last_success": "2025-08-02T05:29:54.013159"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1578,
+        "total_configs": 1584,
         "valid_configs": 70,
         "unique_configs": 42,
-        "avg_response_time": 0.11,
+        "avg_response_time": 0.2,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 65.94,
-        "last_success": "2025-08-02T04:43:13.218156"
+        "overall_score": 65.81,
+        "last_success": "2025-08-02T05:29:54.890959"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/v2rayfree",
       "enabled": false,
       "metrics": {
-        "total_configs": 45,
+        "total_configs": 42,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -75,7 +75,7 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": false,
       "metrics": {
-        "total_configs": 60,
+        "total_configs": 57,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -131,7 +131,7 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": false,
       "metrics": {
-        "total_configs": 60,
+        "total_configs": 57,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
