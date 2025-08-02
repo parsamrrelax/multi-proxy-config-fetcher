@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-02T06:40:47.808949",
+  "timestamp": "2025-08-02T07:28:47.186892",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -22,11 +22,11 @@
         "total_configs": 67,
         "valid_configs": 16,
         "unique_configs": 15,
-        "avg_response_time": 0.05,
+        "avg_response_time": 0.04,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 79.33,
-        "last_success": "2025-08-02T06:37:12.485125"
+        "overall_score": 79.34,
+        "last_success": "2025-08-02T07:25:13.772042"
       }
     },
     {
@@ -36,11 +36,11 @@
         "total_configs": 1592,
         "valid_configs": 70,
         "unique_configs": 42,
-        "avg_response_time": 0.12,
+        "avg_response_time": 0.11,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 65.91,
-        "last_success": "2025-08-02T06:37:13.293043"
+        "overall_score": 65.94,
+        "last_success": "2025-08-02T07:25:14.564994"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/v2rayfree",
       "enabled": false,
       "metrics": {
-        "total_configs": 39,
+        "total_configs": 36,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -75,7 +75,7 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": false,
       "metrics": {
-        "total_configs": 57,
+        "total_configs": 60,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -131,7 +131,7 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": false,
       "metrics": {
-        "total_configs": 57,
+        "total_configs": 60,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
