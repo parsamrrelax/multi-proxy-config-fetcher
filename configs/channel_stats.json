@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-03T18:41:22.833556",
+  "timestamp": "2025-08-03T19:25:22.131330",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -20,27 +20,27 @@
       "enabled": true,
       "metrics": {
         "total_configs": 62,
-        "valid_configs": 19,
+        "valid_configs": 22,
         "unique_configs": 15,
-        "avg_response_time": 0.15,
+        "avg_response_time": 0.08,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.17,
-        "last_success": "2025-08-03T18:37:40.276008"
+        "overall_score": 75.8,
+        "last_success": "2025-08-03T19:21:46.552002"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1658,
+        "total_configs": 1654,
         "valid_configs": 75,
         "unique_configs": 43,
-        "avg_response_time": 0.26,
+        "avg_response_time": 0.16,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 65.07,
-        "last_success": "2025-08-03T18:37:41.264074"
+        "overall_score": 65.23,
+        "last_success": "2025-08-03T19:21:47.429867"
       }
     },
     {
@@ -201,7 +201,7 @@
       "url": "https://t.me/s/prrofile_purple",
       "enabled": false,
       "metrics": {
-        "total_configs": 162,
+        "total_configs": 165,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -257,7 +257,7 @@
       "url": "https://t.me/s/Parsashonam",
       "enabled": false,
       "metrics": {
-        "total_configs": 30,
+        "total_configs": 27,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -271,7 +271,7 @@
       "url": "https://t.me/s/ArV2ray",
       "enabled": false,
       "metrics": {
-        "total_configs": 36,
+        "total_configs": 39,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
