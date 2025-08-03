@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-03T07:29:04.814158",
+  "timestamp": "2025-08-03T08:37:10.501984",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -22,25 +22,25 @@
         "total_configs": 62,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.08,
+        "avg_response_time": 0.14,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 80.93,
-        "last_success": "2025-08-03T07:25:29.764599"
+        "overall_score": 80.84,
+        "last_success": "2025-08-03T08:33:25.605474"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1679,
-        "valid_configs": 75,
+        "total_configs": 1669,
+        "valid_configs": 89,
         "unique_configs": 43,
-        "avg_response_time": 0.11,
+        "avg_response_time": 0.19,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 65.29,
-        "last_success": "2025-08-03T07:25:30.612700"
+        "overall_score": 63.12,
+        "last_success": "2025-08-03T08:33:26.530408"
       }
     },
     {
@@ -103,7 +103,7 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": false,
       "metrics": {
-        "total_configs": 48,
+        "total_configs": 42,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -243,7 +243,7 @@
       "url": "https://t.me/s/DirectVPN",
       "enabled": false,
       "metrics": {
-        "total_configs": 48,
+        "total_configs": 42,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -299,7 +299,7 @@
       "url": "https://t.me/s/VmessProtocol",
       "enabled": false,
       "metrics": {
-        "total_configs": 12,
+        "total_configs": 18,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
