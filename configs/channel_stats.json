@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-03T06:41:33.349381",
+  "timestamp": "2025-08-03T07:29:04.814158",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -22,25 +22,25 @@
         "total_configs": 62,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.07,
+        "avg_response_time": 0.08,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 80.95,
-        "last_success": "2025-08-03T06:38:00.314460"
+        "overall_score": 80.93,
+        "last_success": "2025-08-03T07:25:29.764599"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1681,
+        "total_configs": 1679,
         "valid_configs": 75,
         "unique_configs": 43,
         "avg_response_time": 0.11,
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 65.29,
-        "last_success": "2025-08-03T06:38:01.163385"
+        "last_success": "2025-08-03T07:25:30.612700"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/v2rayfree",
       "enabled": false,
       "metrics": {
-        "total_configs": 57,
+        "total_configs": 51,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -75,7 +75,7 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": false,
       "metrics": {
-        "total_configs": 48,
+        "total_configs": 57,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -131,7 +131,7 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": false,
       "metrics": {
-        "total_configs": 48,
+        "total_configs": 57,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -229,7 +229,7 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": true,
       "metrics": {
-        "total_configs": 537,
+        "total_configs": 540,
         "valid_configs": 9,
         "unique_configs": 3,
         "avg_response_time": 0,
