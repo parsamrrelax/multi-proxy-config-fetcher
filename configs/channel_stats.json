@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-06T05:40:04.565151",
+  "timestamp": "2025-08-06T06:47:52.123020",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -33,14 +33,14 @@
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1585,
+        "total_configs": 1584,
         "valid_configs": 91,
         "unique_configs": 55,
-        "avg_response_time": 0.1,
+        "avg_response_time": 0.18,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 66.4,
-        "last_success": "2025-08-06T05:36:32.248033"
+        "overall_score": 66.27,
+        "last_success": "2025-08-06T06:44:17.641505"
       }
     },
     {
@@ -173,7 +173,7 @@
       "url": "https://t.me/s/OutlineReleasedKey",
       "enabled": false,
       "metrics": {
-        "total_configs": 48,
+        "total_configs": 45,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
