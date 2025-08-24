@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-24T04:35:05.389577",
+  "timestamp": "2025-08-24T05:28:33.358269",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -33,14 +33,14 @@
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1404,
+        "total_configs": 1397,
         "valid_configs": 80,
         "unique_configs": 51,
-        "avg_response_time": 0.04,
+        "avg_response_time": 0.18,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 67.3,
-        "last_success": "2025-08-24T04:31:34.119603"
+        "overall_score": 67.1,
+        "last_success": "2025-08-24T05:24:50.216124"
       }
     },
     {
