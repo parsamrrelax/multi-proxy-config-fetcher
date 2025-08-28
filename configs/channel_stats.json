@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-28T01:59:22.583045",
+  "timestamp": "2025-08-28T03:09:56.040053",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -19,14 +19,14 @@
       "url": "https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 159,
-        "valid_configs": 15,
-        "unique_configs": 3,
-        "avg_response_time": 0,
-        "success_count": 0,
+        "total_configs": 53,
+        "valid_configs": 7,
+        "unique_configs": 5,
+        "avg_response_time": 0.03,
+        "success_count": 1,
         "fail_count": 0,
-        "overall_score": 0.0,
-        "last_success": null
+        "overall_score": 71.11,
+        "last_success": "2025-08-28T03:06:20.879324"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 1315,
-        "valid_configs": 101,
-        "unique_configs": 50,
-        "avg_response_time": 0.22,
+        "valid_configs": 99,
+        "unique_configs": 48,
+        "avg_response_time": 0.17,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 63.97,
-        "last_success": "2025-08-28T01:55:39.123696"
+        "overall_score": 63.74,
+        "last_success": "2025-08-28T03:06:21.511238"
       }
     },
     {
