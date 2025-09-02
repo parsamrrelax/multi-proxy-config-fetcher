@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-02T18:36:24.778722",
+  "timestamp": "2025-09-02T19:22:11.768314",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -19,9 +19,9 @@
       "url": "https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 141,
-        "valid_configs": 12,
-        "unique_configs": 2,
+        "total_configs": 159,
+        "valid_configs": 18,
+        "unique_configs": 4,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 1312,
-        "valid_configs": 90,
-        "unique_configs": 53,
-        "avg_response_time": 0.19,
+        "valid_configs": 85,
+        "unique_configs": 51,
+        "avg_response_time": 0.3,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 66.15,
-        "last_success": "2025-09-02T18:32:40.918852"
+        "overall_score": 66.17,
+        "last_success": "2025-09-02T19:18:30.786006"
       }
     },
     {
@@ -201,7 +201,7 @@
       "url": "https://t.me/s/prrofile_purple",
       "enabled": false,
       "metrics": {
-        "total_configs": 168,
+        "total_configs": 192,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
