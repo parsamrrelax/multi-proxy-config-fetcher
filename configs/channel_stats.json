@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-02T23:23:53.060042",
+  "timestamp": "2025-09-03T01:52:55.605845",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -19,7 +19,7 @@
       "url": "https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 159,
+        "total_configs": 141,
         "valid_configs": 18,
         "unique_configs": 4,
         "avg_response_time": 0,
@@ -33,14 +33,14 @@
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1314,
-        "valid_configs": 88,
+        "total_configs": 1212,
+        "valid_configs": 87,
         "unique_configs": 52,
-        "avg_response_time": 0.08,
+        "avg_response_time": 0.06,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 66.32,
-        "last_success": "2025-09-02T23:20:20.798079"
+        "overall_score": 66.64,
+        "last_success": "2025-09-03T01:49:23.881448"
       }
     },
     {
