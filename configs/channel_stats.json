@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-07T03:11:12.838194",
+  "timestamp": "2025-09-07T04:30:49.090974",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -36,11 +36,11 @@
         "total_configs": 1199,
         "valid_configs": 77,
         "unique_configs": 51,
-        "avg_response_time": 0.09,
+        "avg_response_time": 0.04,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 68.02,
-        "last_success": "2025-09-07T03:07:38.513447"
+        "overall_score": 68.11,
+        "last_success": "2025-09-07T04:27:14.613266"
       }
     },
     {
@@ -173,7 +173,7 @@
       "url": "https://t.me/s/OutlineReleasedKey",
       "enabled": false,
       "metrics": {
-        "total_configs": 12,
+        "total_configs": 9,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
