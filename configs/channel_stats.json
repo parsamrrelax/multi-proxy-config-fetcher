@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-17T04:31:36.306526",
+  "timestamp": "2025-09-17T05:27:31.442785",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -36,11 +36,11 @@
         "total_configs": 908,
         "valid_configs": 74,
         "unique_configs": 47,
-        "avg_response_time": 0.14,
+        "avg_response_time": 0.03,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 67.71,
-        "last_success": "2025-09-17T04:28:05.098055"
+        "overall_score": 67.87,
+        "last_success": "2025-09-17T05:23:57.797993"
       }
     },
     {
@@ -157,16 +157,16 @@
     },
     {
       "url": "https://t.me/s/ShadowProxy66",
-      "enabled": true,
+      "enabled": false,
       "metrics": {
-        "total_configs": 62,
-        "valid_configs": 5,
-        "unique_configs": 5,
-        "avg_response_time": 0.7,
-        "success_count": 1,
-        "fail_count": 0,
-        "overall_score": 75.96,
-        "last_success": "2025-09-17T04:29:38.480129"
+        "total_configs": 168,
+        "valid_configs": 0,
+        "unique_configs": 0,
+        "avg_response_time": 0,
+        "success_count": 0,
+        "fail_count": 1,
+        "overall_score": 15.0,
+        "last_success": null
       }
     },
     {
