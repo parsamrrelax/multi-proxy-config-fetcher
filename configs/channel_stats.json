@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-03T10:28:43.062042",
+  "timestamp": "2025-10-03T11:22:50.456940",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -20,13 +20,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 46,
-        "valid_configs": 21,
-        "unique_configs": 16,
-        "avg_response_time": 0.14,
+        "valid_configs": 18,
+        "unique_configs": 14,
+        "avg_response_time": 0.06,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 80.25,
-        "last_success": "2025-10-03T10:25:07.104766"
+        "overall_score": 79.13,
+        "last_success": "2025-10-03T11:19:16.681396"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 1678,
-        "valid_configs": 84,
-        "unique_configs": 50,
-        "avg_response_time": 0.26,
+        "valid_configs": 88,
+        "unique_configs": 52,
+        "avg_response_time": 0.16,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 65.74,
-        "last_success": "2025-10-03T10:25:08.100565"
+        "overall_score": 65.85,
+        "last_success": "2025-10-03T11:19:17.572357"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/v2rayfree",
       "enabled": false,
       "metrics": {
-        "total_configs": 21,
+        "total_configs": 24,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -103,7 +103,7 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": false,
       "metrics": {
-        "total_configs": 42,
+        "total_configs": 54,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -243,7 +243,7 @@
       "url": "https://t.me/s/DirectVPN",
       "enabled": false,
       "metrics": {
-        "total_configs": 42,
+        "total_configs": 54,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -271,7 +271,7 @@
       "url": "https://t.me/s/ArV2ray",
       "enabled": false,
       "metrics": {
-        "total_configs": 27,
+        "total_configs": 24,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
