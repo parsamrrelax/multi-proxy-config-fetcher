@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-04T19:20:44.551393",
+  "timestamp": "2025-10-04T20:27:31.049790",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -22,25 +22,25 @@
         "total_configs": 44,
         "valid_configs": 18,
         "unique_configs": 16,
-        "avg_response_time": 0.07,
+        "avg_response_time": 0.06,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 82.34,
-        "last_success": "2025-10-04T19:17:08.400182"
+        "overall_score": 82.35,
+        "last_success": "2025-10-04T20:23:51.783213"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1726,
-        "valid_configs": 67,
-        "unique_configs": 41,
-        "avg_response_time": 0.09,
+        "total_configs": 1715,
+        "valid_configs": 79,
+        "unique_configs": 40,
+        "avg_response_time": 0.91,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 66.14,
-        "last_success": "2025-10-04T19:17:09.355120"
+        "overall_score": 62.44,
+        "last_success": "2025-10-04T20:23:53.562229"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/v2rayfree",
       "enabled": false,
       "metrics": {
-        "total_configs": 30,
+        "total_configs": 42,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -103,7 +103,7 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": false,
       "metrics": {
-        "total_configs": 48,
+        "total_configs": 42,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -229,7 +229,7 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": true,
       "metrics": {
-        "total_configs": 444,
+        "total_configs": 462,
         "valid_configs": 6,
         "unique_configs": 2,
         "avg_response_time": 0,
@@ -243,7 +243,7 @@
       "url": "https://t.me/s/DirectVPN",
       "enabled": false,
       "metrics": {
-        "total_configs": 48,
+        "total_configs": 42,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
