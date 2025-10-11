@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-11T11:21:13.741252",
+  "timestamp": "2025-10-11T12:48:11.520297",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -36,11 +36,11 @@
         "total_configs": 1265,
         "valid_configs": 90,
         "unique_configs": 53,
-        "avg_response_time": 0.05,
+        "avg_response_time": 0.08,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 66.43,
-        "last_success": "2025-10-11T11:17:39.995358"
+        "overall_score": 66.38,
+        "last_success": "2025-10-11T12:44:34.752754"
       }
     },
     {
@@ -271,7 +271,7 @@
       "url": "https://t.me/s/ArV2ray",
       "enabled": false,
       "metrics": {
-        "total_configs": 3,
+        "total_configs": 0,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
