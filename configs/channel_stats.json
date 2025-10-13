@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-13T06:41:55.170282",
+  "timestamp": "2025-10-13T07:29:03.453610",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -36,11 +36,11 @@
         "total_configs": 1536,
         "valid_configs": 76,
         "unique_configs": 49,
-        "avg_response_time": 0.15,
+        "avg_response_time": 0.12,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 67.12,
-        "last_success": "2025-10-13T06:38:29.931559"
+        "overall_score": 67.18,
+        "last_success": "2025-10-13T07:25:38.048568"
       }
     },
     {
@@ -159,7 +159,7 @@
       "url": "https://t.me/s/ShadowProxy66",
       "enabled": false,
       "metrics": {
-        "total_configs": 186,
+        "total_configs": 111,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -229,14 +229,14 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": true,
       "metrics": {
-        "total_configs": 174,
+        "total_configs": 168,
         "valid_configs": 5,
         "unique_configs": 5,
         "avg_response_time": 0.52,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.94,
-        "last_success": "2025-10-13T06:40:58.217499"
+        "overall_score": 74.96,
+        "last_success": "2025-10-13T07:28:06.463420"
       }
     },
     {
@@ -299,7 +299,7 @@
       "url": "https://t.me/s/VmessProtocol",
       "enabled": false,
       "metrics": {
-        "total_configs": 72,
+        "total_configs": 57,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
