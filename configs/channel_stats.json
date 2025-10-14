@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-14T10:30:41.881772",
+  "timestamp": "2025-10-14T11:23:51.935778",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -39,8 +39,8 @@
         "avg_response_time": 0.09,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 65.39,
-        "last_success": "2025-10-14T10:27:07.691417"
+        "overall_score": 65.38,
+        "last_success": "2025-10-14T11:20:17.593237"
       }
     },
     {
@@ -229,7 +229,7 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": false,
       "metrics": {
-        "total_configs": 348,
+        "total_configs": 309,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -243,7 +243,7 @@
       "url": "https://t.me/s/DirectVPN",
       "enabled": false,
       "metrics": {
-        "total_configs": 42,
+        "total_configs": 54,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
