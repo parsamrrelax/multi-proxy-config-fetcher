@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-18T15:25:42.467755",
+  "timestamp": "2025-10-18T16:31:07.146828",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -33,14 +33,14 @@
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1685,
+        "total_configs": 1677,
         "valid_configs": 91,
         "unique_configs": 54,
-        "avg_response_time": 0.08,
+        "avg_response_time": 0.09,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 66.06,
-        "last_success": "2025-10-18T15:22:05.897017"
+        "overall_score": 66.05,
+        "last_success": "2025-10-18T16:27:44.200601"
       }
     },
     {
@@ -103,7 +103,7 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": false,
       "metrics": {
-        "total_configs": 54,
+        "total_configs": 48,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -227,23 +227,23 @@
     },
     {
       "url": "https://t.me/s/meli_proxyy",
-      "enabled": false,
+      "enabled": true,
       "metrics": {
-        "total_configs": 387,
-        "valid_configs": 0,
-        "unique_configs": 0,
-        "avg_response_time": 0,
-        "success_count": 0,
-        "fail_count": 1,
-        "overall_score": 15.0,
-        "last_success": null
+        "total_configs": 150,
+        "valid_configs": 6,
+        "unique_configs": 6,
+        "avg_response_time": 0.49,
+        "success_count": 1,
+        "fail_count": 0,
+        "overall_score": 75.27,
+        "last_success": "2025-10-18T16:30:10.800419"
       }
     },
     {
       "url": "https://t.me/s/DirectVPN",
       "enabled": false,
       "metrics": {
-        "total_configs": 54,
+        "total_configs": 48,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
