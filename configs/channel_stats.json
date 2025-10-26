@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-26T12:51:39.918684",
+  "timestamp": "2025-10-26T13:31:28.203087",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -22,11 +22,11 @@
         "total_configs": 39,
         "valid_configs": 15,
         "unique_configs": 12,
-        "avg_response_time": 0.12,
+        "avg_response_time": 0.06,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 79.44,
-        "last_success": "2025-10-26T12:47:51.768887"
+        "overall_score": 79.52,
+        "last_success": "2025-10-26T13:27:52.788557"
       }
     },
     {
@@ -36,11 +36,11 @@
         "total_configs": 1562,
         "valid_configs": 49,
         "unique_configs": 44,
-        "avg_response_time": 0.16,
+        "avg_response_time": 0.08,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 72.99,
-        "last_success": "2025-10-26T12:47:52.627566"
+        "overall_score": 73.12,
+        "last_success": "2025-10-26T13:27:53.559475"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/v2rayfree",
       "enabled": false,
       "metrics": {
-        "total_configs": 24,
+        "total_configs": 18,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -145,7 +145,7 @@
       "url": "https://t.me/s/oneclickvpnkeys",
       "enabled": true,
       "metrics": {
-        "total_configs": 237,
+        "total_configs": 294,
         "valid_configs": 12,
         "unique_configs": 2,
         "avg_response_time": 0,
@@ -157,15 +157,15 @@
     },
     {
       "url": "https://t.me/s/ShadowProxy66",
-      "enabled": true,
+      "enabled": false,
       "metrics": {
-        "total_configs": 3,
-        "valid_configs": 3,
-        "unique_configs": 1,
+        "total_configs": 0,
+        "valid_configs": 0,
+        "unique_configs": 0,
         "avg_response_time": 0,
         "success_count": 0,
-        "fail_count": 0,
-        "overall_score": 0.0,
+        "fail_count": 1,
+        "overall_score": 15.0,
         "last_success": null
       }
     },
