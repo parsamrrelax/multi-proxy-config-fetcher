@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-27T16:37:03.052800",
+  "timestamp": "2025-10-27T17:26:39.013438",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -22,11 +22,11 @@
         "total_configs": 38,
         "valid_configs": 12,
         "unique_configs": 10,
-        "avg_response_time": 0.08,
+        "avg_response_time": 0.16,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.62,
-        "last_success": "2025-10-27T16:33:27.648920"
+        "overall_score": 78.48,
+        "last_success": "2025-10-27T17:22:54.000369"
       }
     },
     {
@@ -36,11 +36,11 @@
         "total_configs": 1772,
         "valid_configs": 59,
         "unique_configs": 46,
-        "avg_response_time": 0.1,
+        "avg_response_time": 0.18,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 70.18,
-        "last_success": "2025-10-27T16:33:28.670103"
+        "overall_score": 70.05,
+        "last_success": "2025-10-27T17:22:55.219604"
       }
     },
     {
@@ -145,7 +145,7 @@
       "url": "https://t.me/s/oneclickvpnkeys",
       "enabled": true,
       "metrics": {
-        "total_configs": 486,
+        "total_configs": 525,
         "valid_configs": 6,
         "unique_configs": 2,
         "avg_response_time": 0,
@@ -229,7 +229,7 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": false,
       "metrics": {
-        "total_configs": 495,
+        "total_configs": 501,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
