@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-27T23:25:42.856673",
+  "timestamp": "2025-10-28T02:00:13.921437",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -20,27 +20,27 @@
       "enabled": true,
       "metrics": {
         "total_configs": 38,
-        "valid_configs": 11,
-        "unique_configs": 9,
-        "avg_response_time": 0.06,
+        "valid_configs": 12,
+        "unique_configs": 10,
+        "avg_response_time": 0.14,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.6,
-        "last_success": "2025-10-27T23:22:08.418326"
+        "overall_score": 78.51,
+        "last_success": "2025-10-28T01:56:30.688006"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1778,
-        "valid_configs": 60,
-        "unique_configs": 47,
-        "avg_response_time": 0.06,
+        "total_configs": 1658,
+        "valid_configs": 52,
+        "unique_configs": 39,
+        "avg_response_time": 0.31,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 70.33,
-        "last_success": "2025-10-27T23:22:09.400760"
+        "overall_score": 69.07,
+        "last_success": "2025-10-28T01:56:31.925186"
       }
     },
     {
@@ -199,15 +199,15 @@
     },
     {
       "url": "https://t.me/s/prrofile_purple",
-      "enabled": false,
+      "enabled": true,
       "metrics": {
         "total_configs": 72,
-        "valid_configs": 0,
-        "unique_configs": 0,
+        "valid_configs": 6,
+        "unique_configs": 2,
         "avg_response_time": 0,
         "success_count": 0,
-        "fail_count": 1,
-        "overall_score": 15.0,
+        "fail_count": 0,
+        "overall_score": 0.0,
         "last_success": null
       }
     },
@@ -227,15 +227,15 @@
     },
     {
       "url": "https://t.me/s/meli_proxyy",
-      "enabled": false,
+      "enabled": true,
       "metrics": {
         "total_configs": 555,
-        "valid_configs": 0,
-        "unique_configs": 0,
+        "valid_configs": 6,
+        "unique_configs": 2,
         "avg_response_time": 0,
         "success_count": 0,
-        "fail_count": 1,
-        "overall_score": 15.0,
+        "fail_count": 0,
+        "overall_score": 0.0,
         "last_success": null
       }
     },
