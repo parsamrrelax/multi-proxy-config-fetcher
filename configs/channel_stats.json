@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-28T09:31:17.318834",
+  "timestamp": "2025-10-28T10:32:18.771729",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -21,12 +21,12 @@
       "metrics": {
         "total_configs": 38,
         "valid_configs": 12,
-        "unique_configs": 9,
-        "avg_response_time": 0.03,
+        "unique_configs": 10,
+        "avg_response_time": 0.16,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.6,
-        "last_success": "2025-10-28T09:27:38.931208"
+        "overall_score": 78.49,
+        "last_success": "2025-10-28T10:28:33.340508"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 1653,
-        "valid_configs": 69,
-        "unique_configs": 41,
-        "avg_response_time": 0.18,
+        "valid_configs": 68,
+        "unique_configs": 40,
+        "avg_response_time": 0.16,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 65.63,
-        "last_success": "2025-10-28T09:27:39.914399"
+        "overall_score": 65.49,
+        "last_success": "2025-10-28T10:28:34.304540"
       }
     },
     {
@@ -145,7 +145,7 @@
       "url": "https://t.me/s/oneclickvpnkeys",
       "enabled": false,
       "metrics": {
-        "total_configs": 402,
+        "total_configs": 498,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -229,7 +229,7 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": true,
       "metrics": {
-        "total_configs": 519,
+        "total_configs": 507,
         "valid_configs": 6,
         "unique_configs": 2,
         "avg_response_time": 0,
@@ -299,7 +299,7 @@
       "url": "https://t.me/s/VmessProtocol",
       "enabled": false,
       "metrics": {
-        "total_configs": 30,
+        "total_configs": 39,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
