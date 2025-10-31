@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-31T15:29:22.020992",
+  "timestamp": "2025-10-31T16:35:54.476330",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -22,25 +22,25 @@
         "total_configs": 37,
         "valid_configs": 11,
         "unique_configs": 9,
-        "avg_response_time": 0.12,
+        "avg_response_time": 0.17,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.71,
-        "last_success": "2025-10-31T15:25:34.048071"
+        "overall_score": 77.63,
+        "last_success": "2025-10-31T16:32:09.655599"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1788,
-        "valid_configs": 58,
+        "total_configs": 1736,
+        "valid_configs": 57,
         "unique_configs": 42,
-        "avg_response_time": 0.04,
+        "avg_response_time": 0.27,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 68.86,
-        "last_success": "2025-10-31T15:25:35.025236"
+        "overall_score": 68.84,
+        "last_success": "2025-10-31T16:32:10.869756"
       }
     },
     {
@@ -103,7 +103,7 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": false,
       "metrics": {
-        "total_configs": 54,
+        "total_configs": 48,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -229,7 +229,7 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": true,
       "metrics": {
-        "total_configs": 423,
+        "total_configs": 447,
         "valid_configs": 4,
         "unique_configs": 4,
         "avg_response_time": 0,
@@ -243,7 +243,7 @@
       "url": "https://t.me/s/DirectVPN",
       "enabled": false,
       "metrics": {
-        "total_configs": 54,
+        "total_configs": 48,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
