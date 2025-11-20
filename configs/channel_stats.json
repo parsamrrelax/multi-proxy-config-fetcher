@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-20T10:32:40.774038",
+  "timestamp": "2025-11-20T11:26:40.183332",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -36,11 +36,11 @@
         "total_configs": 2048,
         "valid_configs": 99,
         "unique_configs": 55,
-        "avg_response_time": 0.19,
+        "avg_response_time": 0.04,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 64.81,
-        "last_success": "2025-11-20T10:28:56.233481"
+        "overall_score": 65.03,
+        "last_success": "2025-11-20T11:22:51.811138"
       }
     },
     {
@@ -299,7 +299,7 @@
       "url": "https://t.me/s/VmessProtocol",
       "enabled": false,
       "metrics": {
-        "total_configs": 33,
+        "total_configs": 36,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
