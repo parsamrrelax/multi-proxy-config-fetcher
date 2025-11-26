@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-26T09:33:43.740670",
+  "timestamp": "2025-11-26T10:34:17.379123",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -36,11 +36,11 @@
         "total_configs": 2192,
         "valid_configs": 100,
         "unique_configs": 55,
-        "avg_response_time": 0.08,
+        "avg_response_time": 0.15,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 64.78,
-        "last_success": "2025-11-26T09:30:08.761298"
+        "overall_score": 64.67,
+        "last_success": "2025-11-26T10:30:30.013514"
       }
     },
     {
@@ -229,7 +229,7 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": false,
       "metrics": {
-        "total_configs": 315,
+        "total_configs": 312,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
