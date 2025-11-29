@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-29T12:54:31.305883",
+  "timestamp": "2025-11-29T13:34:46.391423",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -36,11 +36,11 @@
         "total_configs": 2257,
         "valid_configs": 72,
         "unique_configs": 55,
-        "avg_response_time": 0.38,
+        "avg_response_time": 0.05,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 69.33,
-        "last_success": "2025-11-29T12:50:46.210639"
+        "overall_score": 69.82,
+        "last_success": "2025-11-29T13:31:13.127038"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/v2rayfree",
       "enabled": false,
       "metrics": {
-        "total_configs": 24,
+        "total_configs": 27,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -145,7 +145,7 @@
       "url": "https://t.me/s/oneclickvpnkeys",
       "enabled": false,
       "metrics": {
-        "total_configs": 429,
+        "total_configs": 423,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
