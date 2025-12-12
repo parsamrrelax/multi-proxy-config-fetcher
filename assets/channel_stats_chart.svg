@@ -8,9 +8,9 @@
         <text x="140" y="100" text-anchor="end" class="row">configs.txt</text>
         <text x="660" y="100" text-anchor="start" class="score">0.0% (S:0%)</text><rect x="150" y="130" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="130" width="0.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="150" text-anchor="end" class="row">mix.txt</text>
-        <text x="660" y="150" text-anchor="start" class="score">0.0% (S:0%)</text><rect x="150" y="180" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="180" width="348.54999999999995" height="30" fill="#eab308" rx="5"/>
+        <text x="660" y="150" text-anchor="start" class="score">0.0% (S:0%)</text><rect x="150" y="180" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="180" width="356.25" height="30" fill="#22c55e" rx="5"/>
         <text x="140" y="200" text-anchor="end" class="row">mix.txt</text>
-        <text x="660" y="200" text-anchor="start" class="score">69.7% (S:100%)</text><rect x="150" y="230" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="230" width="75.0" height="30" fill="#ef4444" rx="5"/>
+        <text x="660" y="200" text-anchor="start" class="score">71.2% (S:100%)</text><rect x="150" y="230" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="230" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="250" text-anchor="end" class="row">sub_1.txt</text>
         <text x="660" y="250" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="280" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="280" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="300" text-anchor="end" class="row">v2rayfree</text>
@@ -46,6 +46,6 @@
         <text x="140" y="1050" text-anchor="end" class="row">ArV2ray</text>
         <text x="660" y="1050" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="1080" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="1080" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="1100" text-anchor="end" class="row">inikotesla</text>
-        <text x="660" y="1100" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="1130" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="1130" width="0.0" height="30" fill="#ef4444" rx="5"/>
+        <text x="660" y="1100" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="1130" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="1130" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="1150" text-anchor="end" class="row">VmessProtocol</text>
-        <text x="660" y="1150" text-anchor="start" class="score">0.0% (S:0%)</text></svg>
+        <text x="660" y="1150" text-anchor="start" class="score">15.0% (S:0%)</text></svg>
