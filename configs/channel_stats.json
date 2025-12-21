@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-21T10:30:53.099381",
+  "timestamp": "2025-12-21T11:25:18.861887",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -17,15 +17,15 @@
     },
     {
       "url": "https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/mix.txt",
-      "enabled": true,
+      "enabled": false,
       "metrics": {
-        "total_configs": 78,
-        "valid_configs": 3,
-        "unique_configs": 1,
+        "total_configs": 45,
+        "valid_configs": 0,
+        "unique_configs": 0,
         "avg_response_time": 0,
         "success_count": 0,
-        "fail_count": 0,
-        "overall_score": 0.0,
+        "fail_count": 1,
+        "overall_score": 15.0,
         "last_success": null
       }
     },
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 2355,
-        "valid_configs": 80,
-        "unique_configs": 55,
-        "avg_response_time": 0.24,
+        "valid_configs": 81,
+        "unique_configs": 56,
+        "avg_response_time": 0.05,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 67.68,
-        "last_success": "2025-12-21T10:27:23.136218"
+        "overall_score": 68.06,
+        "last_success": "2025-12-21T11:21:55.253457"
       }
     },
     {
@@ -145,7 +145,7 @@
       "url": "https://t.me/s/oneclickvpnkeys",
       "enabled": false,
       "metrics": {
-        "total_configs": 231,
+        "total_configs": 342,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -162,11 +162,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.6,
+        "avg_response_time": 0.49,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.09,
-        "last_success": "2025-12-21T10:28:56.642237"
+        "overall_score": 99.27,
+        "last_success": "2025-12-21T11:23:25.755722"
       }
     },
     {
