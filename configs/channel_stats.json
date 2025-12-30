@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-29T23:29:25.177298",
+  "timestamp": "2025-12-30T02:14:00.318659",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -33,14 +33,14 @@
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 2309,
+        "total_configs": 2312,
         "valid_configs": 66,
         "unique_configs": 51,
-        "avg_response_time": 0.05,
+        "avg_response_time": 0.32,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 69.95,
-        "last_success": "2025-12-29T23:26:13.019503"
+        "overall_score": 69.55,
+        "last_success": "2025-12-30T02:10:40.767943"
       }
     },
     {
@@ -75,7 +75,7 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": false,
       "metrics": {
-        "total_configs": 60,
+        "total_configs": 54,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -89,7 +89,7 @@
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": false,
       "metrics": {
-        "total_configs": 69,
+        "total_configs": 78,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -131,7 +131,7 @@
       "url": "https://t.me/s/IP_CF_Config",
       "enabled": false,
       "metrics": {
-        "total_configs": 60,
+        "total_configs": 54,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -148,11 +148,11 @@
         "total_configs": 92,
         "valid_configs": 13,
         "unique_configs": 13,
-        "avg_response_time": 0.51,
+        "avg_response_time": 0.69,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.77,
-        "last_success": "2025-12-29T23:27:31.681334"
+        "overall_score": 77.49,
+        "last_success": "2025-12-30T02:12:02.667340"
       }
     },
     {
@@ -162,11 +162,11 @@
         "total_configs": 13,
         "valid_configs": 12,
         "unique_configs": 12,
-        "avg_response_time": 0.56,
+        "avg_response_time": 0.62,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 97.24,
-        "last_success": "2025-12-29T23:27:32.277197"
+        "overall_score": 97.14,
+        "last_success": "2025-12-30T02:12:03.329048"
       }
     },
     {
