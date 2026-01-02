@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-02T21:25:22.679109",
+  "timestamp": "2026-01-02T22:31:31.722704",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -33,14 +33,14 @@
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 2025,
-        "valid_configs": 86,
+        "total_configs": 2064,
+        "valid_configs": 75,
         "unique_configs": 56,
-        "avg_response_time": 0.04,
+        "avg_response_time": 0.15,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 67.28,
-        "last_success": "2026-01-02T21:21:48.421148"
+        "overall_score": 69.34,
+        "last_success": "2026-01-02T22:27:48.939377"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/v2rayfree",
       "enabled": false,
       "metrics": {
-        "total_configs": 6,
+        "total_configs": 12,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -103,7 +103,7 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": false,
       "metrics": {
-        "total_configs": 33,
+        "total_configs": 48,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -145,7 +145,7 @@
       "url": "https://t.me/s/oneclickvpnkeys",
       "enabled": false,
       "metrics": {
-        "total_configs": 219,
+        "total_configs": 177,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -243,7 +243,7 @@
       "url": "https://t.me/s/DirectVPN",
       "enabled": false,
       "metrics": {
-        "total_configs": 33,
+        "total_configs": 48,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
