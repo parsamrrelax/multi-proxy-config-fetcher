@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-03T15:29:53.325352",
+  "timestamp": "2026-01-03T16:36:17.339215",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -33,14 +33,14 @@
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1826,
-        "valid_configs": 80,
+        "total_configs": 1779,
+        "valid_configs": 78,
         "unique_configs": 56,
-        "avg_response_time": 0.23,
+        "avg_response_time": 0.14,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 68.25,
-        "last_success": "2026-01-03T15:26:19.678069"
+        "overall_score": 68.84,
+        "last_success": "2026-01-03T16:32:40.380520"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/v2rayfree",
       "enabled": false,
       "metrics": {
-        "total_configs": 42,
+        "total_configs": 30,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -103,7 +103,7 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": false,
       "metrics": {
-        "total_configs": 42,
+        "total_configs": 36,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -145,14 +145,14 @@
       "url": "https://t.me/s/oneclickvpnkeys",
       "enabled": true,
       "metrics": {
-        "total_configs": 84,
+        "total_configs": 98,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 0.74,
+        "avg_response_time": 0.81,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.38,
-        "last_success": "2026-01-03T15:27:42.511071"
+        "overall_score": 75.06,
+        "last_success": "2026-01-03T16:34:04.345407"
       }
     },
     {
@@ -243,7 +243,7 @@
       "url": "https://t.me/s/DirectVPN",
       "enabled": false,
       "metrics": {
-        "total_configs": 42,
+        "total_configs": 36,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
