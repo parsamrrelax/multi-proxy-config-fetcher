@@ -24,7 +24,7 @@
         <text x="140" y="500" text-anchor="end" class="row">v2Source</text>
         <text x="660" y="500" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="530" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="530" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="550" text-anchor="end" class="row">IP_CF_Config</text>
-        <text x="660" y="550" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="580" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="580" width="376.0" height="30" fill="#22c55e" rx="5"/>
+        <text x="660" y="550" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="580" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="580" width="375.90000000000003" height="30" fill="#22c55e" rx="5"/>
         <text x="140" y="600" text-anchor="end" class="row">oneclickvpnkeys</text>
         <text x="660" y="600" text-anchor="start" class="score">75.2% (S:100%)</text><rect x="150" y="630" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="630" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="650" text-anchor="end" class="row">ShadowProxy66</text>
