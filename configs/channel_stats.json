@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-15T06:48:17.649675",
+  "timestamp": "2026-01-15T07:35:27.733014",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -36,11 +36,11 @@
         "total_configs": 1684,
         "valid_configs": 64,
         "unique_configs": 49,
-        "avg_response_time": 0.04,
+        "avg_response_time": 0.11,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 70.03,
-        "last_success": "2026-01-15T06:44:41.362925"
+        "overall_score": 69.93,
+        "last_success": "2026-01-15T07:31:53.336575"
       }
     },
     {
@@ -201,7 +201,7 @@
       "url": "https://t.me/s/prrofile_purple",
       "enabled": false,
       "metrics": {
-        "total_configs": 27,
+        "total_configs": 18,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
