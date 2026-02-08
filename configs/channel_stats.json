@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-08T08:44:43.234947",
+  "timestamp": "2026-02-08T09:41:48.773793",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt",
@@ -33,14 +33,14 @@
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1444,
-        "valid_configs": 59,
+        "total_configs": 1434,
+        "valid_configs": 74,
         "unique_configs": 42,
-        "avg_response_time": 0.25,
+        "avg_response_time": 0.07,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 68.45,
-        "last_success": "2026-02-08T08:40:59.510365"
+        "overall_score": 65.37,
+        "last_success": "2026-02-08T09:38:06.411039"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/v2rayfree",
       "enabled": false,
       "metrics": {
-        "total_configs": 51,
+        "total_configs": 45,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -89,7 +89,7 @@
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": false,
       "metrics": {
-        "total_configs": 93,
+        "total_configs": 102,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -103,7 +103,7 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": false,
       "metrics": {
-        "total_configs": 48,
+        "total_configs": 42,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -145,7 +145,7 @@
       "url": "https://t.me/s/oneclickvpnkeys",
       "enabled": false,
       "metrics": {
-        "total_configs": 309,
+        "total_configs": 354,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -243,7 +243,7 @@
       "url": "https://t.me/s/DirectVPN",
       "enabled": false,
       "metrics": {
-        "total_configs": 48,
+        "total_configs": 42,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
