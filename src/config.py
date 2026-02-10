@@ -55,24 +55,10 @@ class ProxyConfig:
             ChannelConfig("https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/mix.txt"),
             ChannelConfig("https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt"),
             ChannelConfig("https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_1.txt"),
-            ChannelConfig("https://t.me/s/v2rayfree"),
-            ChannelConfig("https://t.me/s/IP_CF_Config"),
-            ChannelConfig("https://t.me/s/v2ray_free_conf"),
-            ChannelConfig("https://t.me/s/PrivateVPNs"),
-            ChannelConfig("https://t.me/s/v2Source"),
-            ChannelConfig("https://t.me/s/IP_CF_Config"),
-            ChannelConfig("https://t.me/s/oneclickvpnkeys"),
-            ChannelConfig("https://t.me/s/ShadowProxy66"),
-            ChannelConfig("https://t.me/s/OutlineReleasedKey"),
-            ChannelConfig("https://t.me/s/GetConfigIR"),
-            ChannelConfig("https://t.me/s/prrofile_purple"),
-            ChannelConfig("https://t.me/s/proxy_shadosocks"),
             ChannelConfig("https://t.me/s/meli_proxyy"),
-            ChannelConfig("https://t.me/s/DirectVPN"),
             ChannelConfig("https://t.me/s/Parsashonam"),
-            ChannelConfig("https://t.me/s/ArV2ray"),
-            ChannelConfig("https://t.me/inikotesla"),
-            ChannelConfig("https://t.me/s/VmessProtocol")
+            ChannelConfig("https://t.me/s/Spotify_Porteghali"),
+            ChannelConfig("https://t.me/iphone02016vpn"),
         ]
 
         # Minimum and maximum number of configurations per protocol
