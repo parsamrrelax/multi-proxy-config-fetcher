@@ -51,10 +51,9 @@ class ProxyConfig:
     def __init__(self):
         # List of channels or URLs to fetch proxy configurations from
         self.SOURCE_URLS = [
-            ChannelConfig("https://raw.githubusercontent.com/parsamrrelax/ss-config-updater/refs/heads/main/configs.txt"),
-            ChannelConfig("https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/mix.txt"),
             ChannelConfig("https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt"),
-            ChannelConfig("https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_1.txt"),
+            ChannelConfig("https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/refs/heads/main/category/vless.txt"),
+            ChannelConfig("https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/refs/heads/main/category/ss.txt"),
             ChannelConfig("https://t.me/s/meli_proxyy"),
             ChannelConfig("https://t.me/s/Parsashonam"),
             ChannelConfig("https://t.me/s/Spotify_Porteghali"),
