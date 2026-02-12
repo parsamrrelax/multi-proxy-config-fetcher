@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-02-12T10:01:04.300320",
+  "timestamp": "2026-02-12T11:02:33.436282",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1867,
+        "total_configs": 1929,
         "valid_configs": 60,
         "unique_configs": 45,
-        "avg_response_time": 0.05,
+        "avg_response_time": 0.08,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 69.47,
-        "last_success": "2026-02-12T09:59:57.293343"
+        "overall_score": 69.41,
+        "last_success": "2026-02-12T11:01:27.846312"
       }
     },
     {
@@ -75,7 +75,7 @@
       "url": "https://t.me/s/Spotify_Porteghali",
       "enabled": true,
       "metrics": {
-        "total_configs": 24,
+        "total_configs": 33,
         "valid_configs": 3,
         "unique_configs": 1,
         "avg_response_time": 0,
