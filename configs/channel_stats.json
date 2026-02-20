@@ -1,25 +1,25 @@
 {
-  "timestamp": "2026-02-20T07:10:29.192559",
+  "timestamp": "2026-02-20T08:52:50.341944",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1743,
-        "valid_configs": 58,
+        "total_configs": 1781,
+        "valid_configs": 72,
         "unique_configs": 46,
         "avg_response_time": 0.06,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 70.56,
-        "last_success": "2026-02-20T07:09:21.691342"
+        "overall_score": 66.89,
+        "last_success": "2026-02-20T08:51:42.013318"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/refs/heads/main/category/vless.txt",
       "enabled": false,
       "metrics": {
-        "total_configs": 1083,
+        "total_configs": 1077,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -33,7 +33,7 @@
       "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/refs/heads/main/category/ss.txt",
       "enabled": false,
       "metrics": {
-        "total_configs": 198,
+        "total_configs": 171,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -75,7 +75,7 @@
       "url": "https://t.me/s/Spotify_Porteghali",
       "enabled": false,
       "metrics": {
-        "total_configs": 6,
+        "total_configs": 12,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
