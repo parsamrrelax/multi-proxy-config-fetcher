@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-03T02:47:58.616176",
+  "timestamp": "2026-03-03T04:53:26.889710",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
@@ -8,11 +8,11 @@
         "total_configs": 1696,
         "valid_configs": 73,
         "unique_configs": 45,
-        "avg_response_time": 0.06,
+        "avg_response_time": 0.17,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 66.4,
-        "last_success": "2026-03-03T02:46:53.643329"
+        "overall_score": 66.23,
+        "last_success": "2026-03-03T04:52:18.883993"
       }
     },
     {
