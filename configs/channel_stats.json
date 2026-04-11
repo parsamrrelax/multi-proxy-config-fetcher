@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-11T19:41:22.325464",
+  "timestamp": "2026-04-11T20:44:02.521904",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
@@ -12,7 +12,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 69.96,
-        "last_success": "2026-04-11T19:40:16.939316"
+        "last_success": "2026-04-11T20:42:56.495085"
       }
     },
     {
