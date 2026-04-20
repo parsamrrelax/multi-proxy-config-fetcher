@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-20T18:03:00.408766",
+  "timestamp": "2026-04-20T20:03:04.161061",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
@@ -8,11 +8,11 @@
         "total_configs": 883,
         "valid_configs": 59,
         "unique_configs": 45,
-        "avg_response_time": 0.09,
+        "avg_response_time": 0.04,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 70.6,
-        "last_success": "2026-04-20T18:01:55.024411"
+        "overall_score": 70.68,
+        "last_success": "2026-04-20T20:01:58.327475"
       }
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/Parsashonam",
       "enabled": false,
       "metrics": {
-        "total_configs": 27,
+        "total_configs": 18,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
