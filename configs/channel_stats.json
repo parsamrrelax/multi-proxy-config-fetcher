@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-05-26T19:23:46.899686",
+  "timestamp": "2026-05-26T21:52:39.738938",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 802,
-        "valid_configs": 69,
-        "unique_configs": 43,
-        "avg_response_time": 0.07,
+        "total_configs": 829,
+        "valid_configs": 59,
+        "unique_configs": 45,
+        "avg_response_time": 0.2,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 67.62,
-        "last_success": "2026-05-26T19:22:41.691122"
+        "overall_score": 70.55,
+        "last_success": "2026-05-26T21:51:32.964567"
       }
     },
     {
@@ -31,15 +31,15 @@
     },
     {
       "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/refs/heads/main/category/ss.txt",
-      "enabled": true,
+      "enabled": false,
       "metrics": {
         "total_configs": 93,
-        "valid_configs": 3,
-        "unique_configs": 1,
+        "valid_configs": 0,
+        "unique_configs": 0,
         "avg_response_time": 0,
         "success_count": 0,
-        "fail_count": 0,
-        "overall_score": 0.0,
+        "fail_count": 1,
+        "overall_score": 15.0,
         "last_success": null
       }
     },
@@ -61,7 +61,7 @@
       "url": "https://t.me/s/Parsashonam",
       "enabled": false,
       "metrics": {
-        "total_configs": 24,
+        "total_configs": 18,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -75,7 +75,7 @@
       "url": "https://t.me/s/Spotify_Porteghali",
       "enabled": false,
       "metrics": {
-        "total_configs": 0,
+        "total_configs": 18,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
