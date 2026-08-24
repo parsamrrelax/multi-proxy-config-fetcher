@@ -1,25 +1,25 @@
 {
-  "timestamp": "2026-08-24T07:11:31.950840",
+  "timestamp": "2026-08-24T08:56:36.846161",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 1727,
-        "valid_configs": 77,
+        "total_configs": 1717,
+        "valid_configs": 71,
         "unique_configs": 47,
-        "avg_response_time": 0.14,
+        "avg_response_time": 0.15,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 66.16,
-        "last_success": "2026-08-24T07:10:20.228598"
+        "overall_score": 67.36,
+        "last_success": "2026-08-24T08:55:25.990395"
       }
     },
     {
       "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/refs/heads/main/category/vless.txt",
       "enabled": false,
       "metrics": {
-        "total_configs": 933,
+        "total_configs": 939,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -33,7 +33,7 @@
       "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/refs/heads/main/category/ss.txt",
       "enabled": false,
       "metrics": {
-        "total_configs": 126,
+        "total_configs": 132,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
