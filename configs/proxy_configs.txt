@@ -2,119 +2,113 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 //profile-web-page-url: https://github.com/parsamrrelax
-hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#6Eb8eHQI
+hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#OQA0Z21c
 
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?security=tls&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&insecure=0&sni=hy2-new.aspidnet.xyz#7KFQew3u
+hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?security=tls&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&insecure=0&sni=hy2-new.aspidnet.xyz#li5X9fej
 
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?security=tls&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&insecure=0&sni=hy2-new.aspidnet.xyz#KeuENFGJ
+hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?security=tls&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&insecure=0&sni=hy2-new.aspidnet.xyz#eYzqwncM
 
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?security=tls&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&insecure=0&sni=hy2-new.aspidnet.xyz#9P4VDLpo
+hysteria2://V2RayyNGvpn@168.222.43.35:443?security=tls&obfs=salamander&obfs-password=V2RayyNGvpn&insecure=0&pinSHA256=8b5ac8eb1c23f208cb6e92bd41407d32994b0668d3ba2b0cd56400dca8c0b843&sni=Play.google.com#3zMzKK6J
 
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?security=tls&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&insecure=0&sni=hy2-new.aspidnet.xyz#ixsiy7tX
+hysteria2://V2RayyNGvpn@168.222.43.35:443?security=tls&obfs=salamander&obfs-password=V2RayyNGvpn&insecure=0&pinSHA256=8b5ac8eb1c23f208cb6e92bd41407d32994b0668d3ba2b0cd56400dca8c0b843&sni=Play.google.com#Kp5LPkgs
 
-hysteria2://V2RayyNGvpn@168.222.43.35:443?security=tls&obfs=salamander&obfs-password=V2RayyNGvpn&insecure=0&pinSHA256=8b5ac8eb1c23f208cb6e92bd41407d32994b0668d3ba2b0cd56400dca8c0b843&sni=Play.google.com#WDMVGY41
+hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=ru1.sferavpn.pro#1ua6kYr0
 
-hysteria2://V2RayyNGvpn@168.222.43.35:443?security=tls&obfs=salamander&obfs-password=V2RayyNGvpn&insecure=0&pinSHA256=8b5ac8eb1c23f208cb6e92bd41407d32994b0668d3ba2b0cd56400dca8c0b843&sni=Play.google.com#Y0vIXWpL
+hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=de1.sferavpn.pro#iKNFdkXm
 
-hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=ru1.sferavpn.pro#ym10YQXv
+hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=de1.sferavpn.pro#vbAApoG4
 
-hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=de1.sferavpn.pro#yteCUMM1
+hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=de1.sferavpn.pro#kVhK3GvE
 
-hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=de1.sferavpn.pro#ynPlalvQ
+hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=de1.sferavpn.pro#qtvzSebu
 
-hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=de1.sferavpn.pro#oz7hBB3d
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6UElTdnJ4NEVKaXV1UGlNS2xTUDZDVXc4aHByMVFQY3R0KzVTTkt0TDB1cz0@130.61.114.98:59924#O2lSCDi2
 
-hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=de1.sferavpn.pro#8aJOtQ0F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6bkV0amdITFhINEZCTGlj@74.234.59.81:443#O2BbJiGt
 
-hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=de1.sferavpn.pro#PGGlgbPd
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6bkV0amdITFhINEZCTGlj@74.234.59.81:443#h5mrWrmi
 
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206V0FxZUdBK2RVK0haWVNpcENpbytKbXQ3U1NWZkhqd01IN2o4eG1zbTcvcz06YWx0aGRkWjI3aXUyNjFJKzU2OHBrN0haekJGREN5SXg2cHZHOEg5b1hvdz0@web.turbooserver.net.tr:2087#F5cLti1t
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRRQHNlcmllcy1hMi1tZS52YXJ6ZXNoMzYwLmNvOjQ0Mw==#qaCxkgdt
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#Cd5EJtms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTW5vdGN2NFJkYUVPQlhULUxkdGZB@p1tun2.greewebservices.ir:2060#vfblUmCl
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWGEzeWx6U19qQk9Bc1F5MDcxdElR@94.249.187.46:1080#P8WO8ZpK
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTW5vdGN2NFJkYUVPQlhULUxkdGZB@p1tun2.greewebservices.ir:2060#d0xCkj35
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTW5vdGN2NFJkYUVPQlhULUxkdGZB@p1tun2.greewebservices.ir:2060#SFSjiRUe
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTW5vdGN2NFJkYUVPQlhULUxkdGZB@p1tun2.greewebservices.ir:2060#fZlz8MeF
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoRi1xcWluMndZaFA3elM0N1N5UjBR@62.113.41.165:888#QcjwvWe9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVnZnUDBCejY5aHNFclBCdnFLYndR@p1tun2.greewebservices.ir:2060#1Q0n2X7j
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoRi1xcWluMndZaFA3elM0N1N5UjBR@62.113.41.165:888#gUJi4frH
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoRi1xcWluMndZaFA3elM0N1N5UjBR@62.113.41.165:888#pVOXJ9T3
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#AT3sOgbp
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoRi1xcWluMndZaFA3elM0N1N5UjBR@62.113.41.165:888#2EEF2Z46
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:8080#Q8AtlvJd
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1ZnQHNlcmllcy1hMi5zYW1hbmVoaGEuY286NDQz#5jt0tRAu
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#ZKfkCfbK
+ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyY0BzZXJpZXMtYTItbWVjLnNhbWFuZWhoYS5jbzo0NDM=#ML59kIPy
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyU2VZY2lnX1hCeThxM2szM05wSzNB@94.249.187.46:1080#AzCwCba0
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAzOC4xMTAuMS4xMTE6ODAwMA==#ueGZg8eU
 
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#vGlHV0Zd
+ss://YWVzLTI1Ni1nY206cFgwdWhVM1pqVWNMV1lzMFZlejU1Qk8zSm9RclJsTA@141.227.134.63:17000#ZFgAmdtM
 
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.24.73:443#W1xzOupM
+ss://YWVzLTI1Ni1nY206cFgwdWhVM1pqVWNMV1lzMFZlejU1Qk8zSm9RclJsTA@141.227.134.63:17000#srlDKBKY
 
-ss://YWVzLTI1Ni1nY206TFhjaExzSXd0Q2VVQVVndQ@149.102.149.207:443#Dhlzr1HZ
+trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#eyyghwOR
 
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@82.110.60.9:19999#CsZn5oIq
+trojan://MITIVpN@151.101.56.7:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FD-e2%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-22e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#RGBsfR5v
 
-ss://YWVzLTI1Ni1nY206cFgwdWhVM1pqVWNMV1lzMFZlejU1Qk8zSm9RclJsTA@143.110.161.156:17000#5qjG1VUE
+trojan://MITIVpN@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-44e.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#3JLiGduU
 
-trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#NKLRk3h1
+trojan://MITIVpN@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-44e.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#wv9On4JS
 
-trojan://LcICDcp%21jD9TFV%24NbH@dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev:443?path=%2Ftr%2Fpg4wM48V9O859nmqsJg22EOFKN4S570y&security=tls&alpn=http%2F1.1&insecure=0&host=dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev&type=ws&allowInsecure=0&sni=dl2uF-iVdeZILZ3E86rK18.Hhvt37tjm2XBOsQL5HXogN-Y.woRKERS.dEv#YyIQvjlS
+trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#va7xzLAr
 
-trojan://MITIVpN@151.101.56.7:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FD-e2%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-22e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#jzTWV6aX
+trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#hgAnVI8R
 
-trojan://MITIVpN@151.101.56.7:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FD-e2%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-22e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#S0Rk43UF
+trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#1eNcXKEr
 
-trojan://MITIVpN@151.101.56.7:443?security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-22e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#wNfcZv4j
+trojan://humanity@188.114.97.6:443?path=%2F%2Fassignment&security=tls&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=www.ignitelimit.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.ignitelimit.com#APO37dAk
 
-trojan://MITIVpN@151.101.56.90:443?path=%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2FNLSs---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-66e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#29vqhOlh
+trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#j9eKB7ji
 
-trojan://MITIVpN@167.82.76.7:443?path=%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2FNLSs---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-33e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#sr7lhtnB
+trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#eKaLVvLw
 
-trojan://MITIVpN@199.232.78.101:443?security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#sSRFCyU8
+trojan://humanity@www.speedtest.net:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#oF8nBa1E
 
-trojan://MITIVpN@199.232.78.160:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FD-e1i%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-44e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#CbP2e6Id
+trojan://mitivpn@151.101.56.56:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-66e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#SRgyvwlM
 
-trojan://MiTIVPN@151.101.56.7:443?security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-22e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#fb36YcEw
+trojan://mitivpn@151.101.56.7:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FD-e2%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-22e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#d416Ot90
 
-trojan://Telegram_healer_config@104.21.76.194:443?path=%2Ftr%2FnDuppKYyUqsEcG0rcQEg5sghG0%3Fed&security=tls&alpn=http%2F1.1&insecure=0&host=x8xus4x7utzmdozv2.bzuh25lzinnetwtocxyicx.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=X8xus4X7UTZMDozv2.bZuH25LZINNeTwTOcXYIcx.WORkERs.deV#aMd343uu
+trojan://mitivpn@167.82.76.7:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-33e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#sy2LmJUi
 
-trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#6Tk7gUIO
+trojan://mitivpn@199.232.78.160:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FD-e1i%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-44e.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#WbBTUBxE
 
-trojan://humanity@104.16.72.2:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#SGdIrxfR
+vless://1085e832-6111-419a-8aa8-12a3c976a6ef@65.109.176.235:443?path=%2Ffarasati1&security=reality&encryption=none&pbk=as04WkYoj-P4vEjJFXB3LeA_Rkt7Ud4pV2oTZ3bZwQg&fp=chrome&type=xhttp&sni=www.wikipedia.org&sid=1c213fd68e13#POsz54d0
 
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#MxL3oeCY
+vless://2415cbdc-e5fc-453e-91ad-0e2e532afb7c@de4.niekotin.de:80?path=/vless&security=none&encryption=none&host=de4.niekotin.de&type=ws#msWNSGNw
 
-trojan://mitivpn@151.101.56.7:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FD-e2%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-22e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#E1Vd9r4l
+vless://371fa59f-e622-4776-af66-7f72c84f2dce@awyzanqll7kfs94ni7jxph1mddr5czvc.tulfexa.ir:443?security=reality&encryption=none&pbk=bdtDRp63jl4nMZRPN2wNlKJ6Yt77SF1uSrfkQ8NBKks&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=02bc0ad45ea31451#8NTz9rVt
 
-vless://1e078c17-3a93-462d-9fce-9276609e29e2@185.238.191.109:443?security=reality&encryption=none&pbk=bg_o5_i-5MSy-t3CB3iyqIeI8Uqyy_wTP2kheJCXngg&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=de3.global-cdn.org&sid=f7d0420b8ab26060#eDqM9FMk
+vless://371fa59f-e622-4776-af66-7f72c84f2dce@whvdqyt42pbmp4uf69z00li7uj8vwt8u.fate-rehan.ir:443?security=reality&encryption=none&pbk=bdtDRp63jl4nMZRPN2wNlKJ6Yt77SF1uSrfkQ8NBKks&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=02bc0ad45ea31451#BYJU6uDQ
 
-vless://1fac5e18-2ca8-4626-c299-1f3f21c6b55e@k2.cloud--vpn.site:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#sqHoDJrd
+vless://63aaea7f-2847-4f41-afab-0836b1cf79d9@me1.movieseryalirani.ir:443?security=reality&encryption=none&pbk=CxRZ7oJWwR7okmOoqEEbVYCSfTaBlNA6ycf_UniyeEk&headerType=none&fp=firefox&type=tcp&sni=matrix-client.matrix.org&sid=8d814a#467etDwz
 
-vless://2415cbdc-e5fc-453e-91ad-0e2e532afb7c@de4.niekotin.de:80?path=/vless&security=none&encryption=none&host=de4.niekotin.de&type=ws#E69WBwmA
+vless://71091100-c6ed-41fa-84ac-acf7ff9eeb7f@slowkd.sadiepinki.com:443?security=reality&encryption=none&pbk=z37XIezsPyfMgmdXyFd9qT4C4maDAs1OcRt-wfyrXVo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=slowkd.sadiepinki.com&sid=9c2378562188c3cb#lTmpJNBj
 
-vless://588152b9-2452-4495-be14-4b44eae3aa1f@5dccc2ba02c049e8.us-1.globalmymusic.com:443?security=reality&encryption=mlkem768x25519plus.random.0rtt.100-111-1111.75-0-111.50-0-3333.ujGwPjrSYI7GdKHFCqCefmLjOscWkoX4m_3s_1yZrEo&pbk=lsDSttIgw1roTVhNzcliywH74lXtRShbmMOoxUjQtkw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=thestraightpath.ca&sid=b684d13617792bb2#txgFOGrp
+vless://721bacfe-ff09-4e63-a735-686015bc1351@nl-xh02.tcp-reset-club.net:8443?mode=stream-one&path=%2Fassets%2Fv2%2Fpkg&security=reality&encryption=none&extra=%7B%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%7D%7D&pbk=Gu_QdtOX6E8pZcYvDWgHKA5dxcit7hrpU27sizCEWXg&type=xhttp&sni=s3.netavex.com&sid=e0#Llv2jGhZ
 
-vless://588152b9-2452-4495-be14-4b44eae3aa1f@9a2a6a9663a1d454.fn-1.globalmymusic.com:443?security=reality&encryption=mlkem768x25519plus.random.0rtt.100-111-1111.75-0-111.50-0-3333.ujGwPjrSYI7GdKHFCqCefmLjOscWkoX4m_3s_1yZrEo&pbk=lsDSttIgw1roTVhNzcliywH74lXtRShbmMOoxUjQtkw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nr6.nl&sid=b684d13617792bb2#FoK0chl2
+vless://7cde4592-4758-415f-8b97-c188faa4d1c9@188.225.25.142:443?security=reality&encryption=none&pbk=SxbaWzlvE_HQqqsA4PNX2PFcSYXTVE2nZlgLc7cPOgk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=prime.betust.net&sid=8681edc9#1QVOZbFt
 
-vless://72e69627-2463-4607-88d9-0b2fa9539f32@179.254.109.174:443?security=reality&encryption=none&pbk=u9_Ta0DYmqruY94DwuZv4g_gnvY1xGMF1iT1SdV3cT8&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=news.samsung.com&sid=d3a09fd1#Ij5ngvyw
+vless://7cde4592-4758-415f-8b97-c188faa4d1c9@188.225.58.238:443?security=reality&encryption=none&pbk=laDuxd6kFSPv2nWTy9LUjMGVRZM949R82alkZpMAqlk&host=Telegram%F0%9F%91%89%40v2rayNG_Matsuri&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=app5.betust.net&sid=e84029c5#zNXheS0D
 
-vless://98926dce-3e74-440b-badd-8978d56c6723@167.233.32.53:6667?security=none&encryption=mlkem768x25519plus.native.0rtt.ZXgIKO9OgZBabbk3s73EeYRwW13dp_jRHY0e6Wh12DI&headerType=none&type=tcp#hZo5YwPM
+vless://8e1a5f40-f3ad-41da-96b6-f6d0f0d95f55@132.243.231.120:443?path=%2Fapi&security=reality&encryption=none&pbk=NoLIbCssob6T9HvprXBoNoYsZyDN650OViyAMePwp1c&fp=chrome&spx=%2F&type=xhttp&sni=addons.mozilla.org&sid=54cd1667f48828f9#vKntetxD
 
-vless://9f44d517-29f2-4c6d-cc06-a1268f13da58@188.114.97.6:443?mode=auto&path=%2FMeh%3Fdi%3D443&security=tls&alpn=h2&encryption=none&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=kala.bestsellers1.site&type=xhttp&allowInsecure=0&sni=kala.bestsellers1.site#7mf6fLW2
+vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@files.noneok.com:443?mode=gun&security=reality&encryption=none&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&fp=firefox&type=grpc&serviceName=api.v1.StreamService&sni=files.noneok.com&sid=d3b394558cfe0266#8dERNq8N
 
-vless://9f44d517-29f2-4c6d-cc06-a1268f13da58@host.taghvimtime.ir:8443?mode=auto&path=%2FMeh%3Fdi%3D443&security=tls&alpn=h2&encryption=none&extra=%7B%22scMaxBufferedPosts%22%3A30%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scStreamUpServerSecs%22%3A%2220-80%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22cMaxReuseTimes%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&insecure=0&host=host.taghvimtime.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=host.taghvimtime.ir#7LfXgkns
+vless://dac0bd30-008f-42c9-b377-bfc0dcfa6f0b@212.46.33.90:443?security=reality&encryption=none&pbk=z37XIezsPyfMgmdXyFd9qT4C4maDAs1OcRt-wfyrXVo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=slowkd.sadiepinki.com&sid=9c2378562188c3cb#0uoTu5Dd
 
-vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.88:443?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&fp=firefox&type=grpc&serviceName=api.v1.StreamService&sni=files.noneok.com&sid=d3b394558cfe0266#kiJH0mrM
+vless://ff6d2dda-7b90-404e-9951-34b3124bfdfa@193.56.135.233:9543?security=reality&encryption=none&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=123abcde#XiWwc2Tz
 
-vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@api.noneok.com:443?mode=gun&security=reality&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&pbk=S8O8R938N960cpQfIIDXsJTxeGAkbVv6PlIqP0-d30w&type=grpc&serviceName=api.v1.StreamService&sni=api.noneok.com&sid=1ea59febb8d4fc8e#xIJXvBmS
+vless://ff6d2dda-7b90-404e-9951-34b3124bfdfa@193.56.135.233:9543?security=reality&encryption=none&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=123abcde#v8MddIZr
 
-vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@files.noneok.com:443?mode=gun&security=reality&encryption=none&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&fp=firefox&type=grpc&serviceName=api.v1.StreamService&sni=files.noneok.com&sid=d3b394558cfe0266#Am53lMzh
-
-vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@files.noneok.com:443?mode=gun&security=reality&encryption=none&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&fp=firefox&type=grpc&serviceName=api.v1.StreamService&sni=files.noneok.com&sid=d3b394558cfe0266#8mCn7sQG
-
-vless://b5d6221d-e3ad-4453-b5c6-8bf7ccaa7aa5@144.31.159.86:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&fp=safari&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=de3.duck-proxy.com#O0xg7v5W
-
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&security=none&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws#bIHJNhyl
+vless://ff6d2dda-7b90-404e-9951-34b3124bfdfa@2.26.11.234:9543?security=reality&encryption=none&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=123abcdf#tla9KhG6
 
